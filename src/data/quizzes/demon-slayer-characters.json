@@ -1,0 +1,99 @@
+{
+  "id": "demon-slayer-characters",
+  "title": "Character Deep Dive",
+  "description": "How well do you know the backstories and details?",
+  "icon": "people",
+  "category": "demon-slayer",
+  "coverColor": "#E91E63",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Zenitsu's greatest fear?",
+      "options": [
+        { "id": "a", "text": "Demons", "isCorrect": false },
+        { "id": "b", "text": "Thunder", "isCorrect": true },
+        { "id": "c", "text": "Heights", "isCorrect": false },
+        { "id": "d", "text": "Water", "isCorrect": false }
+      ],
+      "explanation": "Despite using Thunder Breathing, Zenitsu is terrified of thunder and lightning! The irony is intentional.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Tanjiro has an exceptionally powerful sense of smell.",
+      "correctAnswer": true,
+      "explanation": "Tanjiro can smell emotions, track demons, and even sense the 'opening thread' that reveals an enemy's weakness!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Why does Inosuke always want to fight strong opponents?",
+      "options": [
+        { "id": "a", "text": "To become famous", "isCorrect": false },
+        { "id": "b", "text": "To prove he's the strongest", "isCorrect": true },
+        { "id": "c", "text": "To impress a girl", "isCorrect": false },
+        { "id": "d", "text": "To get money", "isCorrect": false }
+      ],
+      "explanation": "Inosuke is obsessed with being the strongest and constantly seeks to prove himself in battle!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is Genya Shinazugawa's brother?",
+      "options": [
+        { "id": "a", "text": "Giyu Tomioka", "isCorrect": false },
+        { "id": "b", "text": "Sanemi Shinazugawa", "isCorrect": true },
+        { "id": "c", "text": "Muichiro Tokito", "isCorrect": false },
+        { "id": "d", "text": "Tengen Uzui", "isCorrect": false }
+      ],
+      "explanation": "Genya is Sanemi's younger brother. Their relationship is strained due to tragic family events involving their demon mother.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Yoriichi Tsugikuni was born with the Demon Slayer Mark.",
+      "correctAnswer": true,
+      "explanation": "Yoriichi was born with his mark, unlike others who must awaken it. He's the strongest demon slayer in history!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What makes Mitsuri Kanroji's muscles special?",
+      "options": [
+        { "id": "a", "text": "They're made of steel", "isCorrect": false },
+        { "id": "b", "text": "They're 8 times denser than normal", "isCorrect": true },
+        { "id": "c", "text": "They can regenerate", "isCorrect": false },
+        { "id": "d", "text": "They don't need oxygen", "isCorrect": false }
+      ],
+      "explanation": "Mitsuri has a unique muscle composition that's 8x denser than average, giving her superhuman flexibility and strength!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What did Rengoku's father used to be?",
+      "options": [
+        { "id": "a", "text": "A demon", "isCorrect": false },
+        { "id": "b", "text": "The Flame Hashira", "isCorrect": true },
+        { "id": "c", "text": "A swordsmith", "isCorrect": false },
+        { "id": "d", "text": "Muzan's ally", "isCorrect": false }
+      ],
+      "explanation": "Shinjuro Rengoku was the former Flame Hashira who gave up fighting after learning about Sun Breathing's superiority.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Muichiro Tokito and Yuichiro Tokito are twin brothers.",
+      "correctAnswer": true,
+      "explanation": "Muichiro had a twin brother Yuichiro who was killed by a demon, which triggered Muichiro's awakening as a swordsman.",
+      "points": 10
+    }
+  ]
+}

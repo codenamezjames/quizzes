@@ -1,0 +1,99 @@
+{
+  "id": "kpdh-dreamcatcher",
+  "title": "Hunter Units & Roles",
+  "description": "Learn about the elite hunter squads and their specialties!",
+  "icon": "groups",
+  "category": "kpop-demon-hunters",
+  "coverColor": "#6C3483",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the combat role of the 'Main Vocal' position?",
+      "options": [
+        { "id": "a", "text": "Tank/Shield", "isCorrect": false },
+        { "id": "b", "text": "Healer/Support", "isCorrect": true },
+        { "id": "c", "text": "DPS/Damage", "isCorrect": false },
+        { "id": "d", "text": "Scout/Recon", "isCorrect": false }
+      ],
+      "explanation": "Main Vocals use their voice to heal wounds and cleanse curses. Their sustained notes create healing auras for the entire unit!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The 'Center' position is responsible for coordinating unit formations during combat.",
+      "correctAnswer": true,
+      "explanation": "Centers act as the tactical core - their position in choreography isn't just for looks, it's optimal for directing battle formations!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What weapon type do 'Main Dancers' typically wield?",
+      "options": [
+        { "id": "a", "text": "Ranged weapons", "isCorrect": false },
+        { "id": "b", "text": "Close-combat bladed weapons", "isCorrect": true },
+        { "id": "c", "text": "Heavy weapons", "isCorrect": false },
+        { "id": "d", "text": "No weapons", "isCorrect": false }
+      ],
+      "explanation": "Main Dancers are melee specialists - their precise body control translates to deadly sword and blade techniques!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which unit specialization handles dream-realm demons?",
+      "options": [
+        { "id": "a", "text": "Daybreak Unit", "isCorrect": false },
+        { "id": "b", "text": "Nightmare Division", "isCorrect": true },
+        { "id": "c", "text": "Sunlight Squad", "isCorrect": false },
+        { "id": "d", "text": "Reality Team", "isCorrect": false }
+      ],
+      "explanation": "The Nightmare Division specializes in entering dreams to fight demons that attack sleeping victims. Their concept? Dark and haunting, of course!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Rappers use their fast lyrics to cast rapid-fire spell attacks.",
+      "correctAnswer": true,
+      "explanation": "Rapper positions are essentially combat mages - their fast flows allow them to cast multiple spells in quick succession!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is a 'Sub-Unit' in KPDH?",
+      "options": [
+        { "id": "a", "text": "Trainee hunters", "isCorrect": false },
+        { "id": "b", "text": "A specialized strike team from a main unit", "isCorrect": true },
+        { "id": "c", "text": "Support staff", "isCorrect": false },
+        { "id": "d", "text": "Retired hunters", "isCorrect": false }
+      ],
+      "explanation": "Sub-Units are specialized teams formed from main units for specific mission types - stealth ops, heavy assault, etc.!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What happens when a unit achieves 'Perfect All-Kill'?",
+      "options": [
+        { "id": "a", "text": "They defeat a boss demon", "isCorrect": false },
+        { "id": "b", "text": "Maximum fan energy synchronization", "isCorrect": true },
+        { "id": "c", "text": "All members level up", "isCorrect": false },
+        { "id": "d", "text": "They graduate from KPDH", "isCorrect": false }
+      ],
+      "explanation": "A Perfect All-Kill means the unit has achieved perfect synchronization with fan energy across all metrics - their power multiplies exponentially!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Solo hunters are considered more powerful than unit hunters.",
+      "correctAnswer": false,
+      "explanation": "Units are stronger because synchronized performances multiply power. Solo hunters are skilled but lack the exponential boost of unit synchronization!",
+      "points": 10
+    }
+  ]
+}

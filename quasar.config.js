@@ -44,7 +44,8 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      // For GitHub Pages deployment - uses repo name as base path
+      publicPath: process.env.GITHUB_PAGES ? '/quizzes/' : '/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
@@ -91,7 +92,7 @@ export default defineConfig((/* ctx */) => {
       // directives: [],
 
       // Quasar plugins
-      plugins: [],
+      plugins: ['Dialog', 'Notify'],
     },
 
     // https://v2.quasar.dev/options/animations

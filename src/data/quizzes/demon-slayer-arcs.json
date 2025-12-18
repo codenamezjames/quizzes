@@ -1,0 +1,99 @@
+{
+  "id": "demon-slayer-arcs",
+  "title": "Story Arcs & Events",
+  "description": "Test your memory of the epic Demon Slayer storyline!",
+  "icon": "menu_book",
+  "category": "demon-slayer",
+  "coverColor": "#1ABC9C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Where does Tanjiro meet Zenitsu and Inosuke for the first time?",
+      "options": [
+        { "id": "a", "text": "Final Selection", "isCorrect": false },
+        { "id": "b", "text": "Tsuzumi Mansion", "isCorrect": true },
+        { "id": "c", "text": "Butterfly Mansion", "isCorrect": false },
+        { "id": "d", "text": "Mugen Train", "isCorrect": false }
+      ],
+      "explanation": "The trio first meets at the Tsuzumi Mansion arc, where they fight the demon Kyogai together!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Entertainment District Arc takes place in Yoshiwara.",
+      "correctAnswer": true,
+      "explanation": "The Entertainment District Arc is set in Yoshiwara, where Tengen Uzui and the boys battle Daki and Gyutaro!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Which demon did Tanjiro fight during the Mugen Train Arc?",
+      "options": [
+        { "id": "a", "text": "Rui", "isCorrect": false },
+        { "id": "b", "text": "Enmu", "isCorrect": true },
+        { "id": "c", "text": "Akaza", "isCorrect": false },
+        { "id": "d", "text": "Daki", "isCorrect": false }
+      ],
+      "explanation": "Enmu (Lower Moon One) was the main demon on the Mugen Train who could manipulate dreams!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What happens at the Swordsmith Village?",
+      "options": [
+        { "id": "a", "text": "Tanjiro gets a new sword and fights Upper Moons 4 and 5", "isCorrect": true },
+        { "id": "b", "text": "Nezuko becomes human", "isCorrect": false },
+        { "id": "c", "text": "Muzan is defeated", "isCorrect": false },
+        { "id": "d", "text": "The Hashira training begins", "isCorrect": false }
+      ],
+      "explanation": "In the Swordsmith Village Arc, Tanjiro fights Hantengu (Upper Moon 4) and Gyokko (Upper Moon 5) while protecting the swordsmiths!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Nezuko conquers the sun during the Swordsmith Village Arc.",
+      "correctAnswer": true,
+      "explanation": "At the end of the Swordsmith Village Arc, Nezuko gains the ability to walk in sunlight, becoming the first demon to do so!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Where is the final battle against Muzan fought?",
+      "options": [
+        { "id": "a", "text": "The Infinity Castle", "isCorrect": false },
+        { "id": "b", "text": "The streets of Tokyo", "isCorrect": true },
+        { "id": "c", "text": "Mount Fuji", "isCorrect": false },
+        { "id": "d", "text": "The Demon Slayer headquarters", "isCorrect": false }
+      ],
+      "explanation": "After escaping the Infinity Castle, the final battle against Muzan takes place in the streets of the city until sunrise!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the Hashira Training Arc about?",
+      "options": [
+        { "id": "a", "text": "New Hashira are selected", "isCorrect": false },
+        { "id": "b", "text": "All Demon Slayers train with each Hashira", "isCorrect": true },
+        { "id": "c", "text": "Hashira fight each other", "isCorrect": false },
+        { "id": "d", "text": "Hashira retire from service", "isCorrect": false }
+      ],
+      "explanation": "The Hashira Training Arc involves all corps members training under each Hashira to prepare for the final battle!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Infinity Castle is controlled by a demon named Nakime using a biwa.",
+      "correctAnswer": true,
+      "explanation": "Nakime (who becomes Upper Moon 4) controls the Infinity Castle's shifting rooms by playing her biwa!",
+      "points": 10
+    }
+  ]
+}

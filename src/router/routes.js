@@ -13,6 +13,11 @@ const routes = [
         name: 'quiz-select',
         component: () => import('pages/QuizSelectPage.vue'),
       },
+      {
+        path: 'categories/:categorySlug',
+        name: 'category',
+        component: () => import('pages/CategoryPage.vue'),
+      },
     ],
   },
   {

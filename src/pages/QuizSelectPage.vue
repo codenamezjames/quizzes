@@ -1,17 +1,25 @@
 <template>
   <q-page class="quiz-select-page">
     <div class="page-header">
-      <h1 class="page-title">Choose Your Quiz!</h1>
+      <q-btn
+        flat
+        round
+        icon="arrow_back"
+        color="white"
+        class="back-btn"
+        @click="$router.push({ name: 'home' })"
+      />
+
+      <h1 class="page-title">Choose a Category!</h1>
       <p class="page-subtitle">Pick a topic and test your knowledge</p>
     </div>
 
-    <div class="quiz-grid">
-      <QuizCard
-        v-for="quiz in quizzes"
-        :key="quiz.id"
-        :quiz="quiz"
-        :progress="progressStore.getQuizProgress(quiz.id)"
-        @select="startQuiz"
+    <div class="category-grid">
+      <CategoryCard
+        v-for="category in categories"
+        :key="category.slug"
+        :category="category"
+        @select="goToCategory"
       />
     </div>
 
@@ -23,30 +31,45 @@
 </template>
 
 <script setup>
+import { onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import { useQuizLoader } from 'src/composables/useQuizLoader'
+import { getCategories } from 'src/data/quizzes'
 import { useUserProgressStore } from 'src/stores/user-progress-store'
-import QuizCard from 'src/components/quiz/QuizCard.vue'
+import CategoryCard from 'src/components/quiz/CategoryCard.vue'
 
 const router = useRouter()
-const { quizzes } = useQuizLoader()
 const progressStore = useUserProgressStore()
 
-function startQuiz(quizId) {
-  router.push({ name: 'quiz-play', params: { quizId } })
+const categories = getCategories()
+
+onMounted(() => {
+  progressStore.loadFromLocalStorage()
+})
+
+function goToCategory(categorySlug) {
+  router.push({ name: 'category', params: { categorySlug } })
 }
 </script>
 
 <style lang="scss" scoped>
 .quiz-select-page {
-  padding: 40px 20px;
+  padding: 20px;
   min-height: 100vh;
   background: linear-gradient(135deg, #9b59b6, #ff69b4);
 }
 
 .page-header {
+  position: relative;
   text-align: center;
   margin-bottom: 40px;
+  padding-top: 20px;
+}
+
+.back-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.2);
 }
 
 .page-title {
@@ -63,7 +86,7 @@ function startQuiz(quizId) {
   margin: 0;
 }
 
-.quiz-grid {
+.category-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 24px;
@@ -86,5 +109,11 @@ function startQuiz(quizId) {
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+}
+
+@media (max-width: 600px) {
+  .page-title {
+    font-size: 2rem;
+  }
 }
 </style>

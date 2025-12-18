@@ -1,0 +1,99 @@
+{
+  "id": "frieren-magic",
+  "title": "Magic & Spells",
+  "description": "Explore the magical world of Frieren!",
+  "icon": "bolt",
+  "category": "frieren",
+  "coverColor": "#9B59B6",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Frieren's signature offensive spell?",
+      "options": [
+        { "id": "a", "text": "Zoltraak (offensive magic)", "isCorrect": true },
+        { "id": "b", "text": "Judradjim (lightning)", "isCorrect": false },
+        { "id": "c", "text": "Vollzanbel (hellfire)", "isCorrect": false },
+        { "id": "d", "text": "Doragate (tornado)", "isCorrect": false }
+      ],
+      "explanation": "Zoltraak is Frieren's main attack spell - once a demon's ultimate spell, now common due to human mages analyzing and replicating it!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Frieren can suppress her mana to appear weaker than she is.",
+      "correctAnswer": true,
+      "explanation": "Flamme taught Frieren to constantly suppress her mana, making her appear much weaker - a technique she's used for over 1000 years!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What type of spell does Frieren collect that others consider useless?",
+      "options": [
+        { "id": "a", "text": "Combat spells", "isCorrect": false },
+        { "id": "b", "text": "Folk magic and trivial spells", "isCorrect": true },
+        { "id": "c", "text": "Healing spells", "isCorrect": false },
+        { "id": "d", "text": "Barrier spells", "isCorrect": false }
+      ],
+      "explanation": "Frieren loves collecting 'useless' spells like making flowers bloom, creating sweet grapes, or cleaning clothes - finding joy in the mundane!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "How do demons primarily use magic differently from humans?",
+      "options": [
+        { "id": "a", "text": "They use blood magic", "isCorrect": false },
+        { "id": "b", "text": "They speak in the demon language to cast", "isCorrect": true },
+        { "id": "c", "text": "They don't use magic at all", "isCorrect": false },
+        { "id": "d", "text": "They steal human mana", "isCorrect": false }
+      ],
+      "explanation": "Demons cast magic through the demon language, using words as power - which is why they're vulnerable when humans learn their spells!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Serie knows almost every spell in existence.",
+      "correctAnswer": true,
+      "explanation": "Serie has lived for thousands of years and collected nearly every spell known to exist - she can grant any spell to those she deems worthy!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What spell did Flamme specialize in that helped defeat many demons?",
+      "options": [
+        { "id": "a", "text": "Fire magic", "isCorrect": false },
+        { "id": "b", "text": "Spell to see through illusions", "isCorrect": true },
+        { "id": "c", "text": "Teleportation", "isCorrect": false },
+        { "id": "d", "text": "Time magic", "isCorrect": false }
+      ],
+      "explanation": "Flamme created a spell to see through demons' glamour and illusions, which she passed to Frieren - crucial for fighting demons!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What determines a mage's power in Frieren's world?",
+      "options": [
+        { "id": "a", "text": "Physical strength", "isCorrect": false },
+        { "id": "b", "text": "Mana capacity and control", "isCorrect": true },
+        { "id": "c", "text": "Age", "isCorrect": false },
+        { "id": "d", "text": "Bloodline", "isCorrect": false }
+      ],
+      "explanation": "A mage's power is determined by their mana pool and how efficiently they can control it - which is why hiding mana is so effective!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Fern is exceptionally talented at suppressing her mana like Frieren.",
+      "correctAnswer": true,
+      "explanation": "Fern inherited Frieren's teaching on mana suppression and is incredibly talented at it - even surprising Frieren with her control!",
+      "points": 10
+    }
+  ]
+}

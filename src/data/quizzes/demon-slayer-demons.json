@@ -1,0 +1,99 @@
+{
+  "id": "demon-slayer-demons",
+  "title": "Demons & Upper Moons",
+  "description": "How well do you know the Twelve Kizuki and other demons?",
+  "icon": "nights_stay",
+  "category": "demon-slayer",
+  "coverColor": "#8E44AD",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is Upper Moon Two?",
+      "options": [
+        { "id": "a", "text": "Akaza", "isCorrect": false },
+        { "id": "b", "text": "Doma", "isCorrect": true },
+        { "id": "c", "text": "Kokushibo", "isCorrect": false },
+        { "id": "d", "text": "Hantengu", "isCorrect": false }
+      ],
+      "explanation": "Doma is Upper Moon Two, the leader of a cult who feeds on his followers. He killed Shinobu's sister Kanae!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Akaza refuses to eat or kill women.",
+      "correctAnswer": true,
+      "explanation": "Akaza has a personal code against harming women, stemming from his tragic human past and his love for his sick fiancée.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is special about Kokushibo (Upper Moon One)?",
+      "options": [
+        { "id": "a", "text": "He was Muzan's first demon", "isCorrect": false },
+        { "id": "b", "text": "He was a former Demon Slayer and Hashira", "isCorrect": true },
+        { "id": "c", "text": "He can walk in sunlight", "isCorrect": false },
+        { "id": "d", "text": "He's Muzan's brother", "isCorrect": false }
+      ],
+      "explanation": "Kokushibo was Michikatsu Tsugikuni, a demon slayer and the twin brother of Yoriichi, the creator of Sun Breathing!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Upper Moon demon can split into multiple bodies with different emotions?",
+      "options": [
+        { "id": "a", "text": "Gyokko", "isCorrect": false },
+        { "id": "b", "text": "Nakime", "isCorrect": false },
+        { "id": "c", "text": "Hantengu", "isCorrect": true },
+        { "id": "d", "text": "Daki", "isCorrect": false }
+      ],
+      "explanation": "Hantengu (Upper Moon Four) splits into clones representing emotions: Sekido (anger), Karaku (pleasure), Aizetsu (sorrow), and Urogi (joy)!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Daki and Gyutaro share the position of Upper Moon Six.",
+      "correctAnswer": true,
+      "explanation": "The siblings Daki and Gyutaro share Upper Moon Six. Gyutaro is the true holder of the rank while Daki hosts his eye!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which demon killed Rengoku?",
+      "options": [
+        { "id": "a", "text": "Doma", "isCorrect": false },
+        { "id": "b", "text": "Kokushibo", "isCorrect": false },
+        { "id": "c", "text": "Akaza", "isCorrect": true },
+        { "id": "d", "text": "Muzan", "isCorrect": false }
+      ],
+      "explanation": "Akaza (Upper Moon Three) killed Rengoku on the Mugen Train after a fierce battle, though Rengoku nearly killed him too!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Tamayo?",
+      "options": [
+        { "id": "a", "text": "A Hashira", "isCorrect": false },
+        { "id": "b", "text": "A demon who helps Tanjiro", "isCorrect": true },
+        { "id": "c", "text": "Muzan's servant", "isCorrect": false },
+        { "id": "d", "text": "Nezuko's mother", "isCorrect": false }
+      ],
+      "explanation": "Tamayo is a demon doctor who broke free from Muzan's control and works to develop a cure for demonification!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Lower Moon demons were all killed by Muzan because he was disappointed in them.",
+      "correctAnswer": true,
+      "explanation": "After Rui (Lower Moon Five) was killed, Muzan summoned all Lower Moons and killed most of them for being too weak!",
+      "points": 10
+    }
+  ]
+}

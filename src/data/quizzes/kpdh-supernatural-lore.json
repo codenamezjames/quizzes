@@ -1,0 +1,99 @@
+{
+  "id": "kpdh-supernatural-lore",
+  "title": "KPDH History & Legends",
+  "description": "The secret history of K-Pop demon hunting!",
+  "icon": "auto_stories",
+  "category": "kpop-demon-hunters",
+  "coverColor": "#16A085",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who was the legendary 'First Generation' hunter known as the 'Demon Queen'?",
+      "options": [
+        { "id": "a", "text": "A solo vocalist who defeated 1000 demons", "isCorrect": true },
+        { "id": "b", "text": "A dancer who invented choreography combat", "isCorrect": false },
+        { "id": "c", "text": "A rapper who sealed the Hell Gate", "isCorrect": false },
+        { "id": "d", "text": "A producer who created enchanted music", "isCorrect": false }
+      ],
+      "explanation": "The 'Demon Queen' was a first-gen solo hunter whose voice could paralyze demons. She's now a KPDH elder and trainer!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The 'Hallyu Wave' was actually a massive supernatural barrier that protected Asia from demons.",
+      "correctAnswer": true,
+      "explanation": "The global spread of K-Pop created a wave of protective fan energy that now shields much of the world from demon incursions!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What was the 'Dark Era' in KPDH history?",
+      "options": [
+        { "id": "a", "text": "When demons infiltrated the music industry", "isCorrect": true },
+        { "id": "b", "text": "A period of no new recruits", "isCorrect": false },
+        { "id": "c", "text": "When KPDH lost funding", "isCorrect": false },
+        { "id": "d", "text": "A time of peace", "isCorrect": false }
+      ],
+      "explanation": "The Dark Era (2014-2016) saw demons secretly taking over entertainment companies. It took a massive coordinated effort to purge them!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What ancient Korean tradition did KPDH adapt their training from?",
+      "options": [
+        { "id": "a", "text": "Taekwondo", "isCorrect": false },
+        { "id": "b", "text": "Shamanic rituals (굿)", "isCorrect": true },
+        { "id": "c", "text": "Royal court dances", "isCorrect": false },
+        { "id": "d", "text": "Buddhist chanting", "isCorrect": false }
+      ],
+      "explanation": "KPDH training combines modern performance with ancient Korean shamanic practices (굿/gut) - the original demon-fighting tradition!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Music show wins actually seal demon portals in the broadcast area.",
+      "correctAnswer": true,
+      "explanation": "Every music show trophy is enchanted. When a unit wins, the broadcast creates a temporary seal over demon portals in the viewing area!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is the 'Disbandment Protocol'?",
+      "options": [
+        { "id": "a", "text": "When a group retires from hunting", "isCorrect": false },
+        { "id": "b", "text": "Emergency separation to prevent unit possession", "isCorrect": true },
+        { "id": "c", "text": "Graduating to solo missions", "isCorrect": false },
+        { "id": "d", "text": "Reforming under a new name", "isCorrect": false }
+      ],
+      "explanation": "If a demon targets a unit's bond, Disbandment Protocol separates members to prevent the demon from possessing the entire group!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Where is the 'Archive of Sealed Demons' located?",
+      "options": [
+        { "id": "a", "text": "Underground vault in Jeju Island", "isCorrect": true },
+        { "id": "b", "text": "Top floor of a skyscraper", "isCorrect": false },
+        { "id": "c", "text": "Inside a mountain temple", "isCorrect": false },
+        { "id": "d", "text": "Floating in the Han River", "isCorrect": false }
+      ],
+      "explanation": "Jeju Island's volcanic caves house the Archive - defeated demons are sealed in enchanted albums stored deep underground!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The term 'Stan' originally meant 'Supernatural Threat Assessment Network' member.",
+      "correctAnswer": true,
+      "explanation": "Before it meant super-fan, 'Stan' was KPDH code for civilian supporters trained to report demon activity. Now it means both!",
+      "points": 10
+    }
+  ]
+}

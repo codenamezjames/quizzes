@@ -1,0 +1,154 @@
+{
+  "id": "demon-slayer",
+  "title": "Demon Slayer",
+  "description": "Test your knowledge of Tanjiro and the Demon Slayer Corps!",
+  "icon": "local_fire_department",
+  "category": "Anime",
+  "coverColor": "#E74C3C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of Tanjiro's signature breathing technique?",
+      "options": [
+        { "id": "a", "text": "Water Breathing", "isCorrect": false },
+        { "id": "b", "text": "Sun Breathing", "isCorrect": false },
+        { "id": "c", "text": "Hinokami Kagura", "isCorrect": true },
+        { "id": "d", "text": "Flame Breathing", "isCorrect": false }
+      ],
+      "explanation": "Hinokami Kagura (Dance of the Fire God) is the breathing style passed down in Tanjiro's family, which is derived from Sun Breathing!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Nezuko was turned into a demon by Muzan Kibutsuji.",
+      "correctAnswer": true,
+      "explanation": "Muzan attacked the Kamado family and turned Nezuko into a demon, setting Tanjiro on his journey to find a cure.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How many Hashira (Pillars) are there in the Demon Slayer Corps?",
+      "options": [
+        { "id": "a", "text": "7", "isCorrect": false },
+        { "id": "b", "text": "9", "isCorrect": true },
+        { "id": "c", "text": "11", "isCorrect": false },
+        { "id": "d", "text": "12", "isCorrect": false }
+      ],
+      "explanation": "There are 9 Hashira, each mastering a different breathing style!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Zenitsu's only Thunder Breathing technique that he has mastered?",
+      "options": [
+        { "id": "a", "text": "First Form: Thunderclap and Flash", "isCorrect": true },
+        { "id": "b", "text": "Second Form: Rice Spirit", "isCorrect": false },
+        { "id": "c", "text": "Third Form: Thunder Swarm", "isCorrect": false },
+        { "id": "d", "text": "Sixth Form: Rumble and Flash", "isCorrect": false }
+      ],
+      "explanation": "Zenitsu only mastered the First Form but perfected it to an incredible degree!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Inosuke wears a boar head mask because it belonged to his mother.",
+      "correctAnswer": false,
+      "explanation": "Inosuke wears the head of the boar that raised him after his mother's death. The boar became his surrogate parent.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is the leader of the Twelve Kizuki's Upper Ranks?",
+      "options": [
+        { "id": "a", "text": "Akaza", "isCorrect": false },
+        { "id": "b", "text": "Doma", "isCorrect": false },
+        { "id": "c", "text": "Kokushibo", "isCorrect": true },
+        { "id": "d", "text": "Gyutaro", "isCorrect": false }
+      ],
+      "explanation": "Kokushibo (Upper Moon One) is the strongest of the Upper Ranks and was once a demon slayer himself!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Tanjiro's earrings are Hanafuda earrings passed down in his family.",
+      "correctAnswer": true,
+      "explanation": "The Hanafuda earrings were passed down through generations of Tanjiro's family along with the Hinokami Kagura dance.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What color does Tanjiro's Nichirin sword turn?",
+      "options": [
+        { "id": "a", "text": "Red", "isCorrect": false },
+        { "id": "b", "text": "Blue", "isCorrect": false },
+        { "id": "c", "text": "Black", "isCorrect": true },
+        { "id": "d", "text": "Yellow", "isCorrect": false }
+      ],
+      "explanation": "Tanjiro's blade turns black, which is considered rare and mysterious as black blades' properties are unknown.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is the name of the Flame Hashira who mentored Tanjiro?",
+      "options": [
+        { "id": "a", "text": "Kyojuro Rengoku", "isCorrect": true },
+        { "id": "b", "text": "Sanemi Shinazugawa", "isCorrect": false },
+        { "id": "c", "text": "Giyu Tomioka", "isCorrect": false },
+        { "id": "d", "text": "Tengen Uzui", "isCorrect": false }
+      ],
+      "explanation": "Kyojuro Rengoku, the Flame Hashira, inspired Tanjiro during the Mugen Train arc with his unwavering spirit and the words 'Set your heart ablaze!'",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Muzan Kibutsuji is the first demon and the source of all other demons.",
+      "correctAnswer": true,
+      "explanation": "Muzan was turned into the first demon over 1000 years ago and all other demons originate from his blood.",
+      "points": 10
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "question": "What special ability does Nezuko develop that is unique among demons?",
+      "options": [
+        { "id": "a", "text": "She can fly", "isCorrect": false },
+        { "id": "b", "text": "She can walk in sunlight", "isCorrect": true },
+        { "id": "c", "text": "She can speak telepathically", "isCorrect": false },
+        { "id": "d", "text": "She can turn invisible", "isCorrect": false }
+      ],
+      "explanation": "Nezuko becomes the first demon able to walk in sunlight, which makes Muzan desperate to capture her!",
+      "points": 10
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "question": "Who is the Love Hashira?",
+      "options": [
+        { "id": "a", "text": "Shinobu Kocho", "isCorrect": false },
+        { "id": "b", "text": "Kanao Tsuyuri", "isCorrect": false },
+        { "id": "c", "text": "Mitsuri Kanroji", "isCorrect": true },
+        { "id": "d", "text": "Kanae Kocho", "isCorrect": false }
+      ],
+      "explanation": "Mitsuri Kanroji is the Love Hashira, known for her unique Love Breathing style and incredible flexibility!",
+      "points": 10
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Inosuke's breathing style is called Beast Breathing, which he created himself.",
+      "correctAnswer": true,
+      "explanation": "Inosuke developed Beast Breathing on his own while living in the mountains, without any formal training!",
+      "points": 10
+    }
+  ]
+}

@@ -14,12 +14,12 @@
 
       <div class="quiz-meta">
         <q-chip
-          :color="categoryColor"
+          :style="{ backgroundColor: categoryColor }"
           text-color="white"
           size="sm"
           class="category-chip"
         >
-          {{ quiz.category }}
+          {{ categoryTitle }}
         </q-chip>
 
         <div v-if="progress" class="progress-badge">
@@ -43,6 +43,7 @@
 
 <script setup>
 import { computed } from 'vue'
+import { categoryMeta } from 'src/data/quizzes'
 
 const props = defineProps({
   quiz: {
@@ -57,16 +58,12 @@ const props = defineProps({
 
 defineEmits(['select'])
 
-const categoryColors = {
-  Science: 'purple',
-  Geography: 'blue',
-  Math: 'orange',
-  History: 'brown',
-  Art: 'pink',
-}
+const categoryInfo = computed(() => categoryMeta[props.quiz.category] || {})
 
-const categoryColor = computed(
-  () => categoryColors[props.quiz.category] || 'grey'
+const categoryColor = computed(() => categoryInfo.value.color || '#888888')
+
+const categoryTitle = computed(
+  () => categoryInfo.value.title || props.quiz.category
 )
 </script>
 

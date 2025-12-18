@@ -1,0 +1,99 @@
+{
+  "id": "kpop-demon-hunters",
+  "title": "KPDH Basics",
+  "description": "Learn the fundamentals of the K-Pop Demon Hunter Organization!",
+  "icon": "music_note",
+  "category": "kpop-demon-hunters",
+  "coverColor": "#8E44AD",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What does KPDH stand for?",
+      "options": [
+        { "id": "a", "text": "Korean Pop Dance Heroes", "isCorrect": false },
+        { "id": "b", "text": "K-Pop Demon Hunters", "isCorrect": true },
+        { "id": "c", "text": "Korean Paranormal Defense Headquarters", "isCorrect": false },
+        { "id": "d", "text": "K-Pop Defense Harmony", "isCorrect": false }
+      ],
+      "explanation": "KPDH - K-Pop Demon Hunters - is the secret organization of idol hunters who protect humanity from supernatural threats!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The KPDH was founded in Seoul in 1999 after the 'Midnight Concert Incident'.",
+      "correctAnswer": true,
+      "explanation": "The organization was founded after demons attacked a massive Y2K concert, leading to the creation of KPDH to train idol hunters!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What power source do KPDH hunters channel to fight demons?",
+      "options": [
+        { "id": "a", "text": "Ancient Korean magic", "isCorrect": false },
+        { "id": "b", "text": "Fan energy (응원)", "isCorrect": true },
+        { "id": "c", "text": "Solar power", "isCorrect": false },
+        { "id": "d", "text": "Demon blood", "isCorrect": false }
+      ],
+      "explanation": "Hunters channel the emotional energy of fans (응원/eungwon) - the cheers and love from supporters power their abilities!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "How many members are in a standard KPDH hunter unit?",
+      "options": [
+        { "id": "a", "text": "3-5", "isCorrect": false },
+        { "id": "b", "text": "4-7", "isCorrect": true },
+        { "id": "c", "text": "8-12", "isCorrect": false },
+        { "id": "d", "text": "Solo only", "isCorrect": false }
+      ],
+      "explanation": "Hunter units typically have 4-7 members to balance combat roles: Leader, Main Vocal (healer), Main Dancer (melee), Rapper (ranged), and support positions!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "KPDH hunters disguise their training as idol training programs.",
+      "correctAnswer": true,
+      "explanation": "The perfect cover! KPDH operates through entertainment companies, with 'trainee programs' actually being demon hunting academies!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is a 'Comeback' in KPDH terminology?",
+      "options": [
+        { "id": "a", "text": "A music release", "isCorrect": false },
+        { "id": "b", "text": "A major demon hunting mission", "isCorrect": true },
+        { "id": "c", "text": "Returning from injury", "isCorrect": false },
+        { "id": "d", "text": "A promotion ceremony", "isCorrect": false }
+      ],
+      "explanation": "In KPDH, a 'Comeback' is code for a major mission. The music release serves as both cover story and power amplifier!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the KPDH headquarters hidden beneath?",
+      "options": [
+        { "id": "a", "text": "Gyeongbokgung Palace", "isCorrect": false },
+        { "id": "b", "text": "COEX Mall", "isCorrect": false },
+        { "id": "c", "text": "A major entertainment company building", "isCorrect": true },
+        { "id": "d", "text": "N Seoul Tower", "isCorrect": false }
+      ],
+      "explanation": "KPDH HQ is hidden beneath a famous entertainment company - the perfect cover for all the young people coming and going!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Lightsticks are actually enchanted weapons used by hunters.",
+      "correctAnswer": true,
+      "explanation": "Fan lightsticks are mass-produced enchanted items! When fans wave them at concerts, they create protective barriers and amplify hunter power!",
+      "points": 10
+    }
+  ]
+}

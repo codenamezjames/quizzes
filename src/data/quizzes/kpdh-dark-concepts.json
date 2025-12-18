@@ -1,0 +1,99 @@
+{
+  "id": "kpdh-dark-concepts",
+  "title": "Demon Classes & Weaknesses",
+  "description": "Know your enemy - learn about the demons hunters face!",
+  "icon": "skull",
+  "category": "kpop-demon-hunters",
+  "coverColor": "#2C3E50",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What class of demon feeds on human emotions at concerts?",
+      "options": [
+        { "id": "a", "text": "Screamer", "isCorrect": false },
+        { "id": "b", "text": "Emotion Leech", "isCorrect": true },
+        { "id": "c", "text": "Sound Wraith", "isCorrect": false },
+        { "id": "d", "text": "Crowd Phantom", "isCorrect": false }
+      ],
+      "explanation": "Emotion Leeches disguise themselves as fans and feed on the intense emotions generated at K-Pop concerts. Hunters use synchronized choreography to disrupt their feeding!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Shadow Mimics can perfectly copy an idol's appearance but cannot replicate their singing voice.",
+      "correctAnswer": true,
+      "explanation": "Shadow Mimics can copy physical appearance but the soul's resonance in a person's voice cannot be replicated. This is why vocal tests are used to identify imposters!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the weakness of a Nightmare Shade?",
+      "options": [
+        { "id": "a", "text": "Holy water", "isCorrect": false },
+        { "id": "b", "text": "Sunlight", "isCorrect": false },
+        { "id": "c", "text": "Harmonized vocals", "isCorrect": true },
+        { "id": "d", "text": "Silver weapons", "isCorrect": false }
+      ],
+      "explanation": "Nightmare Shades attack through dreams but are vulnerable to harmonized vocals - this is why hunter units always train in vocal harmony!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which demon type possesses recording equipment to corrupt music?",
+      "options": [
+        { "id": "a", "text": "Tech Phantom", "isCorrect": false },
+        { "id": "b", "text": "Static Demon", "isCorrect": false },
+        { "id": "c", "text": "Frequency Fiend", "isCorrect": true },
+        { "id": "d", "text": "Digital Wraith", "isCorrect": false }
+      ],
+      "explanation": "Frequency Fiends hide in studio equipment and embed cursed frequencies in recordings. All KPDH releases are cleansed before distribution!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Ancient Dokkaebi demons are attracted to hubris and pride.",
+      "correctAnswer": true,
+      "explanation": "Dokkaebi (Korean goblins) specifically target those with excessive pride. Idol hunters must stay humble to avoid attracting them!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What do Stage Haunters feed on?",
+      "options": [
+        { "id": "a", "text": "Fear", "isCorrect": false },
+        { "id": "b", "text": "Failed performances", "isCorrect": true },
+        { "id": "c", "text": "Broken dreams", "isCorrect": false },
+        { "id": "d", "text": "Jealousy", "isCorrect": false }
+      ],
+      "explanation": "Stage Haunters grow stronger from performance failures. They sabotage equipment and cause accidents - hunters counter them with flawless preparation!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How do you identify a Gumiho (nine-tailed fox demon) in disguise?",
+      "options": [
+        { "id": "a", "text": "They can't eat meat", "isCorrect": false },
+        { "id": "b", "text": "Their reflection shows their true form", "isCorrect": true },
+        { "id": "c", "text": "They fear running water", "isCorrect": false },
+        { "id": "d", "text": "They can't cross thresholds", "isCorrect": false }
+      ],
+      "explanation": "Mirrors and reflective surfaces reveal a Gumiho's true form. This is why practice rooms have mirrors on every wall!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Vengeful Spirit demons are created when trainees are unfairly eliminated from survival shows.",
+      "correctAnswer": true,
+      "explanation": "The intense emotions of unfair elimination can birth Vengeful Spirits. The KPDH monitors all survival shows to prevent demon manifestation!",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "demon-slayer-breathing",
+  "title": "Breathing Techniques",
+  "description": "Master the breathing styles and their forms!",
+  "icon": "air",
+  "category": "demon-slayer",
+  "coverColor": "#3498DB",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which breathing style is considered the original from which all others derive?",
+      "options": [
+        { "id": "a", "text": "Water Breathing", "isCorrect": false },
+        { "id": "b", "text": "Flame Breathing", "isCorrect": false },
+        { "id": "c", "text": "Sun Breathing", "isCorrect": true },
+        { "id": "d", "text": "Thunder Breathing", "isCorrect": false }
+      ],
+      "explanation": "Sun Breathing (Hinokami Kagura) was created by Yoriichi Tsugikuni and is the original style from which all others branched!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Water Breathing has 11 forms, making it the style with the most techniques.",
+      "correctAnswer": false,
+      "explanation": "Water Breathing has 10 forms plus one unique 11th form created by Giyu (Dead Calm). But Sun Breathing has 13 forms!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the First Form of Thunder Breathing called?",
+      "options": [
+        { "id": "a", "text": "Thunder Swarm", "isCorrect": false },
+        { "id": "b", "text": "Thunderclap and Flash", "isCorrect": true },
+        { "id": "c", "text": "Rice Spirit", "isCorrect": false },
+        { "id": "d", "text": "Rumble and Flash", "isCorrect": false }
+      ],
+      "explanation": "Thunderclap and Flash is the only form Zenitsu mastered, but he perfected it to an incredible level with multiple variations!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which breathing style did Mitsuri Kanroji derive her Love Breathing from?",
+      "options": [
+        { "id": "a", "text": "Water Breathing", "isCorrect": false },
+        { "id": "b", "text": "Flame Breathing", "isCorrect": true },
+        { "id": "c", "text": "Wind Breathing", "isCorrect": false },
+        { "id": "d", "text": "Insect Breathing", "isCorrect": false }
+      ],
+      "explanation": "Love Breathing is derived from Flame Breathing. Mitsuri trained under Rengoku before developing her own style!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Serpent Breathing is derived from Water Breathing.",
+      "correctAnswer": true,
+      "explanation": "Serpent Breathing, used by Obanai Iguro, is derived from Water Breathing with slithering, winding movements like a snake!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What technique does Giyu Tomioka create himself?",
+      "options": [
+        { "id": "a", "text": "Tenth Form: Constant Flux", "isCorrect": false },
+        { "id": "b", "text": "Eleventh Form: Dead Calm", "isCorrect": true },
+        { "id": "c", "text": "First Form: Water Surface Slash", "isCorrect": false },
+        { "id": "d", "text": "Seventh Form: Drop Ripple Thrust", "isCorrect": false }
+      ],
+      "explanation": "Dead Calm is Giyu's original technique where he stops all movement to deflect any incoming attack!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many forms does Stone Breathing have?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "5", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "10", "isCorrect": false }
+      ],
+      "explanation": "Stone Breathing has 5 forms, used by Gyomei Himejima with his unique spiked flail and axe weapon!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Beast Breathing was created by Inosuke without any formal training.",
+      "correctAnswer": true,
+      "explanation": "Inosuke developed Beast Breathing entirely on his own while living in the mountains, making it a completely original style!",
+      "points": 10
+    }
+  ]
+}

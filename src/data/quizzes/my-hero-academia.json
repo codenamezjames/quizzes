@@ -1,0 +1,99 @@
+{
+  "id": "my-hero-academia",
+  "title": "My Hero Academia",
+  "description": "Go beyond! Plus Ultra! Test your hero knowledge!",
+  "icon": "flash_on",
+  "category": "Anime",
+  "coverColor": "#2ECC71",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of Izuku Midoriya's inherited Quirk?",
+      "options": [
+        { "id": "a", "text": "All For One", "isCorrect": false },
+        { "id": "b", "text": "One For All", "isCorrect": true },
+        { "id": "c", "text": "Full Cowl", "isCorrect": false },
+        { "id": "d", "text": "Detroit Smash", "isCorrect": false }
+      ],
+      "explanation": "One For All is the Quirk passed down from All Might to Deku, accumulating power through generations of users!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Bakugo's Quirk is called Explosion.",
+      "correctAnswer": true,
+      "explanation": "Bakugo's Quirk 'Explosion' lets him secrete nitroglycerin-like sweat from his palms and ignite it at will!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of the hero academy that Deku attends?",
+      "options": [
+        { "id": "a", "text": "Shiketsu High", "isCorrect": false },
+        { "id": "b", "text": "Ketsubutsu Academy", "isCorrect": false },
+        { "id": "c", "text": "U.A. High School", "isCorrect": true },
+        { "id": "d", "text": "Isamu Academy", "isCorrect": false }
+      ],
+      "explanation": "U.A. High School is Japan's top hero academy, where the motto is 'Plus Ultra'!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is the homeroom teacher of Class 1-A?",
+      "options": [
+        { "id": "a", "text": "All Might", "isCorrect": false },
+        { "id": "b", "text": "Present Mic", "isCorrect": false },
+        { "id": "c", "text": "Eraserhead (Aizawa)", "isCorrect": true },
+        { "id": "d", "text": "Midnight", "isCorrect": false }
+      ],
+      "explanation": "Shota Aizawa, hero name Eraserhead, is the homeroom teacher known for his logical approach and erasing Quirks!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Todoroki can only use ice powers from his right side.",
+      "correctAnswer": true,
+      "explanation": "Todoroki's ice comes from his right side (mother's Quirk) and fire from his left (father's Quirk). His Half-Cold Half-Hot Quirk is split down the middle!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is the name of the main villain organization?",
+      "options": [
+        { "id": "a", "text": "League of Villains", "isCorrect": true },
+        { "id": "b", "text": "Shie Hassaikai", "isCorrect": false },
+        { "id": "c", "text": "Meta Liberation Army", "isCorrect": false },
+        { "id": "d", "text": "Paranormal Liberation Front", "isCorrect": false }
+      ],
+      "explanation": "The League of Villains, led by Shigaraki, is the main villain organization that threatens hero society!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Ochaco Uraraka's Quirk is called Zero Gravity.",
+      "correctAnswer": true,
+      "explanation": "Uraraka's Quirk 'Zero Gravity' allows her to make objects float by touching them with all five fingers!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What was All Might's real weakness before passing on One For All?",
+      "options": [
+        { "id": "a", "text": "He was Quirkless", "isCorrect": false },
+        { "id": "b", "text": "A serious injury limiting his hero form", "isCorrect": true },
+        { "id": "c", "text": "He was too old", "isCorrect": false },
+        { "id": "d", "text": "His Quirk was fading", "isCorrect": false }
+      ],
+      "explanation": "All Might suffered a devastating injury from All For One that damaged his respiratory system, limiting how long he could maintain his muscular hero form!",
+      "points": 10
+    }
+  ]
+}

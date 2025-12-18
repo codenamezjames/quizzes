@@ -6,7 +6,6 @@
       <q-btn
         v-for="(option, index) in question.options"
         :key="option.id"
-        :label="option.text"
         :color="getOptionColor(option.id)"
         :text-color="selectedAnswer === option.id ? 'white' : 'dark'"
         :outline="selectedAnswer !== option.id"

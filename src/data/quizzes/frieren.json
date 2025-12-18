@@ -1,0 +1,112 @@
+{
+  "id": "frieren",
+  "title": "Frieren: Beyond Journey's End",
+  "description": "How well do you know the journey of the long-lived elf mage?",
+  "icon": "auto_fix_high",
+  "category": "Anime",
+  "coverColor": "#3498DB",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What type of being is Frieren?",
+      "options": [
+        { "id": "a", "text": "Human", "isCorrect": false },
+        { "id": "b", "text": "Elf", "isCorrect": true },
+        { "id": "c", "text": "Demon", "isCorrect": false },
+        { "id": "d", "text": "Spirit", "isCorrect": false }
+      ],
+      "explanation": "Frieren is an elf with an extremely long lifespan, which is central to the story's themes about time and memory.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Frieren was part of the Hero's party that defeated the Demon King.",
+      "correctAnswer": true,
+      "explanation": "Frieren traveled with Himmel the Hero, Heiter the Priest, and Eisen the Warrior to defeat the Demon King.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of Frieren's apprentice?",
+      "options": [
+        { "id": "a", "text": "Sein", "isCorrect": false },
+        { "id": "b", "text": "Stark", "isCorrect": false },
+        { "id": "c", "text": "Fern", "isCorrect": true },
+        { "id": "d", "text": "Flamme", "isCorrect": false }
+      ],
+      "explanation": "Fern is Frieren's apprentice, a talented young mage who was raised by Heiter.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Frieren's hobby that she pursues throughout her journey?",
+      "options": [
+        { "id": "a", "text": "Collecting rare books", "isCorrect": false },
+        { "id": "b", "text": "Collecting spells", "isCorrect": true },
+        { "id": "c", "text": "Painting landscapes", "isCorrect": false },
+        { "id": "d", "text": "Cooking recipes", "isCorrect": false }
+      ],
+      "explanation": "Frieren loves collecting spells, even seemingly useless ones like magic to make flowers bloom!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Stark is a cowardly warrior despite being incredibly strong.",
+      "correctAnswer": true,
+      "explanation": "Stark was trained by Eisen and is very powerful, but he struggles with self-confidence and often acts cowardly despite his abilities.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who was Frieren's master who taught her magic?",
+      "options": [
+        { "id": "a", "text": "Serie", "isCorrect": false },
+        { "id": "b", "text": "Flamme", "isCorrect": true },
+        { "id": "c", "text": "Himmel", "isCorrect": false },
+        { "id": "d", "text": "Heiter", "isCorrect": false }
+      ],
+      "explanation": "Flamme was a legendary human mage who took in Frieren and taught her magic, including how to hide her mana.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "The demons in Frieren can feel genuine emotions like humans.",
+      "correctAnswer": false,
+      "explanation": "In Frieren's world, demons are revealed to mimic human emotions and language as hunting techniques, but don't actually feel them.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What does Frieren seek at Aureole, the land where souls rest?",
+      "options": [
+        { "id": "a", "text": "Eternal life", "isCorrect": false },
+        { "id": "b", "text": "Ultimate power", "isCorrect": false },
+        { "id": "c", "text": "To speak with Himmel again", "isCorrect": true },
+        { "id": "d", "text": "Ancient spells", "isCorrect": false }
+      ],
+      "explanation": "Frieren's journey is motivated by her desire to reach Aureole to speak with Himmel one more time and tell him things she never said.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is the name of the powerful elf mage who has lived even longer than Frieren?",
+      "options": [
+        { "id": "a", "text": "Flamme", "isCorrect": false },
+        { "id": "b", "text": "Serie", "isCorrect": true },
+        { "id": "c", "text": "Macht", "isCorrect": false },
+        { "id": "d", "text": "Qual", "isCorrect": false }
+      ],
+      "explanation": "Serie is an ancient elf mage who was Flamme's master, making her Frieren's 'grand-master'. She has collected nearly every spell in existence!",
+      "points": 10
+    }
+  ]
+}

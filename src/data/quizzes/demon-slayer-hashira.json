@@ -1,0 +1,99 @@
+{
+  "id": "demon-slayer-hashira",
+  "title": "The Nine Hashira",
+  "description": "Test your knowledge of the elite Demon Slayer pillars!",
+  "icon": "military_tech",
+  "category": "demon-slayer",
+  "coverColor": "#E67E22",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which Hashira uses Insect Breathing?",
+      "options": [
+        { "id": "a", "text": "Mitsuri Kanroji", "isCorrect": false },
+        { "id": "b", "text": "Shinobu Kocho", "isCorrect": true },
+        { "id": "c", "text": "Kanae Kocho", "isCorrect": false },
+        { "id": "d", "text": "Kanao Tsuyuri", "isCorrect": false }
+      ],
+      "explanation": "Shinobu Kocho, the Insect Hashira, developed her own Insect Breathing style since she lacks the strength to decapitate demons!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Tengen Uzui is known as the Sound Hashira.",
+      "correctAnswer": true,
+      "explanation": "Tengen Uzui, the flamboyant Sound Hashira, uses Sound Breathing and has three wives who are also shinobi!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Who is the Stone Hashira?",
+      "options": [
+        { "id": "a", "text": "Sanemi Shinazugawa", "isCorrect": false },
+        { "id": "b", "text": "Obanai Iguro", "isCorrect": false },
+        { "id": "c", "text": "Gyomei Himejima", "isCorrect": true },
+        { "id": "d", "text": "Muichiro Tokito", "isCorrect": false }
+      ],
+      "explanation": "Gyomei Himejima is the Stone Hashira and considered the strongest current Hashira. He's also blind and uses a spiked flail and axe!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Hashira has a snake wrapped around their neck?",
+      "options": [
+        { "id": "a", "text": "Shinobu Kocho", "isCorrect": false },
+        { "id": "b", "text": "Mitsuri Kanroji", "isCorrect": false },
+        { "id": "c", "text": "Obanai Iguro", "isCorrect": true },
+        { "id": "d", "text": "Sanemi Shinazugawa", "isCorrect": false }
+      ],
+      "explanation": "Obanai Iguro, the Serpent Hashira, always has his white snake Kaburamaru with him!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Muichiro Tokito became a Hashira only 2 months after picking up a sword.",
+      "correctAnswer": true,
+      "explanation": "Muichiro Tokito, the Mist Hashira, is a prodigy who became a Hashira in just 2 months - the fastest ever!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Sanemi Shinazugawa's role among the Hashira?",
+      "options": [
+        { "id": "a", "text": "Flame Hashira", "isCorrect": false },
+        { "id": "b", "text": "Wind Hashira", "isCorrect": true },
+        { "id": "c", "text": "Water Hashira", "isCorrect": false },
+        { "id": "d", "text": "Thunder Hashira", "isCorrect": false }
+      ],
+      "explanation": "Sanemi Shinazugawa is the hot-tempered Wind Hashira with a rare blood type that intoxicates demons!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who trained Tanjiro in Water Breathing before he met the Hashira?",
+      "options": [
+        { "id": "a", "text": "Giyu Tomioka", "isCorrect": false },
+        { "id": "b", "text": "Sakonji Urokodaki", "isCorrect": true },
+        { "id": "c", "text": "Rengoku's father", "isCorrect": false },
+        { "id": "d", "text": "Tengen Uzui", "isCorrect": false }
+      ],
+      "explanation": "Sakonji Urokodaki, the former Water Hashira, trained both Tanjiro and Giyu Tomioka!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Giyu Tomioka believes he shouldn't be called a Hashira because he didn't pass Final Selection properly.",
+      "correctAnswer": true,
+      "explanation": "Giyu survived Final Selection only because his friend Sabito protected him and died in the process, making Giyu feel unworthy.",
+      "points": 10
+    }
+  ]
+}
