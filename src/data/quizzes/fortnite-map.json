@@ -1,0 +1,99 @@
+{
+  "id": "fortnite-map",
+  "title": "Map & Locations",
+  "description": "How well do you know the Fortnite island and its iconic locations?",
+  "icon": "map",
+  "category": "fortnite",
+  "coverColor": "#26A69A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which location was famous for having a giant tomato head?",
+      "options": [
+        { "id": "a", "text": "Tomato Town", "isCorrect": true },
+        { "id": "b", "text": "Retail Row", "isCorrect": false },
+        { "id": "c", "text": "Pleasant Park", "isCorrect": false },
+        { "id": "d", "text": "Salty Springs", "isCorrect": false }
+      ],
+      "explanation": "Tomato Town featured the iconic Uncle Pete's Pizza Pit with its giant tomato head mascot!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Tilted Towers was one of the most popular landing spots in Chapter 1.",
+      "correctAnswer": true,
+      "explanation": "Tilted Towers was legendary for its high-risk, high-reward gameplay and was often called the 'sweatiest' drop!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What was the name of the snowy mountain area in Chapter 1?",
+      "options": [
+        { "id": "a", "text": "Frosty Flights", "isCorrect": false },
+        { "id": "b", "text": "Polar Peak", "isCorrect": true },
+        { "id": "c", "text": "Frozen Lake", "isCorrect": false },
+        { "id": "d", "text": "Ice Mountain", "isCorrect": false }
+      ],
+      "explanation": "Polar Peak was added in Season 7 and contained a frozen castle with the Ice King inside!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which location featured a giant llama, crab, and fox in its early versions?",
+      "options": [
+        { "id": "a", "text": "Dusty Divot", "isCorrect": false },
+        { "id": "b", "text": "The map had all three as landmarks", "isCorrect": true },
+        { "id": "c", "text": "Lucky Landing", "isCorrect": false },
+        { "id": "d", "text": "Lazy Links", "isCorrect": false }
+      ],
+      "explanation": "These were separate iconic landmarks scattered across the map - the giant pink llama near Junk Junction was especially popular!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Loot Lake had a floating island at one point.",
+      "correctAnswer": true,
+      "explanation": "During Season 6, the mysterious cube (Kevin) created a floating island above Loot Lake that moved around the map!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What replaced Dusty Depot after the meteor strike?",
+      "options": [
+        { "id": "a", "text": "Dusty Dunes", "isCorrect": false },
+        { "id": "b", "text": "Dusty Divot", "isCorrect": true },
+        { "id": "c", "text": "Dusty Crater", "isCorrect": false },
+        { "id": "d", "text": "Dusty Destruction", "isCorrect": false }
+      ],
+      "explanation": "A meteor destroyed Dusty Depot in Season 4, creating Dusty Divot - a huge crater that eventually grew trees!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which named location was known for its clock tower?",
+      "options": [
+        { "id": "a", "text": "Tilted Towers", "isCorrect": true },
+        { "id": "b", "text": "Pleasant Park", "isCorrect": false },
+        { "id": "c", "text": "Retail Row", "isCorrect": false },
+        { "id": "d", "text": "Greasy Grove", "isCorrect": false }
+      ],
+      "explanation": "Tilted Towers had a famous clock tower that players loved to land on for an early-game advantage!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Fortnite island has a volcano that erupted during a live event.",
+      "correctAnswer": true,
+      "explanation": "The volcano erupted at the end of Season 8, destroying Tilted Towers and Retail Row in the Unvaulting event!",
+      "points": 10
+    }
+  ]
+}

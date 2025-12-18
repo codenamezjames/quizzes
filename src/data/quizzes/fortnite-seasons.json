@@ -1,0 +1,99 @@
+{
+  "id": "fortnite-seasons",
+  "title": "Seasons & Events",
+  "description": "Test your knowledge of Fortnite's epic seasons and live events!",
+  "icon": "event",
+  "category": "fortnite",
+  "coverColor": "#AB47BC",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which season introduced the Battle Pass system?",
+      "options": [
+        { "id": "a", "text": "Season 1", "isCorrect": false },
+        { "id": "b", "text": "Season 2", "isCorrect": true },
+        { "id": "c", "text": "Season 3", "isCorrect": false },
+        { "id": "d", "text": "Season 4", "isCorrect": false }
+      ],
+      "explanation": "The Battle Pass was introduced in Season 2 with the knight-themed skins like the Black Knight!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Fortnite Chapter 2 map was completely different from Chapter 1.",
+      "correctAnswer": true,
+      "explanation": "Chapter 2 introduced an entirely new island with fresh locations after The End event destroyed the Chapter 1 map!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What was the name of the event where a rocket launched from the villain's lair?",
+      "options": [
+        { "id": "a", "text": "The Big Bang", "isCorrect": false },
+        { "id": "b", "text": "Blast Off", "isCorrect": true },
+        { "id": "c", "text": "Sky Fire", "isCorrect": false },
+        { "id": "d", "text": "The Rocket", "isCorrect": false }
+      ],
+      "explanation": "The Blast Off event in Season 4 was Fortnite's first major live event, featuring a rocket that cracked the sky!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which popular artist had a virtual concert in Fortnite in 2020?",
+      "options": [
+        { "id": "a", "text": "Drake", "isCorrect": false },
+        { "id": "b", "text": "Ariana Grande", "isCorrect": false },
+        { "id": "c", "text": "Travis Scott", "isCorrect": true },
+        { "id": "d", "text": "Marshmello", "isCorrect": false }
+      ],
+      "explanation": "Travis Scott's Astronomical concert in April 2020 had over 12 million concurrent players!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Marvel superheroes have appeared in Fortnite.",
+      "correctAnswer": true,
+      "explanation": "Fortnite has featured many Marvel heroes including Iron Man, Thor, Wolverine, Spider-Man, and many more through various crossover seasons!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What happened during 'The End' event at the conclusion of Chapter 1?",
+      "options": [
+        { "id": "a", "text": "A meteor destroyed everything", "isCorrect": false },
+        { "id": "b", "text": "The island was flooded", "isCorrect": false },
+        { "id": "c", "text": "A black hole consumed the map", "isCorrect": true },
+        { "id": "d", "text": "Aliens invaded", "isCorrect": false }
+      ],
+      "explanation": "The End event featured a black hole that consumed the entire map, leaving players staring at it for two days before Chapter 2 launched!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which season first introduced vehicles to Battle Royale?",
+      "options": [
+        { "id": "a", "text": "Season 3", "isCorrect": false },
+        { "id": "b", "text": "Season 4", "isCorrect": false },
+        { "id": "c", "text": "Season 5", "isCorrect": true },
+        { "id": "d", "text": "Season 6", "isCorrect": false }
+      ],
+      "explanation": "Shopping Carts were added in Season 4, but the ATK (All Terrain Kart) in Season 5 was the first true vehicle!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Fortnite has had crossovers with Star Wars.",
+      "correctAnswer": true,
+      "explanation": "Fortnite has featured multiple Star Wars crossovers with skins like Darth Vader, Luke Skywalker, and even premiered exclusive movie footage!",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "fortnite-basics",
+  "title": "Fortnite Basics",
+  "description": "Test your fundamental knowledge of Fortnite Battle Royale!",
+  "icon": "sports_esports",
+  "category": "fortnite",
+  "coverColor": "#5C6BC0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many players are in a standard Fortnite Battle Royale match?",
+      "options": [
+        { "id": "a", "text": "100", "isCorrect": true },
+        { "id": "b", "text": "50", "isCorrect": false },
+        { "id": "c", "text": "150", "isCorrect": false },
+        { "id": "d", "text": "75", "isCorrect": false }
+      ],
+      "explanation": "A standard Fortnite Battle Royale match has 100 players competing to be the last one standing!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Fortnite was released in 2017.",
+      "correctAnswer": true,
+      "explanation": "Fortnite Battle Royale was released on September 26, 2017, and quickly became a global phenomenon!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of the storm that shrinks the playable area?",
+      "options": [
+        { "id": "a", "text": "The Zone", "isCorrect": false },
+        { "id": "b", "text": "The Storm", "isCorrect": true },
+        { "id": "c", "text": "The Circle", "isCorrect": false },
+        { "id": "d", "text": "The Gas", "isCorrect": false }
+      ],
+      "explanation": "The Storm is Fortnite's signature shrinking play zone that forces players closer together!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What company developed Fortnite?",
+      "options": [
+        { "id": "a", "text": "Activision", "isCorrect": false },
+        { "id": "b", "text": "EA Games", "isCorrect": false },
+        { "id": "c", "text": "Epic Games", "isCorrect": true },
+        { "id": "d", "text": "Ubisoft", "isCorrect": false }
+      ],
+      "explanation": "Epic Games developed Fortnite using their Unreal Engine!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "You can build structures in Fortnite Battle Royale.",
+      "correctAnswer": true,
+      "explanation": "Building is one of Fortnite's most unique features! Players can harvest materials and build walls, ramps, floors, and roofs.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What are the three building materials in Fortnite?",
+      "options": [
+        { "id": "a", "text": "Wood, Stone, Metal", "isCorrect": true },
+        { "id": "b", "text": "Wood, Brick, Steel", "isCorrect": false },
+        { "id": "c", "text": "Lumber, Rock, Iron", "isCorrect": false },
+        { "id": "d", "text": "Tree, Stone, Gold", "isCorrect": false }
+      ],
+      "explanation": "Wood, Stone, and Metal are the three materials. Wood builds fastest but is weakest, while Metal is strongest but builds slowest!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the in-game currency used to buy cosmetics in Fortnite?",
+      "options": [
+        { "id": "a", "text": "Robux", "isCorrect": false },
+        { "id": "b", "text": "V-Bucks", "isCorrect": true },
+        { "id": "c", "text": "Coins", "isCorrect": false },
+        { "id": "d", "text": "Gold Bars", "isCorrect": false }
+      ],
+      "explanation": "V-Bucks (Vindertech Bucks) are Fortnite's premium currency used to purchase skins, emotes, and the Battle Pass!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Battle Bus is powered by a balloon.",
+      "correctAnswer": true,
+      "explanation": "The iconic Battle Bus is a blue school bus carried by a hot air balloon that drops players onto the island!",
+      "points": 10
+    }
+  ]
+}

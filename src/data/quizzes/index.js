@@ -39,6 +39,12 @@ export const categoryMeta = {
     icon: 'rocket_launch',
     color: '#9B59B6',
   },
+  fortnite: {
+    title: 'Fortnite',
+    description: 'Where we droppin\'? Test your Fortnite knowledge!',
+    icon: 'sports_esports',
+    color: '#5C6BC0',
+  },
 }
 
 export const quizManifest = [
@@ -187,6 +193,53 @@ export const quizManifest = [
     category: 'space',
     coverColor: '#9B59B6',
     loader: () => import('./space.json'),
+  },
+
+  // Fortnite quizzes
+  {
+    id: 'fortnite-basics',
+    title: 'Fortnite Basics',
+    description: 'Test your fundamental knowledge of Fortnite Battle Royale!',
+    icon: 'sports_esports',
+    category: 'fortnite',
+    coverColor: '#5C6BC0',
+    loader: () => import('./fortnite-basics.json'),
+  },
+  {
+    id: 'fortnite-weapons',
+    title: 'Weapons & Items',
+    description: 'How well do you know Fortnite\'s arsenal of weapons and items?',
+    icon: 'gps_fixed',
+    category: 'fortnite',
+    coverColor: '#FF7043',
+    loader: () => import('./fortnite-weapons.json'),
+  },
+  {
+    id: 'fortnite-seasons',
+    title: 'Seasons & Events',
+    description: 'Test your knowledge of Fortnite\'s epic seasons and live events!',
+    icon: 'event',
+    category: 'fortnite',
+    coverColor: '#AB47BC',
+    loader: () => import('./fortnite-seasons.json'),
+  },
+  {
+    id: 'fortnite-map',
+    title: 'Map & Locations',
+    description: 'How well do you know the Fortnite island and its iconic locations?',
+    icon: 'map',
+    category: 'fortnite',
+    coverColor: '#26A69A',
+    loader: () => import('./fortnite-map.json'),
+  },
+  {
+    id: 'fortnite-skins',
+    title: 'Skins & Cosmetics',
+    description: 'How well do you know Fortnite\'s iconic skins and cosmetics?',
+    icon: 'face',
+    category: 'fortnite',
+    coverColor: '#EC407A',
+    loader: () => import('./fortnite-skins.json'),
   },
 ]
 

@@ -1,0 +1,104 @@
+{
+  "id": "fortnite-weapons",
+  "title": "Weapons & Items",
+  "description": "How well do you know Fortnite's arsenal of weapons and items?",
+  "icon": "gps_fixed",
+  "category": "fortnite",
+  "coverColor": "#FF7043",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What color represents Legendary rarity in Fortnite?",
+      "options": [
+        { "id": "a", "text": "Purple", "isCorrect": false },
+        { "id": "b", "text": "Blue", "isCorrect": false },
+        { "id": "c", "text": "Gold/Orange", "isCorrect": true },
+        { "id": "d", "text": "Red", "isCorrect": false }
+      ],
+      "explanation": "Legendary items are gold/orange colored and are the second-rarest items in the game after Mythic!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the correct order of weapon rarity from lowest to highest?",
+      "options": [
+        { "id": "a", "text": "Gray, Green, Blue, Purple, Gold", "isCorrect": true },
+        { "id": "b", "text": "Green, Gray, Blue, Gold, Purple", "isCorrect": false },
+        { "id": "c", "text": "Gray, Blue, Green, Purple, Gold", "isCorrect": false },
+        { "id": "d", "text": "Green, Blue, Gray, Purple, Gold", "isCorrect": false }
+      ],
+      "explanation": "The rarity order is Common (Gray), Uncommon (Green), Rare (Blue), Epic (Purple), and Legendary (Gold)!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The SCAR is an assault rifle in Fortnite.",
+      "correctAnswer": true,
+      "explanation": "The SCAR (Special Combat Assault Rifle) is one of the most iconic and beloved weapons in Fortnite!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What item instantly gives you full shield?",
+      "options": [
+        { "id": "a", "text": "Mini Shield", "isCorrect": false },
+        { "id": "b", "text": "Shield Potion", "isCorrect": false },
+        { "id": "c", "text": "Chug Jug", "isCorrect": true },
+        { "id": "d", "text": "Slurp Juice", "isCorrect": false }
+      ],
+      "explanation": "The Chug Jug gives you full health AND full shield, but takes 15 seconds to consume!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "How much shield does a Mini Shield give you?",
+      "options": [
+        { "id": "a", "text": "50", "isCorrect": false },
+        { "id": "b", "text": "25", "isCorrect": true },
+        { "id": "c", "text": "100", "isCorrect": false },
+        { "id": "d", "text": "10", "isCorrect": false }
+      ],
+      "explanation": "Mini Shields give 25 shield each but can only bring you up to 50 shield maximum!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The Pump Shotgun can one-shot eliminate a player with a headshot.",
+      "correctAnswer": true,
+      "explanation": "A well-placed Pump Shotgun headshot can deal over 200 damage, instantly eliminating a player at full health and shield!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What explosive weapon travels in an arc and bounces before exploding?",
+      "options": [
+        { "id": "a", "text": "Rocket Launcher", "isCorrect": false },
+        { "id": "b", "text": "Grenade", "isCorrect": true },
+        { "id": "c", "text": "C4", "isCorrect": false },
+        { "id": "d", "text": "Proximity Mine", "isCorrect": false }
+      ],
+      "explanation": "Grenades are thrown in an arc and bounce off surfaces before exploding after a short fuse!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What does a Medkit restore?",
+      "options": [
+        { "id": "a", "text": "50 Health", "isCorrect": false },
+        { "id": "b", "text": "100 Health", "isCorrect": true },
+        { "id": "c", "text": "75 Health", "isCorrect": false },
+        { "id": "d", "text": "Full Health and Shield", "isCorrect": false }
+      ],
+      "explanation": "A Medkit restores your health to full (100 HP) but takes 10 seconds to use!",
+      "points": 10
+    }
+  ]
+}

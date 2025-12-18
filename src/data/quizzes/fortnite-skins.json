@@ -1,0 +1,99 @@
+{
+  "id": "fortnite-skins",
+  "title": "Skins & Cosmetics",
+  "description": "How well do you know Fortnite's iconic skins and cosmetics?",
+  "icon": "face",
+  "category": "fortnite",
+  "coverColor": "#EC407A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What was the final reward skin for Season 2's Battle Pass?",
+      "options": [
+        { "id": "a", "text": "Omega", "isCorrect": false },
+        { "id": "b", "text": "Black Knight", "isCorrect": true },
+        { "id": "c", "text": "John Wick", "isCorrect": false },
+        { "id": "d", "text": "The Reaper", "isCorrect": false }
+      ],
+      "explanation": "The Black Knight was the tier 70 reward in Season 2 and remains one of the rarest and most coveted OG skins!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Peely is a banana skin in Fortnite.",
+      "correctAnswer": true,
+      "explanation": "Peely is one of Fortnite's most beloved skins - a cheerful banana that has had many variants over the years!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Which skin is commonly known as the 'sweat' skin due to its slim design?",
+      "options": [
+        { "id": "a", "text": "Fishstick", "isCorrect": false },
+        { "id": "b", "text": "Aura", "isCorrect": true },
+        { "id": "c", "text": "Peely", "isCorrect": false },
+        { "id": "d", "text": "Drift", "isCorrect": false }
+      ],
+      "explanation": "Aura is infamous in the community as a 'sweat' skin, often used by highly skilled players!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the default dance emote?",
+      "options": [
+        { "id": "a", "text": "Groove Jam", "isCorrect": false },
+        { "id": "b", "text": "Dance Moves", "isCorrect": true },
+        { "id": "c", "text": "Default Groove", "isCorrect": false },
+        { "id": "d", "text": "Basic Boogie", "isCorrect": false }
+      ],
+      "explanation": "Dance Moves is the iconic free emote that every player starts with - it's become a symbol of Fortnite culture!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Skull Trooper was one of the original Halloween skins.",
+      "correctAnswer": true,
+      "explanation": "Skull Trooper debuted during Fortnitemares 2017 and became extremely rare, making it a status symbol among players!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which tier 100 skin from Season 4 could be upgraded with lights?",
+      "options": [
+        { "id": "a", "text": "Carbide", "isCorrect": false },
+        { "id": "b", "text": "Omega", "isCorrect": true },
+        { "id": "c", "text": "Ragnarok", "isCorrect": false },
+        { "id": "d", "text": "Dire", "isCorrect": false }
+      ],
+      "explanation": "Omega was the Season 4 tier 100 skin that could unlock different colored lights by reaching level 80!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What type of cosmetic is the 'Take the L' emote?",
+      "options": [
+        { "id": "a", "text": "Icon Series", "isCorrect": false },
+        { "id": "b", "text": "Battle Pass reward", "isCorrect": true },
+        { "id": "c", "text": "Item Shop purchase", "isCorrect": false },
+        { "id": "d", "text": "Free reward", "isCorrect": false }
+      ],
+      "explanation": "Take the L was a Season 3 Battle Pass emote - one of the most iconic and tilting emotes in the game!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Renegade Raider is considered one of the rarest skins in Fortnite.",
+      "correctAnswer": true,
+      "explanation": "Renegade Raider was only available in Season 1's item shop and has never returned, making it extremely rare!",
+      "points": 10
+    }
+  ]
+}
