@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter-creatures",
+  "title": "Magical Creatures",
+  "description": "How well do you know the beasts of the wizarding world?",
+  "icon": "pets",
+  "category": "harry-potter",
+  "coverColor": "#388E3C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What three-headed dog guards the Philosopher's Stone?",
+      "options": [
+        { "id": "a", "text": "Fang", "isCorrect": false },
+        { "id": "b", "text": "Fluffy", "isCorrect": true },
+        { "id": "c", "text": "Norbert", "isCorrect": false },
+        { "id": "d", "text": "Buckbeak", "isCorrect": false }
+      ],
+      "explanation": "Fluffy is Hagrid's three-headed dog who can be put to sleep with music!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Hippogriffs must be bowed to before you can approach them.",
+      "correctAnswer": true,
+      "explanation": "Hippogriffs are proud creatures - you must bow and wait for them to bow back before approaching!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What creature can only be seen by those who have witnessed death?",
+      "options": [
+        { "id": "a", "text": "Dementor", "isCorrect": false },
+        { "id": "b", "text": "Thestral", "isCorrect": true },
+        { "id": "c", "text": "Phoenix", "isCorrect": false },
+        { "id": "d", "text": "Basilisk", "isCorrect": false }
+      ],
+      "explanation": "Thestrals are skeletal winged horses that are invisible to those who haven't seen death!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Dumbledore's phoenix named?",
+      "options": [
+        { "id": "a", "text": "Fawkes", "isCorrect": true },
+        { "id": "b", "text": "Norbert", "isCorrect": false },
+        { "id": "c", "text": "Scabbers", "isCorrect": false },
+        { "id": "d", "text": "Crookshanks", "isCorrect": false }
+      ],
+      "explanation": "Fawkes is Dumbledore's loyal phoenix who helps Harry in the Chamber of Secrets and can carry immensely heavy loads!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "A Basilisk can kill with its stare.",
+      "correctAnswer": true,
+      "explanation": "The Basilisk's direct gaze causes instant death, while seeing it indirectly (like through a mirror) causes petrification!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What creature is Aragog?",
+      "options": [
+        { "id": "a", "text": "Dragon", "isCorrect": false },
+        { "id": "b", "text": "Acromantula (Giant Spider)", "isCorrect": true },
+        { "id": "c", "text": "Werewolf", "isCorrect": false },
+        { "id": "d", "text": "Troll", "isCorrect": false }
+      ],
+      "explanation": "Aragog is a giant Acromantula who Hagrid raised from an egg and lives in the Forbidden Forest!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What do Dementors feed on?",
+      "options": [
+        { "id": "a", "text": "Blood", "isCorrect": false },
+        { "id": "b", "text": "Human souls and happiness", "isCorrect": true },
+        { "id": "c", "text": "Magic", "isCorrect": false },
+        { "id": "d", "text": "Fear", "isCorrect": false }
+      ],
+      "explanation": "Dementors drain peace, hope, and happiness from their surroundings. The Dementor's Kiss removes a person's soul entirely!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "House-elves are freed when given clothes by their master.",
+      "correctAnswer": true,
+      "explanation": "House-elves are bound to serve until given clothes. Harry freed Dobby by tricking Lucius Malfoy into giving Dobby a sock!",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter-characters",
+  "title": "Characters & Stories",
+  "description": "Deep dive into the characters and plot of Harry Potter!",
+  "icon": "people",
+  "category": "harry-potter",
+  "coverColor": "#C62828",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who betrayed Harry's parents to Voldemort?",
+      "options": [
+        { "id": "a", "text": "Sirius Black", "isCorrect": false },
+        { "id": "b", "text": "Remus Lupin", "isCorrect": false },
+        { "id": "c", "text": "Peter Pettigrew", "isCorrect": true },
+        { "id": "d", "text": "Severus Snape", "isCorrect": false }
+      ],
+      "explanation": "Peter Pettigrew (Wormtail) was the Potters' Secret Keeper who betrayed them to Voldemort, framing Sirius Black!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Neville Longbottom destroys the final Horcrux.",
+      "correctAnswer": true,
+      "explanation": "Neville kills Nagini with the Sword of Gryffindor, destroying Voldemort's final Horcrux!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is Hermione's middle name?",
+      "options": [
+        { "id": "a", "text": "Jane", "isCorrect": true },
+        { "id": "b", "text": "Rose", "isCorrect": false },
+        { "id": "c", "text": "Marie", "isCorrect": false },
+        { "id": "d", "text": "Anne", "isCorrect": false }
+      ],
+      "explanation": "Hermione Jean Granger is her full name. She later becomes Hermione Weasley after marrying Ron!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is the Half-Blood Prince?",
+      "options": [
+        { "id": "a", "text": "Harry Potter", "isCorrect": false },
+        { "id": "b", "text": "Voldemort", "isCorrect": false },
+        { "id": "c", "text": "Severus Snape", "isCorrect": true },
+        { "id": "d", "text": "Draco Malfoy", "isCorrect": false }
+      ],
+      "explanation": "Severus Snape is the Half-Blood Prince - his mother was the witch Eileen Prince, and his father was a Muggle!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Snape was in love with Harry's mother, Lily.",
+      "correctAnswer": true,
+      "explanation": "Snape loved Lily Potter his entire life. His Patronus was a doe, matching hers, and he protected Harry because of her!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "How many Horcruxes did Voldemort create?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": false },
+        { "id": "c", "text": "7", "isCorrect": true },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "Voldemort created 7 Horcruxes (though one - Harry - was unintentional): the diary, ring, locket, cup, diadem, Nagini, and Harry!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What are the three Deathly Hallows?",
+      "options": [
+        { "id": "a", "text": "Elder Wand, Resurrection Stone, Invisibility Cloak", "isCorrect": true },
+        { "id": "b", "text": "Elder Wand, Philosopher's Stone, Invisibility Cloak", "isCorrect": false },
+        { "id": "c", "text": "Elder Wand, Time Turner, Invisibility Cloak", "isCorrect": false },
+        { "id": "d", "text": "Sword of Gryffindor, Resurrection Stone, Invisibility Cloak", "isCorrect": false }
+      ],
+      "explanation": "The Deathly Hallows are legendary items from the tale of the three brothers - Harry becomes master of all three!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Fred Weasley dies in the Battle of Hogwarts.",
+      "correctAnswer": true,
+      "explanation": "Fred Weasley tragically dies during the Battle of Hogwarts, one of many losses in the final fight against Voldemort.",
+      "points": 10
+    }
+  ]
+}

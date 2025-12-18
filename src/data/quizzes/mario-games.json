@@ -1,0 +1,99 @@
+{
+  "id": "mario-games",
+  "title": "Mario Games History",
+  "description": "Test your knowledge of Mario's gaming legacy!",
+  "icon": "videogame_asset",
+  "category": "mario",
+  "coverColor": "#673AB7",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What year did the original Super Mario Bros. release?",
+      "options": [
+        { "id": "a", "text": "1983", "isCorrect": false },
+        { "id": "b", "text": "1985", "isCorrect": true },
+        { "id": "c", "text": "1987", "isCorrect": false },
+        { "id": "d", "text": "1990", "isCorrect": false }
+      ],
+      "explanation": "Super Mario Bros. was released in 1985 for the NES and became one of the best-selling games of all time!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Mario first appeared in the game Donkey Kong.",
+      "correctAnswer": true,
+      "explanation": "Mario debuted as 'Jumpman' in Donkey Kong (1981), where he had to rescue his girlfriend from the ape!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Which Mario game introduced Yoshi?",
+      "options": [
+        { "id": "a", "text": "Super Mario Bros. 3", "isCorrect": false },
+        { "id": "b", "text": "Super Mario World", "isCorrect": true },
+        { "id": "c", "text": "Super Mario 64", "isCorrect": false },
+        { "id": "d", "text": "Super Mario Sunshine", "isCorrect": false }
+      ],
+      "explanation": "Yoshi first appeared in Super Mario World (1990) for the Super Nintendo!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What was Mario's first 3D platformer?",
+      "options": [
+        { "id": "a", "text": "Super Mario Sunshine", "isCorrect": false },
+        { "id": "b", "text": "Super Mario 64", "isCorrect": true },
+        { "id": "c", "text": "Super Mario Galaxy", "isCorrect": false },
+        { "id": "d", "text": "Super Mario 3D Land", "isCorrect": false }
+      ],
+      "explanation": "Super Mario 64 (1996) was the first 3D Mario game and a launch title for the Nintendo 64!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Super Mario Odyssey features a hat named Cappy that Mario can throw.",
+      "correctAnswer": true,
+      "explanation": "In Super Mario Odyssey (2017), Cappy allows Mario to possess enemies and objects by throwing him at them!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which game features Mario using a water-spraying backpack called F.L.U.D.D.?",
+      "options": [
+        { "id": "a", "text": "Super Mario Galaxy", "isCorrect": false },
+        { "id": "b", "text": "Super Mario Sunshine", "isCorrect": true },
+        { "id": "c", "text": "Super Mario 3D World", "isCorrect": false },
+        { "id": "d", "text": "Super Mario Odyssey", "isCorrect": false }
+      ],
+      "explanation": "Super Mario Sunshine (2002) takes place on Isle Delfino where Mario uses F.L.U.D.D. to clean up goop!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What RPG series features Mario, Bowser, and original characters?",
+      "options": [
+        { "id": "a", "text": "Paper Mario", "isCorrect": false },
+        { "id": "b", "text": "Mario & Luigi", "isCorrect": true },
+        { "id": "c", "text": "Super Mario RPG", "isCorrect": false },
+        { "id": "d", "text": "All of these", "isCorrect": false }
+      ],
+      "explanation": "The Mario & Luigi series (starting with Superstar Saga) features turn-based battles with both brothers!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Super Mario Bros. Movie (2023) was produced by Illumination.",
+      "correctAnswer": true,
+      "explanation": "The animated Mario movie was made by Illumination and Nintendo, featuring Chris Pratt as Mario's voice!",
+      "points": 10
+    }
+  ]
+}

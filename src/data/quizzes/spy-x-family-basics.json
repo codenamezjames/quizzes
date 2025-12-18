@@ -1,0 +1,99 @@
+{
+  "id": "spy-x-family-basics",
+  "title": "Spy x Family Basics",
+  "description": "Test your knowledge of the Forger family and their secret lives!",
+  "icon": "family_restroom",
+  "category": "spy-x-family",
+  "coverColor": "#E91E63",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Loid Forger's codename as a spy?",
+      "options": [
+        { "id": "a", "text": "Twilight", "isCorrect": true },
+        { "id": "b", "text": "Shadow", "isCorrect": false },
+        { "id": "c", "text": "Nightfall", "isCorrect": false },
+        { "id": "d", "text": "Dusk", "isCorrect": false }
+      ],
+      "explanation": "Loid Forger is known as 'Twilight', Westalis's greatest spy!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Anya can read minds.",
+      "correctAnswer": true,
+      "explanation": "Anya is a telepath who can read the thoughts of people around her - though she keeps this secret from her family!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is Yor Forger's secret profession?",
+      "options": [
+        { "id": "a", "text": "Spy", "isCorrect": false },
+        { "id": "b", "text": "Assassin", "isCorrect": true },
+        { "id": "c", "text": "Police officer", "isCorrect": false },
+        { "id": "d", "text": "Soldier", "isCorrect": false }
+      ],
+      "explanation": "Yor is secretly an assassin known as 'Thorn Princess' who works for an underground organization!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What school does Anya attend?",
+      "options": [
+        { "id": "a", "text": "Westalis Academy", "isCorrect": false },
+        { "id": "b", "text": "Eden Academy", "isCorrect": true },
+        { "id": "c", "text": "Ostania School", "isCorrect": false },
+        { "id": "d", "text": "Berlint Academy", "isCorrect": false }
+      ],
+      "explanation": "Anya attends the prestigious Eden Academy, which is crucial for Operation Strix!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Bond is a dog who can see the future.",
+      "correctAnswer": true,
+      "explanation": "Bond is a precognitive dog who was experimented on and can see glimpses of the future!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is the name of Loid's mission to prevent war?",
+      "options": [
+        { "id": "a", "text": "Operation Owl", "isCorrect": false },
+        { "id": "b", "text": "Operation Strix", "isCorrect": true },
+        { "id": "c", "text": "Operation Forger", "isCorrect": false },
+        { "id": "d", "text": "Operation Peace", "isCorrect": false }
+      ],
+      "explanation": "Operation Strix requires Twilight to get close to Donovan Desmond by having his child befriend Desmond's son!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What are the star rewards called at Eden Academy?",
+      "options": [
+        { "id": "a", "text": "Stella Stars", "isCorrect": true },
+        { "id": "b", "text": "Eden Points", "isCorrect": false },
+        { "id": "c", "text": "Gold Stars", "isCorrect": false },
+        { "id": "d", "text": "Merit Badges", "isCorrect": false }
+      ],
+      "explanation": "Stella Stars are rewards for exceptional behavior or academics. Anya needs 8 to become an Imperial Scholar!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Yor's younger brother Yuri works for the secret police.",
+      "correctAnswer": true,
+      "explanation": "Yuri Briar works for the State Security Service (SSS) and is dedicated to catching spies - ironic since his brother-in-law is one!",
+      "points": 10
+    }
+  ]
+}

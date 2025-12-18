@@ -1,0 +1,99 @@
+{
+  "id": "minecraft-dimensions",
+  "title": "Biomes & Dimensions",
+  "description": "Explore the diverse worlds and dimensions of Minecraft!",
+  "icon": "public",
+  "category": "minecraft",
+  "coverColor": "#009688",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many dimensions are there in vanilla Minecraft?",
+      "options": [
+        { "id": "a", "text": "2", "isCorrect": false },
+        { "id": "b", "text": "3", "isCorrect": true },
+        { "id": "c", "text": "4", "isCorrect": false },
+        { "id": "d", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Minecraft has 3 dimensions: the Overworld, the Nether, and the End!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Ancient Debris is found in the Nether.",
+      "correctAnswer": true,
+      "explanation": "Ancient Debris spawns in the Nether and can be smelted into Netherite Scraps to make Netherite gear!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What biome do Mooshrooms spawn in?",
+      "options": [
+        { "id": "a", "text": "Plains", "isCorrect": false },
+        { "id": "b", "text": "Mushroom Fields", "isCorrect": true },
+        { "id": "c", "text": "Dark Forest", "isCorrect": false },
+        { "id": "d", "text": "Swamp", "isCorrect": false }
+      ],
+      "explanation": "Mooshrooms only spawn in the rare Mushroom Fields biome, which is also the only biome where hostile mobs don't spawn!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What structure in the End contains Elytra?",
+      "options": [
+        { "id": "a", "text": "End Portal", "isCorrect": false },
+        { "id": "b", "text": "End Ship", "isCorrect": true },
+        { "id": "c", "text": "Obsidian Pillar", "isCorrect": false },
+        { "id": "d", "text": "End Gateway", "isCorrect": false }
+      ],
+      "explanation": "Elytra are found in End Ships, which float near End Cities in the outer End islands!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "The Deep Dark biome contains the Warden.",
+      "correctAnswer": true,
+      "explanation": "The Deep Dark is home to the terrifying Warden, one of the strongest mobs in Minecraft!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What Nether biome is made of blue fog and warped fungi?",
+      "options": [
+        { "id": "a", "text": "Crimson Forest", "isCorrect": false },
+        { "id": "b", "text": "Warped Forest", "isCorrect": true },
+        { "id": "c", "text": "Soul Sand Valley", "isCorrect": false },
+        { "id": "d", "text": "Basalt Deltas", "isCorrect": false }
+      ],
+      "explanation": "The Warped Forest is a cyan/blue biome with warped fungi. It's the safest Nether biome since Endermen are the only hostiles!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Where do you find Axolotls?",
+      "options": [
+        { "id": "a", "text": "Rivers", "isCorrect": false },
+        { "id": "b", "text": "Lush Caves", "isCorrect": true },
+        { "id": "c", "text": "Ocean", "isCorrect": false },
+        { "id": "d", "text": "Swamp", "isCorrect": false }
+      ],
+      "explanation": "Axolotls spawn in Lush Caves underwater. The blue variant is the rarest!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "You need Ender Pearls and Blaze Powder to make Eyes of Ender.",
+      "correctAnswer": true,
+      "explanation": "Eyes of Ender are crafted from Ender Pearls and Blaze Powder, and are needed to find and activate the End Portal!",
+      "points": 10
+    }
+  ]
+}

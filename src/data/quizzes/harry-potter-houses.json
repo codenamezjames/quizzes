@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter-houses",
+  "title": "Hogwarts Houses",
+  "description": "Test your knowledge of the four Hogwarts houses!",
+  "icon": "school",
+  "category": "harry-potter",
+  "coverColor": "#1565C0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What are the colors of Gryffindor house?",
+      "options": [
+        { "id": "a", "text": "Red and Gold", "isCorrect": true },
+        { "id": "b", "text": "Green and Silver", "isCorrect": false },
+        { "id": "c", "text": "Blue and Bronze", "isCorrect": false },
+        { "id": "d", "text": "Yellow and Black", "isCorrect": false }
+      ],
+      "explanation": "Gryffindor's colors are scarlet red and gold, with a lion as its symbol!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Slytherin's animal symbol is a snake.",
+      "correctAnswer": true,
+      "explanation": "Slytherin's symbol is a serpent, fitting since founder Salazar Slytherin was a Parselmouth (could speak to snakes)!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Which house values intelligence and wisdom?",
+      "options": [
+        { "id": "a", "text": "Gryffindor", "isCorrect": false },
+        { "id": "b", "text": "Hufflepuff", "isCorrect": false },
+        { "id": "c", "text": "Ravenclaw", "isCorrect": true },
+        { "id": "d", "text": "Slytherin", "isCorrect": false }
+      ],
+      "explanation": "Ravenclaw values wit, learning, and wisdom. Its members are known for their cleverness and creativity!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What trait does Hufflepuff most value?",
+      "options": [
+        { "id": "a", "text": "Bravery", "isCorrect": false },
+        { "id": "b", "text": "Ambition", "isCorrect": false },
+        { "id": "c", "text": "Intelligence", "isCorrect": false },
+        { "id": "d", "text": "Loyalty and Hard Work", "isCorrect": true }
+      ],
+      "explanation": "Hufflepuff values hard work, patience, loyalty, and fair play. Cedric Diggory was a famous Hufflepuff!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "The Sorting Hat was originally owned by Godric Gryffindor.",
+      "correctAnswer": true,
+      "explanation": "The four founders enchanted Godric Gryffindor's hat to sort students after they were gone!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is the head of Slytherin house when Harry attends Hogwarts?",
+      "options": [
+        { "id": "a", "text": "Minerva McGonagall", "isCorrect": false },
+        { "id": "b", "text": "Severus Snape", "isCorrect": true },
+        { "id": "c", "text": "Filius Flitwick", "isCorrect": false },
+        { "id": "d", "text": "Pomona Sprout", "isCorrect": false }
+      ],
+      "explanation": "Severus Snape is the head of Slytherin and Potions Master, though he was secretly protecting Harry all along!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What animal represents Ravenclaw?",
+      "options": [
+        { "id": "a", "text": "Raven", "isCorrect": false },
+        { "id": "b", "text": "Eagle", "isCorrect": true },
+        { "id": "c", "text": "Owl", "isCorrect": false },
+        { "id": "d", "text": "Hawk", "isCorrect": false }
+      ],
+      "explanation": "Despite the name, Ravenclaw's symbol is actually an eagle! The house colors are blue and bronze.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Draco Malfoy is in Slytherin house.",
+      "correctAnswer": true,
+      "explanation": "Draco Malfoy is sorted into Slytherin immediately, following his family's tradition of being in that house!",
+      "points": 10
+    }
+  ]
+}

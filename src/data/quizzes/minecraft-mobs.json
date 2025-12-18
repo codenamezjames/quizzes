@@ -1,0 +1,99 @@
+{
+  "id": "minecraft-mobs",
+  "title": "Mobs & Creatures",
+  "description": "How well do you know Minecraft's creatures and monsters?",
+  "icon": "bug_report",
+  "category": "minecraft",
+  "coverColor": "#4CAF50",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What happens when a Creeper is struck by lightning?",
+      "options": [
+        { "id": "a", "text": "It dies instantly", "isCorrect": false },
+        { "id": "b", "text": "It becomes a Charged Creeper", "isCorrect": true },
+        { "id": "c", "text": "It splits into two Creepers", "isCorrect": false },
+        { "id": "d", "text": "Nothing happens", "isCorrect": false }
+      ],
+      "explanation": "Lightning turns Creepers into Charged Creepers, which have a much more powerful explosion!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Endermen take damage from water.",
+      "correctAnswer": true,
+      "explanation": "Endermen are hurt by water and will teleport away when it touches them. Rain also damages them!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How do you summon the Wither boss?",
+      "options": [
+        { "id": "a", "text": "4 Soul Sand and 3 Wither Skeleton Skulls", "isCorrect": true },
+        { "id": "b", "text": "4 Obsidian and 3 Wither Skeleton Skulls", "isCorrect": false },
+        { "id": "c", "text": "4 Netherrack and 3 Skeleton Skulls", "isCorrect": false },
+        { "id": "d", "text": "Use a special spawn egg", "isCorrect": false }
+      ],
+      "explanation": "The Wither is summoned by placing 4 Soul Sand in a T-shape and 3 Wither Skeleton Skulls on top!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What mob can you ride across lava in the Nether?",
+      "options": [
+        { "id": "a", "text": "Pig", "isCorrect": false },
+        { "id": "b", "text": "Strider", "isCorrect": true },
+        { "id": "c", "text": "Ghast", "isCorrect": false },
+        { "id": "d", "text": "Magma Cube", "isCorrect": false }
+      ],
+      "explanation": "Striders can walk on lava and be ridden using a saddle and warped fungus on a stick!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Zombies can break down wooden doors on Hard difficulty.",
+      "correctAnswer": true,
+      "explanation": "On Hard difficulty, zombies can break down wooden doors, making iron doors or other barriers essential!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What do Piglins love to trade for?",
+      "options": [
+        { "id": "a", "text": "Diamonds", "isCorrect": false },
+        { "id": "b", "text": "Gold Ingots", "isCorrect": true },
+        { "id": "c", "text": "Emeralds", "isCorrect": false },
+        { "id": "d", "text": "Iron Ingots", "isCorrect": false }
+      ],
+      "explanation": "Piglins are obsessed with gold! Give them Gold Ingots and they'll barter random items with you.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is dropped by the Ender Dragon when defeated?",
+      "options": [
+        { "id": "a", "text": "Dragon Egg and XP", "isCorrect": true },
+        { "id": "b", "text": "Elytra", "isCorrect": false },
+        { "id": "c", "text": "Nether Star", "isCorrect": false },
+        { "id": "d", "text": "Dragon Scales", "isCorrect": false }
+      ],
+      "explanation": "The Ender Dragon drops a Dragon Egg (decorative) and massive amounts of XP. The Elytra is found in End Cities!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Iron Golems attack players who hurt villagers.",
+      "correctAnswer": true,
+      "explanation": "Iron Golems protect villagers and will attack any player who harms them. They're incredibly strong!",
+      "points": 10
+    }
+  ]
+}

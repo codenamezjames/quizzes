@@ -1,0 +1,99 @@
+{
+  "id": "mario-basics",
+  "title": "Mario Basics",
+  "description": "Test your knowledge of the Mushroom Kingdom's hero!",
+  "icon": "star",
+  "category": "mario",
+  "coverColor": "#E53935",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Mario's brother's name?",
+      "options": [
+        { "id": "a", "text": "Luigi", "isCorrect": true },
+        { "id": "b", "text": "Wario", "isCorrect": false },
+        { "id": "c", "text": "Waluigi", "isCorrect": false },
+        { "id": "d", "text": "Toad", "isCorrect": false }
+      ],
+      "explanation": "Luigi is Mario's younger twin brother, known for his green outfit and taller, thinner appearance!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Princess Peach rules the Mushroom Kingdom.",
+      "correctAnswer": true,
+      "explanation": "Princess Peach is the ruler of the Mushroom Kingdom and is frequently rescued by Mario from Bowser!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of Mario's main enemy?",
+      "options": [
+        { "id": "a", "text": "Ganon", "isCorrect": false },
+        { "id": "b", "text": "Bowser", "isCorrect": true },
+        { "id": "c", "text": "Dr. Eggman", "isCorrect": false },
+        { "id": "d", "text": "King Dedede", "isCorrect": false }
+      ],
+      "explanation": "Bowser, also known as King Koopa, is the main antagonist who constantly kidnaps Princess Peach!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What job did Mario originally have?",
+      "options": [
+        { "id": "a", "text": "Plumber", "isCorrect": false },
+        { "id": "b", "text": "Carpenter", "isCorrect": true },
+        { "id": "c", "text": "Electrician", "isCorrect": false },
+        { "id": "d", "text": "Chef", "isCorrect": false }
+      ],
+      "explanation": "Mario was originally a carpenter in the arcade game Donkey Kong (1981). He became a plumber later!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Yoshi is a dinosaur that Mario can ride.",
+      "correctAnswer": true,
+      "explanation": "Yoshi is Mario's friendly dinosaur companion who first appeared in Super Mario World and can eat enemies with his long tongue!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What does Mario collect for extra lives?",
+      "options": [
+        { "id": "a", "text": "Coins (100)", "isCorrect": true },
+        { "id": "b", "text": "Stars", "isCorrect": false },
+        { "id": "c", "text": "Rings", "isCorrect": false },
+        { "id": "d", "text": "Hearts", "isCorrect": false }
+      ],
+      "explanation": "Collecting 100 coins gives Mario an extra life! Green 1-Up Mushrooms also grant extra lives.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What color is Mario's hat?",
+      "options": [
+        { "id": "a", "text": "Green", "isCorrect": false },
+        { "id": "b", "text": "Blue", "isCorrect": false },
+        { "id": "c", "text": "Red", "isCorrect": true },
+        { "id": "d", "text": "Yellow", "isCorrect": false }
+      ],
+      "explanation": "Mario wears his iconic red cap with an 'M' on it, along with his red shirt and blue overalls!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Toads are the mushroom-headed citizens of the Mushroom Kingdom.",
+      "correctAnswer": true,
+      "explanation": "Toads are the mushroom-like inhabitants who serve Princess Peach and often help Mario on his adventures!",
+      "points": 10
+    }
+  ]
+}

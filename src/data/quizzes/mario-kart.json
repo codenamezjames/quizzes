@@ -1,0 +1,99 @@
+{
+  "id": "mario-kart",
+  "title": "Mario Kart",
+  "description": "Rev your engines and test your Mario Kart knowledge!",
+  "icon": "directions_car",
+  "category": "mario",
+  "coverColor": "#2196F3",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What item can you throw behind you or forward to hit opponents?",
+      "options": [
+        { "id": "a", "text": "Banana", "isCorrect": false },
+        { "id": "b", "text": "Green Shell", "isCorrect": true },
+        { "id": "c", "text": "Bob-omb", "isCorrect": false },
+        { "id": "d", "text": "Fake Item Box", "isCorrect": false }
+      ],
+      "explanation": "Green Shells travel in a straight line and can be thrown forward or dropped behind!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Blue Shell targets the player in first place.",
+      "correctAnswer": true,
+      "explanation": "The dreaded Blue Shell (Spiny Shell) flies to first place and explodes, often ruining victories at the last second!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the most famous rainbow-colored track in Mario Kart?",
+      "options": [
+        { "id": "a", "text": "Rainbow Road", "isCorrect": true },
+        { "id": "b", "text": "Rainbow Circuit", "isCorrect": false },
+        { "id": "c", "text": "Star Road", "isCorrect": false },
+        { "id": "d", "text": "Rainbow Highway", "isCorrect": false }
+      ],
+      "explanation": "Rainbow Road is the iconic final track in most Mario Kart cups, known for being beautiful and difficult!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What does the Lightning Bolt item do?",
+      "options": [
+        { "id": "a", "text": "Speeds you up", "isCorrect": false },
+        { "id": "b", "text": "Shrinks all other racers", "isCorrect": true },
+        { "id": "c", "text": "Creates a storm", "isCorrect": false },
+        { "id": "d", "text": "Gives you invincibility", "isCorrect": false }
+      ],
+      "explanation": "The Lightning Bolt shrinks all other racers, making them slower and vulnerable to being squished!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "You can do a speed boost by drifting in Mario Kart.",
+      "correctAnswer": true,
+      "explanation": "Drifting and holding it builds up a mini-turbo boost, essential for competitive racing!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which character is the heaviest in most Mario Kart games?",
+      "options": [
+        { "id": "a", "text": "Donkey Kong", "isCorrect": false },
+        { "id": "b", "text": "Bowser", "isCorrect": true },
+        { "id": "c", "text": "Wario", "isCorrect": false },
+        { "id": "d", "text": "King Boo", "isCorrect": false }
+      ],
+      "explanation": "Bowser is typically the heaviest character, giving him high top speed but slower acceleration!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What does the Bullet Bill item do?",
+      "options": [
+        { "id": "a", "text": "Shoots other racers", "isCorrect": false },
+        { "id": "b", "text": "Transforms you into a Bullet Bill that auto-drives", "isCorrect": true },
+        { "id": "c", "text": "Drops bullets on the track", "isCorrect": false },
+        { "id": "d", "text": "Gives you a speed boost", "isCorrect": false }
+      ],
+      "explanation": "The Bullet Bill transforms your kart, automatically driving at high speed and knocking away anyone in your path!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Mario Kart 8 Deluxe is available on the Nintendo Switch.",
+      "correctAnswer": true,
+      "explanation": "Mario Kart 8 Deluxe is one of the best-selling Switch games, with the Booster Course Pass adding 48 extra tracks!",
+      "points": 10
+    }
+  ]
+}

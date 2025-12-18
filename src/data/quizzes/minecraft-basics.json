@@ -1,0 +1,99 @@
+{
+  "id": "minecraft-basics",
+  "title": "Minecraft Basics",
+  "description": "Test your knowledge of the blocky world of Minecraft!",
+  "icon": "grid_view",
+  "category": "minecraft",
+  "coverColor": "#8BC34A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What tool do you need to mine diamonds?",
+      "options": [
+        { "id": "a", "text": "Stone Pickaxe", "isCorrect": false },
+        { "id": "b", "text": "Iron Pickaxe", "isCorrect": true },
+        { "id": "c", "text": "Gold Pickaxe", "isCorrect": false },
+        { "id": "d", "text": "Wooden Pickaxe", "isCorrect": false }
+      ],
+      "explanation": "You need at least an Iron Pickaxe to mine diamonds. Using anything weaker will destroy the diamond ore!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "You can sleep in a bed in the Nether.",
+      "correctAnswer": false,
+      "explanation": "Beds explode when you try to use them in the Nether or the End! It's actually used as a combat strategy.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How many blocks of obsidian do you need for a Nether Portal?",
+      "options": [
+        { "id": "a", "text": "8", "isCorrect": false },
+        { "id": "b", "text": "10", "isCorrect": true },
+        { "id": "c", "text": "12", "isCorrect": false },
+        { "id": "d", "text": "14", "isCorrect": false }
+      ],
+      "explanation": "A minimum Nether Portal requires 10 obsidian blocks (4x5 frame without corners), though 14 makes a complete frame!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What do you feed wolves to tame them?",
+      "options": [
+        { "id": "a", "text": "Steak", "isCorrect": false },
+        { "id": "b", "text": "Bones", "isCorrect": true },
+        { "id": "c", "text": "Fish", "isCorrect": false },
+        { "id": "d", "text": "Bread", "isCorrect": false }
+      ],
+      "explanation": "Wolves are tamed by feeding them bones. Once tamed, they become loyal dogs that follow and protect you!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Creepers are afraid of cats.",
+      "correctAnswer": true,
+      "explanation": "Creepers will actively avoid cats and ocelots, making them useful for protecting your base!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is the rarest ore in the Overworld?",
+      "options": [
+        { "id": "a", "text": "Diamond", "isCorrect": false },
+        { "id": "b", "text": "Emerald", "isCorrect": true },
+        { "id": "c", "text": "Gold", "isCorrect": false },
+        { "id": "d", "text": "Lapis Lazuli", "isCorrect": false }
+      ],
+      "explanation": "Emerald ore is the rarest ore in the Overworld, only spawning in mountain biomes!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What do you need to make a crafting table?",
+      "options": [
+        { "id": "a", "text": "4 wooden planks", "isCorrect": true },
+        { "id": "b", "text": "4 logs", "isCorrect": false },
+        { "id": "c", "text": "8 wooden planks", "isCorrect": false },
+        { "id": "d", "text": "4 sticks", "isCorrect": false }
+      ],
+      "explanation": "A crafting table is made from 4 wooden planks arranged in a 2x2 square!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Water flows further in the desert biome.",
+      "correctAnswer": false,
+      "explanation": "Water flows the same distance (7 blocks) in all biomes. However, it evaporates instantly in the Nether!",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "disney-frozen",
+  "title": "Frozen & Modern Disney",
+  "description": "Test your knowledge of Frozen and modern Disney hits!",
+  "icon": "ac_unit",
+  "category": "disney",
+  "coverColor": "#4FC3F7",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Elsa's magical power in Frozen?",
+      "options": [
+        { "id": "a", "text": "Fire", "isCorrect": false },
+        { "id": "b", "text": "Ice and snow", "isCorrect": true },
+        { "id": "c", "text": "Wind", "isCorrect": false },
+        { "id": "d", "text": "Water", "isCorrect": false }
+      ],
+      "explanation": "Elsa was born with the magical ability to create ice and snow, which she struggles to control!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Olaf is a snowman who dreams of experiencing summer.",
+      "correctAnswer": true,
+      "explanation": "Olaf loves warm hugs and ironically dreams of summer, not realizing he would melt!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the famous song from Frozen that Elsa sings?",
+      "options": [
+        { "id": "a", "text": "Into the Unknown", "isCorrect": false },
+        { "id": "b", "text": "Let It Go", "isCorrect": true },
+        { "id": "c", "text": "Do You Want to Build a Snowman?", "isCorrect": false },
+        { "id": "d", "text": "For the First Time in Forever", "isCorrect": false }
+      ],
+      "explanation": "'Let It Go' became a worldwide phenomenon, winning the Academy Award for Best Original Song!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "In Moana, what does she have to return to Te Fiti?",
+      "options": [
+        { "id": "a", "text": "A magical flower", "isCorrect": false },
+        { "id": "b", "text": "The heart of Te Fiti", "isCorrect": true },
+        { "id": "c", "text": "A sacred shell", "isCorrect": false },
+        { "id": "d", "text": "Maui's fish hook", "isCorrect": false }
+      ],
+      "explanation": "Moana must return the heart of Te Fiti, a small pounamu stone, to restore life to her island!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Maui is a demigod who can shapeshift.",
+      "correctAnswer": true,
+      "explanation": "Maui uses his magical fish hook to transform into various animals, though he's rusty after being stranded for 1000 years!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "In Encanto, what is special about the Madrigal family?",
+      "options": [
+        { "id": "a", "text": "They're royalty", "isCorrect": false },
+        { "id": "b", "text": "They each have a magical gift", "isCorrect": true },
+        { "id": "c", "text": "They can time travel", "isCorrect": false },
+        { "id": "d", "text": "They're immortal", "isCorrect": false }
+      ],
+      "explanation": "Each family member receives a unique magical gift, except for Mirabel who must save the family's magic!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the name of Anna and Elsa's kingdom?",
+      "options": [
+        { "id": "a", "text": "Corona", "isCorrect": false },
+        { "id": "b", "text": "Arendelle", "isCorrect": true },
+        { "id": "c", "text": "Atlantis", "isCorrect": false },
+        { "id": "d", "text": "Agrabah", "isCorrect": false }
+      ],
+      "explanation": "Arendelle is the Scandinavian-inspired kingdom ruled by Elsa as queen, with Anna as princess!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "In Coco, Miguel travels to the Land of the Dead.",
+      "correctAnswer": true,
+      "explanation": "Miguel accidentally enters the Land of the Dead during Día de los Muertos and must find his way back before sunrise!",
+      "points": 10
+    }
+  ]
+}

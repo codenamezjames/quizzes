@@ -1,0 +1,99 @@
+{
+  "id": "mario-enemies",
+  "title": "Enemies & Bosses",
+  "description": "How well do you know the baddies of the Mushroom Kingdom?",
+  "icon": "pest_control",
+  "category": "mario",
+  "coverColor": "#795548",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the walking mushroom enemies?",
+      "options": [
+        { "id": "a", "text": "Goombas", "isCorrect": true },
+        { "id": "b", "text": "Toads", "isCorrect": false },
+        { "id": "c", "text": "Shrooms", "isCorrect": false },
+        { "id": "d", "text": "Fungi", "isCorrect": false }
+      ],
+      "explanation": "Goombas are the iconic brown mushroom enemies that are defeated with a simple stomp!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Koopa Troopas have shells that Mario can kick.",
+      "correctAnswer": true,
+      "explanation": "Koopa Troopas retreat into their shells when stomped, which Mario can then kick at other enemies!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What enemy hides in clouds and throws Spinies?",
+      "options": [
+        { "id": "a", "text": "Lakitu", "isCorrect": true },
+        { "id": "b", "text": "Para-Goomba", "isCorrect": false },
+        { "id": "c", "text": "Hammer Bro", "isCorrect": false },
+        { "id": "d", "text": "Magikoopa", "isCorrect": false }
+      ],
+      "explanation": "Lakitu floats on a cloud and throws Spinies down at Mario. In Mario Kart, he also rescues fallen racers!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What are Bowser's children called?",
+      "options": [
+        { "id": "a", "text": "Koopa Kids", "isCorrect": false },
+        { "id": "b", "text": "Koopalings", "isCorrect": true },
+        { "id": "c", "text": "Bowserlings", "isCorrect": false },
+        { "id": "d", "text": "Mini Bowsers", "isCorrect": false }
+      ],
+      "explanation": "The Koopalings are Bowser's seven minions: Larry, Morton, Wendy, Iggy, Roy, Lemmy, and Ludwig!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Boos are ghosts that stop moving when you look at them.",
+      "correctAnswer": true,
+      "explanation": "Boos are shy ghosts that cover their faces and freeze when Mario looks at them, but chase him when he turns away!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What enemy shoots bullets from cannons?",
+      "options": [
+        { "id": "a", "text": "Bullet Bill", "isCorrect": true },
+        { "id": "b", "text": "Bob-omb", "isCorrect": false },
+        { "id": "c", "text": "Torpedo Ted", "isCorrect": false },
+        { "id": "d", "text": "Rocky Wrench", "isCorrect": false }
+      ],
+      "explanation": "Bullet Bills are large bullet-shaped enemies fired from Bill Blasters, flying straight at Mario!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Bowser Jr.'s relationship to Bowser?",
+      "options": [
+        { "id": "a", "text": "Brother", "isCorrect": false },
+        { "id": "b", "text": "Son", "isCorrect": true },
+        { "id": "c", "text": "Clone", "isCorrect": false },
+        { "id": "d", "text": "Nephew", "isCorrect": false }
+      ],
+      "explanation": "Bowser Jr. is Bowser's son, first appearing in Super Mario Sunshine where he believed Peach was his mother!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Chain Chomps are dog-like enemies attached to chains.",
+      "correctAnswer": true,
+      "explanation": "Chain Chomps are aggressive ball-and-chain enemies that lunge at Mario, inspired by a dog that scared Miyamoto as a child!",
+      "points": 10
+    }
+  ]
+}

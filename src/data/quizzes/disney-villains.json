@@ -1,0 +1,99 @@
+{
+  "id": "disney-villains",
+  "title": "Disney Villains",
+  "description": "How well do you know Disney's most wicked characters?",
+  "icon": "whatshot",
+  "category": "disney",
+  "coverColor": "#6A1B9A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the villain in The Little Mermaid?",
+      "options": [
+        { "id": "a", "text": "Maleficent", "isCorrect": false },
+        { "id": "b", "text": "Ursula", "isCorrect": true },
+        { "id": "c", "text": "Cruella de Vil", "isCorrect": false },
+        { "id": "d", "text": "The Evil Queen", "isCorrect": false }
+      ],
+      "explanation": "Ursula is the sea witch who tricks Ariel into giving up her voice in exchange for human legs!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Scar is Simba's uncle in The Lion King.",
+      "correctAnswer": true,
+      "explanation": "Scar is Mufasa's jealous brother who kills him and takes over Pride Rock, exiling young Simba!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What does Cruella de Vil want to make from dalmatian puppies?",
+      "options": [
+        { "id": "a", "text": "A hat", "isCorrect": false },
+        { "id": "b", "text": "A fur coat", "isCorrect": true },
+        { "id": "c", "text": "A rug", "isCorrect": false },
+        { "id": "d", "text": "Gloves", "isCorrect": false }
+      ],
+      "explanation": "The cruel Cruella de Vil wants to kidnap 99 dalmatian puppies to make a spotted fur coat!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is the villain in Sleeping Beauty?",
+      "options": [
+        { "id": "a", "text": "The Evil Queen", "isCorrect": false },
+        { "id": "b", "text": "Maleficent", "isCorrect": true },
+        { "id": "c", "text": "Lady Tremaine", "isCorrect": false },
+        { "id": "d", "text": "Mother Gothel", "isCorrect": false }
+      ],
+      "explanation": "Maleficent, the Mistress of All Evil, curses Aurora to prick her finger on a spindle and die before sunset on her 16th birthday!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Gaston is the villain in Beauty and the Beast.",
+      "correctAnswer": true,
+      "explanation": "Gaston is the arrogant hunter who wants to marry Belle and leads a mob to kill the Beast!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What famous phrase does the Evil Queen say to her Magic Mirror?",
+      "options": [
+        { "id": "a", "text": "Mirror, mirror on the wall, who's the fairest of them all?", "isCorrect": true },
+        { "id": "b", "text": "Show me the most beautiful in the land", "isCorrect": false },
+        { "id": "c", "text": "Mirror, tell me who is prettiest", "isCorrect": false },
+        { "id": "d", "text": "Who is the queen of beauty?", "isCorrect": false }
+      ],
+      "explanation": "The Evil Queen's iconic line as she consults her Magic Mirror about her beauty!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who is Captain Hook's nemesis?",
+      "options": [
+        { "id": "a", "text": "Tinker Bell", "isCorrect": false },
+        { "id": "b", "text": "Peter Pan", "isCorrect": true },
+        { "id": "c", "text": "Wendy", "isCorrect": false },
+        { "id": "d", "text": "The Lost Boys", "isCorrect": false }
+      ],
+      "explanation": "Captain Hook's arch-enemy is Peter Pan, who cut off his hand and fed it to a crocodile!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Jafar turns into a giant snake in Aladdin.",
+      "correctAnswer": true,
+      "explanation": "Jafar uses his sorcerer powers to transform into a giant cobra during his battle with Aladdin!",
+      "points": 10
+    }
+  ]
+}

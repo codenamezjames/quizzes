@@ -1,0 +1,99 @@
+{
+  "id": "spy-x-family-missions",
+  "title": "Missions & Characters",
+  "description": "Deep dive into the world of spies, assassins, and telepaths!",
+  "icon": "visibility",
+  "category": "spy-x-family",
+  "coverColor": "#9C27B0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the target of Operation Strix?",
+      "options": [
+        { "id": "a", "text": "Donovan Desmond", "isCorrect": true },
+        { "id": "b", "text": "Yuri Briar", "isCorrect": false },
+        { "id": "c", "text": "Henry Henderson", "isCorrect": false },
+        { "id": "d", "text": "Damian Desmond", "isCorrect": false }
+      ],
+      "explanation": "Donovan Desmond is the chairman of the National Unity Party and the main target Twilight must get close to!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Franky is Loid's informant who helps him with various missions.",
+      "correctAnswer": true,
+      "explanation": "Franky Franklin is a skilled informant who assists Twilight with intelligence gathering and gadgets!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What does Anya call her favorite TV show's main character?",
+      "options": [
+        { "id": "a", "text": "Bondman", "isCorrect": true },
+        { "id": "b", "text": "Spyman", "isCorrect": false },
+        { "id": "c", "text": "Agent Cool", "isCorrect": false },
+        { "id": "d", "text": "Secret Guy", "isCorrect": false }
+      ],
+      "explanation": "Anya loves the spy cartoon 'Spy Wars' and its hero Bondman - which influences her view of her father!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What organization does Yor work for as an assassin?",
+      "options": [
+        { "id": "a", "text": "Garden", "isCorrect": true },
+        { "id": "b", "text": "Thorns", "isCorrect": false },
+        { "id": "c", "text": "Shadow", "isCorrect": false },
+        { "id": "d", "text": "WISE", "isCorrect": false }
+      ],
+      "explanation": "Yor works for the underground assassination organization known as 'Garden'!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Damian Desmond has a secret crush on Anya.",
+      "correctAnswer": true,
+      "explanation": "Despite acting like he dislikes her, Damian has developed feelings for Anya - much to his embarrassment!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is the spy agency that Loid works for?",
+      "options": [
+        { "id": "a", "text": "WISE", "isCorrect": true },
+        { "id": "b", "text": "CLEVER", "isCorrect": false },
+        { "id": "c", "text": "SMART", "isCorrect": false },
+        { "id": "d", "text": "SHADOW", "isCorrect": false }
+      ],
+      "explanation": "WISE (Westalis Intelligence Services Eastern-Focused Division) is the spy organization Twilight works for!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What punishment marks do students receive at Eden Academy for bad behavior?",
+      "options": [
+        { "id": "a", "text": "Tonitrus Bolts", "isCorrect": true },
+        { "id": "b", "text": "Thunder Marks", "isCorrect": false },
+        { "id": "c", "text": "Demerit Points", "isCorrect": false },
+        { "id": "d", "text": "Black Stars", "isCorrect": false }
+      ],
+      "explanation": "Tonitrus Bolts are punishment marks - if a student gets 8, they're expelled from Eden Academy!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Handler is Loid's superior in WISE.",
+      "correctAnswer": true,
+      "explanation": "Sylvia Sherwood, codename 'Handler', is Twilight's superior who assigns him missions and provides support!",
+      "points": 10
+    }
+  ]
+}

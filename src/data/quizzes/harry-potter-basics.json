@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter-basics",
+  "title": "Harry Potter Basics",
+  "description": "Test your knowledge of the Boy Who Lived!",
+  "icon": "auto_fix_high",
+  "category": "harry-potter",
+  "coverColor": "#5D4037",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What house is Harry Potter sorted into at Hogwarts?",
+      "options": [
+        { "id": "a", "text": "Slytherin", "isCorrect": false },
+        { "id": "b", "text": "Gryffindor", "isCorrect": true },
+        { "id": "c", "text": "Ravenclaw", "isCorrect": false },
+        { "id": "d", "text": "Hufflepuff", "isCorrect": false }
+      ],
+      "explanation": "Harry was sorted into Gryffindor, though the Sorting Hat considered Slytherin due to Harry's connection to Voldemort!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Harry's best friends are Ron Weasley and Hermione Granger.",
+      "correctAnswer": true,
+      "explanation": "Ron and Hermione are Harry's closest friends throughout the series, eventually getting married to each other!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of Harry's owl?",
+      "options": [
+        { "id": "a", "text": "Hedwig", "isCorrect": true },
+        { "id": "b", "text": "Errol", "isCorrect": false },
+        { "id": "c", "text": "Pigwidgeon", "isCorrect": false },
+        { "id": "d", "text": "Scabbers", "isCorrect": false }
+      ],
+      "explanation": "Hedwig is Harry's snowy owl, a gift from Hagrid for his 11th birthday!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What platform do students use to board the Hogwarts Express?",
+      "options": [
+        { "id": "a", "text": "Platform 9", "isCorrect": false },
+        { "id": "b", "text": "Platform 9 3/4", "isCorrect": true },
+        { "id": "c", "text": "Platform 10", "isCorrect": false },
+        { "id": "d", "text": "Platform 7 1/2", "isCorrect": false }
+      ],
+      "explanation": "Platform 9 3/4 at King's Cross Station is accessed by walking through the barrier between platforms 9 and 10!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Voldemort's real name is Tom Riddle.",
+      "correctAnswer": true,
+      "explanation": "Lord Voldemort was born Tom Marvolo Riddle, which he rearranged to create 'I am Lord Voldemort'!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What position does Harry play in Quidditch?",
+      "options": [
+        { "id": "a", "text": "Chaser", "isCorrect": false },
+        { "id": "b", "text": "Beater", "isCorrect": false },
+        { "id": "c", "text": "Seeker", "isCorrect": true },
+        { "id": "d", "text": "Keeper", "isCorrect": false }
+      ],
+      "explanation": "Harry is a Seeker, tasked with catching the Golden Snitch to end the game and earn 150 points!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who is the headmaster of Hogwarts when Harry arrives?",
+      "options": [
+        { "id": "a", "text": "Severus Snape", "isCorrect": false },
+        { "id": "b", "text": "Albus Dumbledore", "isCorrect": true },
+        { "id": "c", "text": "Minerva McGonagall", "isCorrect": false },
+        { "id": "d", "text": "Dolores Umbridge", "isCorrect": false }
+      ],
+      "explanation": "Albus Dumbledore is the wise headmaster who guides Harry throughout most of the series!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Harry has a lightning bolt scar on his forehead.",
+      "correctAnswer": true,
+      "explanation": "Harry's famous scar was left when Voldemort's killing curse backfired, marking Harry as the 'Boy Who Lived'!",
+      "points": 10
+    }
+  ]
+}

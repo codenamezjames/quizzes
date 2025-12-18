@@ -1,0 +1,99 @@
+{
+  "id": "disney-princesses",
+  "title": "Disney Princesses",
+  "description": "How well do you know the Disney Princess lineup?",
+  "icon": "auto_awesome",
+  "category": "disney",
+  "coverColor": "#E91E63",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which princess has the power to heal with her hair?",
+      "options": [
+        { "id": "a", "text": "Elsa", "isCorrect": false },
+        { "id": "b", "text": "Rapunzel", "isCorrect": true },
+        { "id": "c", "text": "Aurora", "isCorrect": false },
+        { "id": "d", "text": "Ariel", "isCorrect": false }
+      ],
+      "explanation": "Rapunzel's magical golden hair has healing powers when she sings, a gift from a magical flower!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Moana is officially a Disney Princess.",
+      "correctAnswer": false,
+      "explanation": "While Moana is a Disney heroine, she hasn't been officially coronated into the Disney Princess lineup. She's the daughter of a chief!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What does Cinderella leave behind at the ball?",
+      "options": [
+        { "id": "a", "text": "Her tiara", "isCorrect": false },
+        { "id": "b", "text": "Her glass slipper", "isCorrect": true },
+        { "id": "c", "text": "Her necklace", "isCorrect": false },
+        { "id": "d", "text": "Her glove", "isCorrect": false }
+      ],
+      "explanation": "Cinderella loses her glass slipper while fleeing the ball at midnight, which the Prince uses to find her!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which princess pretends to be a man to join the army?",
+      "options": [
+        { "id": "a", "text": "Pocahontas", "isCorrect": false },
+        { "id": "b", "text": "Jasmine", "isCorrect": false },
+        { "id": "c", "text": "Mulan", "isCorrect": true },
+        { "id": "d", "text": "Merida", "isCorrect": false }
+      ],
+      "explanation": "Mulan disguises herself as a man named 'Ping' to take her father's place in the Chinese army!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Belle's favorite thing to do is read books.",
+      "correctAnswer": true,
+      "explanation": "Belle is known for her love of reading and is considered odd by her village for being a bookworm!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Princess Tiana's dream in The Princess and the Frog?",
+      "options": [
+        { "id": "a", "text": "To become a singer", "isCorrect": false },
+        { "id": "b", "text": "To open her own restaurant", "isCorrect": true },
+        { "id": "c", "text": "To travel the world", "isCorrect": false },
+        { "id": "d", "text": "To become a princess", "isCorrect": false }
+      ],
+      "explanation": "Tiana works hard to save money for her own restaurant, 'Tiana's Place', to honor her father's dream!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which princess has a pet tiger named Rajah?",
+      "options": [
+        { "id": "a", "text": "Pocahontas", "isCorrect": false },
+        { "id": "b", "text": "Aurora", "isCorrect": false },
+        { "id": "c", "text": "Jasmine", "isCorrect": true },
+        { "id": "d", "text": "Moana", "isCorrect": false }
+      ],
+      "explanation": "Princess Jasmine's loyal pet and protector is Rajah, a Bengal tiger who lives in the palace!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Aurora from Sleeping Beauty is also known as Briar Rose.",
+      "correctAnswer": true,
+      "explanation": "Princess Aurora was raised by the three fairies under the name Briar Rose to hide her from Maleficent!",
+      "points": 10
+    }
+  ]
+}

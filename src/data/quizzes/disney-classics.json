@@ -1,0 +1,99 @@
+{
+  "id": "disney-classics",
+  "title": "Disney Classics",
+  "description": "Test your knowledge of classic Disney animated films!",
+  "icon": "movie",
+  "category": "disney",
+  "coverColor": "#1E88E5",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What was Disney's first full-length animated feature film?",
+      "options": [
+        { "id": "a", "text": "Pinocchio", "isCorrect": false },
+        { "id": "b", "text": "Snow White and the Seven Dwarfs", "isCorrect": true },
+        { "id": "c", "text": "Fantasia", "isCorrect": false },
+        { "id": "d", "text": "Cinderella", "isCorrect": false }
+      ],
+      "explanation": "Snow White and the Seven Dwarfs (1937) was the first full-length cel animated feature in motion picture history!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Lion King takes place in Africa.",
+      "correctAnswer": true,
+      "explanation": "The Lion King is set in the Pride Lands of Africa and was inspired by Shakespeare's Hamlet!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "In Aladdin, what is the Genie's lamp?",
+      "options": [
+        { "id": "a", "text": "A golden lamp", "isCorrect": false },
+        { "id": "b", "text": "An oil lamp", "isCorrect": true },
+        { "id": "c", "text": "A lantern", "isCorrect": false },
+        { "id": "d", "text": "A candle holder", "isCorrect": false }
+      ],
+      "explanation": "The Genie lives in a magical oil lamp and grants three wishes to whoever rubs it!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What kind of animal is Bambi?",
+      "options": [
+        { "id": "a", "text": "Rabbit", "isCorrect": false },
+        { "id": "b", "text": "Deer", "isCorrect": true },
+        { "id": "c", "text": "Fawn", "isCorrect": false },
+        { "id": "d", "text": "Elk", "isCorrect": false }
+      ],
+      "explanation": "Bambi is a white-tailed deer who grows up to become the Great Prince of the Forest!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "In The Little Mermaid, Ariel trades her voice for human legs.",
+      "correctAnswer": true,
+      "explanation": "Ariel gives her beautiful voice to the sea witch Ursula in exchange for human legs to meet Prince Eric!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "How many dwarfs are there in Snow White?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": false },
+        { "id": "c", "text": "7", "isCorrect": true },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "The seven dwarfs are Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, and Dopey!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What does Pinocchio's nose do when he lies?",
+      "options": [
+        { "id": "a", "text": "Turns red", "isCorrect": false },
+        { "id": "b", "text": "Grows longer", "isCorrect": true },
+        { "id": "c", "text": "Falls off", "isCorrect": false },
+        { "id": "d", "text": "Makes a sound", "isCorrect": false }
+      ],
+      "explanation": "Pinocchio's wooden nose grows whenever he tells a lie - a famous symbol of dishonesty!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Dumbo is an elephant who can fly.",
+      "correctAnswer": true,
+      "explanation": "Dumbo uses his oversized ears to fly, becoming the star of the circus despite being ridiculed for his big ears!",
+      "points": 10
+    }
+  ]
+}

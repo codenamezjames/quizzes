@@ -1,0 +1,99 @@
+{
+  "id": "disney-pixar",
+  "title": "Pixar Films",
+  "description": "Test your knowledge of Disney Pixar's amazing movies!",
+  "icon": "animation",
+  "category": "disney",
+  "coverColor": "#00ACC1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What was Pixar's first feature film?",
+      "options": [
+        { "id": "a", "text": "A Bug's Life", "isCorrect": false },
+        { "id": "b", "text": "Toy Story", "isCorrect": true },
+        { "id": "c", "text": "Finding Nemo", "isCorrect": false },
+        { "id": "d", "text": "Monsters, Inc.", "isCorrect": false }
+      ],
+      "explanation": "Toy Story (1995) was the first fully computer-animated feature film and launched Pixar's incredible run!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "In Finding Nemo, Nemo has a lucky fin.",
+      "correctAnswer": true,
+      "explanation": "Nemo was born with a small, deformed right fin that his dad calls his 'lucky fin'!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "In Monsters, Inc., what powers the city of Monstropolis?",
+      "options": [
+        { "id": "a", "text": "Electricity", "isCorrect": false },
+        { "id": "b", "text": "Children's screams", "isCorrect": true },
+        { "id": "c", "text": "Monster energy", "isCorrect": false },
+        { "id": "d", "text": "Solar power", "isCorrect": false }
+      ],
+      "explanation": "Monsters scare children to collect their screams as energy, though they later discover laughter is more powerful!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the superhero family in The Incredibles?",
+      "options": [
+        { "id": "a", "text": "The Supers", "isCorrect": false },
+        { "id": "b", "text": "The Parrs", "isCorrect": true },
+        { "id": "c", "text": "The Powers", "isCorrect": false },
+        { "id": "d", "text": "The Incredibles", "isCorrect": false }
+      ],
+      "explanation": "The Parr family - Bob, Helen, Violet, Dash, and Jack-Jack - are secretly The Incredibles!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "WALL-E is a robot who falls in love with another robot named EVE.",
+      "correctAnswer": true,
+      "explanation": "WALL-E, a trash-compacting robot, falls in love with EVE, a sleek probe robot sent to Earth!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "In Up, how does Carl make his house fly?",
+      "options": [
+        { "id": "a", "text": "A rocket", "isCorrect": false },
+        { "id": "b", "text": "Thousands of balloons", "isCorrect": true },
+        { "id": "c", "text": "A helicopter blade", "isCorrect": false },
+        { "id": "d", "text": "Magic", "isCorrect": false }
+      ],
+      "explanation": "78-year-old Carl ties thousands of colorful balloons to his house to fly to Paradise Falls!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "In Inside Out, which emotion is in charge of Riley's core memories?",
+      "options": [
+        { "id": "a", "text": "Sadness", "isCorrect": false },
+        { "id": "b", "text": "Joy", "isCorrect": true },
+        { "id": "c", "text": "Anger", "isCorrect": false },
+        { "id": "d", "text": "Fear", "isCorrect": false }
+      ],
+      "explanation": "Joy tries to keep Riley happy and protect her golden core memories, though she learns Sadness is important too!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Ratatouille features a rat who dreams of becoming a chef.",
+      "correctAnswer": true,
+      "explanation": "Remy is a rat with a passion for cooking who secretly controls a human chef by pulling his hair!",
+      "points": 10
+    }
+  ]
+}

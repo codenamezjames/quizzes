@@ -1,0 +1,99 @@
+{
+  "id": "harry-potter-spells",
+  "title": "Spells & Magic",
+  "description": "How well do you know wizarding world magic?",
+  "icon": "bolt",
+  "category": "harry-potter",
+  "coverColor": "#7B1FA2",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What spell disarms an opponent?",
+      "options": [
+        { "id": "a", "text": "Stupefy", "isCorrect": false },
+        { "id": "b", "text": "Expelliarmus", "isCorrect": true },
+        { "id": "c", "text": "Petrificus Totalus", "isCorrect": false },
+        { "id": "d", "text": "Impedimenta", "isCorrect": false }
+      ],
+      "explanation": "Expelliarmus is the Disarming Charm and Harry's signature spell, forcing opponents to release what they're holding!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Avada Kedavra is the killing curse.",
+      "correctAnswer": true,
+      "explanation": "Avada Kedavra is one of the three Unforgivable Curses, causing instant death with no counter-curse!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What spell creates light from a wand?",
+      "options": [
+        { "id": "a", "text": "Lumos", "isCorrect": true },
+        { "id": "b", "text": "Nox", "isCorrect": false },
+        { "id": "c", "text": "Incendio", "isCorrect": false },
+        { "id": "d", "text": "Lumos Maxima", "isCorrect": false }
+      ],
+      "explanation": "Lumos creates light at the wand tip, while Nox extinguishes it. Lumos Maxima creates a brighter, detachable light!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What are the three Unforgivable Curses?",
+      "options": [
+        { "id": "a", "text": "Avada Kedavra, Crucio, Imperio", "isCorrect": true },
+        { "id": "b", "text": "Avada Kedavra, Sectumsempra, Imperio", "isCorrect": false },
+        { "id": "c", "text": "Crucio, Imperio, Obliviate", "isCorrect": false },
+        { "id": "d", "text": "Avada Kedavra, Crucio, Stupefy", "isCorrect": false }
+      ],
+      "explanation": "The Unforgivable Curses are Avada Kedavra (killing), Crucio (torture), and Imperio (mind control)!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Expecto Patronum conjures a Patronus to fight Dementors.",
+      "correctAnswer": true,
+      "explanation": "The Patronus Charm creates a silver guardian animal powered by happy memories to repel Dementors!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What spell unlocks doors?",
+      "options": [
+        { "id": "a", "text": "Colloportus", "isCorrect": false },
+        { "id": "b", "text": "Alohomora", "isCorrect": true },
+        { "id": "c", "text": "Aparecium", "isCorrect": false },
+        { "id": "d", "text": "Aberto", "isCorrect": false }
+      ],
+      "explanation": "Alohomora is the Unlocking Charm, one of the first spells Hermione uses in the series!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Harry's Patronus?",
+      "options": [
+        { "id": "a", "text": "Phoenix", "isCorrect": false },
+        { "id": "b", "text": "Stag", "isCorrect": true },
+        { "id": "c", "text": "Otter", "isCorrect": false },
+        { "id": "d", "text": "Dog", "isCorrect": false }
+      ],
+      "explanation": "Harry's Patronus is a stag, just like his father James. Hermione's is an otter and Ron's is a Jack Russell terrier!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Wingardium Leviosa makes objects float.",
+      "correctAnswer": true,
+      "explanation": "Wingardium Leviosa is the Levitation Charm - remember, it's 'Levi-O-sa, not Levio-SA' as Hermione famously corrected Ron!",
+      "points": 10
+    }
+  ]
+}

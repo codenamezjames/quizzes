@@ -1,0 +1,99 @@
+{
+  "id": "mario-powerups",
+  "title": "Power-Ups & Items",
+  "description": "How well do you know Mario's amazing power-ups?",
+  "icon": "local_fire_department",
+  "category": "mario",
+  "coverColor": "#FF9800",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What does the Super Mushroom do?",
+      "options": [
+        { "id": "a", "text": "Makes Mario bigger", "isCorrect": true },
+        { "id": "b", "text": "Gives Mario fire power", "isCorrect": false },
+        { "id": "c", "text": "Makes Mario invincible", "isCorrect": false },
+        { "id": "d", "text": "Gives Mario an extra life", "isCorrect": false }
+      ],
+      "explanation": "The red Super Mushroom transforms small Mario into Super Mario, allowing him to take an extra hit!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Fire Flower lets Mario throw fireballs.",
+      "correctAnswer": true,
+      "explanation": "The Fire Flower turns Mario into Fire Mario, allowing him to throw bouncing fireballs at enemies!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What does the Super Star do?",
+      "options": [
+        { "id": "a", "text": "Makes Mario fly", "isCorrect": false },
+        { "id": "b", "text": "Makes Mario temporarily invincible", "isCorrect": true },
+        { "id": "c", "text": "Makes Mario grow", "isCorrect": false },
+        { "id": "d", "text": "Gives Mario ice powers", "isCorrect": false }
+      ],
+      "explanation": "The Super Star (or Starman) makes Mario invincible temporarily, with a catchy tune playing!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which power-up lets Mario fly with raccoon ears and a tail?",
+      "options": [
+        { "id": "a", "text": "Cape Feather", "isCorrect": false },
+        { "id": "b", "text": "Super Leaf", "isCorrect": true },
+        { "id": "c", "text": "Wing Cap", "isCorrect": false },
+        { "id": "d", "text": "P-Wing", "isCorrect": false }
+      ],
+      "explanation": "The Super Leaf transforms Mario into Raccoon Mario (or Tanooki Mario), letting him fly and float!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "The 1-Up Mushroom is green.",
+      "correctAnswer": true,
+      "explanation": "The green 1-Up Mushroom grants Mario an extra life when collected!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What power-up turns Mario into a cat?",
+      "options": [
+        { "id": "a", "text": "Cat Bell", "isCorrect": false },
+        { "id": "b", "text": "Super Bell", "isCorrect": true },
+        { "id": "c", "text": "Cat Mushroom", "isCorrect": false },
+        { "id": "d", "text": "Meow Flower", "isCorrect": false }
+      ],
+      "explanation": "The Super Bell from Super Mario 3D World turns Mario into Cat Mario, who can climb walls and scratch enemies!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "In Super Mario Galaxy, what item lets Mario spin attack?",
+      "options": [
+        { "id": "a", "text": "Star Bits", "isCorrect": false },
+        { "id": "b", "text": "Luma", "isCorrect": true },
+        { "id": "c", "text": "Power Star", "isCorrect": false },
+        { "id": "d", "text": "Spin Flower", "isCorrect": false }
+      ],
+      "explanation": "Luma, the star creature, gives Mario the ability to perform spin attacks throughout the game!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Ice Flower lets Mario freeze enemies.",
+      "correctAnswer": true,
+      "explanation": "The Ice Flower turns Mario into Ice Mario, letting him throw iceballs that freeze enemies solid!",
+      "points": 10
+    }
+  ]
+}
