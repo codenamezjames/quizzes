@@ -94,9 +94,23 @@ export default defineConfig((/* ctx */) => {
       plugins: [],
     },
 
-    // animations: 'all', // --- includes all animations
     // https://v2.quasar.dev/options/animations
-    animations: [],
+    animations: [
+      'bounceIn',
+      'bounceOut',
+      'fadeIn',
+      'fadeOut',
+      'fadeInUp',
+      'fadeOutDown',
+      'pulse',
+      'tada',
+      'heartBeat',
+      'rubberBand',
+      'zoomIn',
+      'zoomOut',
+      'slideInUp',
+      'slideOutDown',
+    ],
 
     // https://v2.quasar.dev/quasar-cli-vite/quasar-config-file#sourcefiles
     // sourceFiles: {

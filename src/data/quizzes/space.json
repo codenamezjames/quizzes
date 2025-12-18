@@ -1,0 +1,94 @@
+{
+  "id": "space",
+  "title": "Space Explorer",
+  "description": "Journey through the stars and planets!",
+  "icon": "rocket_launch",
+  "category": "Science",
+  "coverColor": "#9B59B6",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        { "id": "a", "text": "Venus", "isCorrect": false },
+        { "id": "b", "text": "Mars", "isCorrect": true },
+        { "id": "c", "text": "Jupiter", "isCorrect": false },
+        { "id": "d", "text": "Saturn", "isCorrect": false }
+      ],
+      "explanation": "Mars is called the Red Planet because of iron oxide (rust) on its surface that gives it a reddish appearance!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Sun is a star.",
+      "correctAnswer": true,
+      "explanation": "Yes! The Sun is a star - it's the closest star to Earth and gives us light and warmth.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How many planets are in our solar system?",
+      "options": [
+        { "id": "a", "text": "7", "isCorrect": false },
+        { "id": "b", "text": "8", "isCorrect": true },
+        { "id": "c", "text": "9", "isCorrect": false },
+        { "id": "d", "text": "10", "isCorrect": false }
+      ],
+      "explanation": "There are 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "question": "Saturn's rings are made of solid rock.",
+      "correctAnswer": false,
+      "explanation": "Saturn's rings are made mostly of ice particles, with some rocky debris and dust mixed in!",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which planet is the largest in our solar system?",
+      "options": [
+        { "id": "a", "text": "Earth", "isCorrect": false },
+        { "id": "b", "text": "Saturn", "isCorrect": false },
+        { "id": "c", "text": "Jupiter", "isCorrect": true },
+        { "id": "d", "text": "Neptune", "isCorrect": false }
+      ],
+      "explanation": "Jupiter is so big that over 1,300 Earths could fit inside it!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Astronauts grow taller in space.",
+      "correctAnswer": true,
+      "explanation": "Without gravity, the spine can stretch out, making astronauts about 2 inches taller in space!",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the closest planet to the Sun?",
+      "options": [
+        { "id": "a", "text": "Mercury", "isCorrect": true },
+        { "id": "b", "text": "Venus", "isCorrect": false },
+        { "id": "c", "text": "Earth", "isCorrect": false },
+        { "id": "d", "text": "Mars", "isCorrect": false }
+      ],
+      "explanation": "Mercury is the closest planet to the Sun, but it's not the hottest - Venus is, because of its thick atmosphere!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "There is no sound in space.",
+      "correctAnswer": true,
+      "explanation": "Sound needs air (or another medium) to travel through. Space is a vacuum, so it's completely silent!",
+      "points": 10
+    }
+  ]
+}
