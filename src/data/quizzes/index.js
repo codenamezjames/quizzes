@@ -75,6 +75,12 @@ export const categoryMeta = {
     icon: 'movie',
     color: '#1E88E5',
   },
+  arcane: {
+    title: 'Arcane',
+    description: 'Explore the world of Piltover and Zaun!',
+    icon: 'bolt',
+    color: '#FF4081',
+  },
 }
 
 export const quizManifest = [
@@ -460,6 +466,53 @@ export const quizManifest = [
     category: 'disney',
     coverColor: '#4FC3F7',
     loader: () => import('./disney-frozen.json'),
+  },
+
+  // Arcane quizzes
+  {
+    id: 'arcane-basics',
+    title: 'Arcane Basics',
+    description: 'Test your knowledge of the hit Netflix animated series!',
+    icon: 'bolt',
+    category: 'arcane',
+    coverColor: '#FF4081',
+    loader: () => import('./arcane-basics.json'),
+  },
+  {
+    id: 'arcane-characters',
+    title: 'Arcane Characters',
+    description: 'How well do you know Vi, Jinx, and the rest of the cast?',
+    icon: 'people',
+    category: 'arcane',
+    coverColor: '#7C4DFF',
+    loader: () => import('./arcane-characters.json'),
+  },
+  {
+    id: 'arcane-piltover-zaun',
+    title: 'Piltover & Zaun',
+    description: 'Explore the twin cities and their divided world!',
+    icon: 'location_city',
+    category: 'arcane',
+    coverColor: '#00BCD4',
+    loader: () => import('./arcane-piltover-zaun.json'),
+  },
+  {
+    id: 'arcane-hextech',
+    title: 'Hextech & Science',
+    description: 'Test your knowledge of Hextech technology and its creators!',
+    icon: 'science',
+    category: 'arcane',
+    coverColor: '#536DFE',
+    loader: () => import('./arcane-hextech.json'),
+  },
+  {
+    id: 'arcane-relationships',
+    title: 'Bonds & Betrayals',
+    description: 'Test your knowledge of the complex relationships in Arcane!',
+    icon: 'favorite',
+    category: 'arcane',
+    coverColor: '#E91E63',
+    loader: () => import('./arcane-relationships.json'),
   },
 ]
 

@@ -1,0 +1,104 @@
+{
+  "id": "arcane-characters",
+  "title": "Arcane Characters",
+  "description": "How well do you know Vi, Jinx, and the rest of the cast?",
+  "icon": "people",
+  "category": "arcane",
+  "coverColor": "#7C4DFF",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Jinx's real name?",
+      "options": [
+        { "id": "a", "text": "Violet", "isCorrect": false },
+        { "id": "b", "text": "Powder", "isCorrect": true },
+        { "id": "c", "text": "Caitlyn", "isCorrect": false },
+        { "id": "d", "text": "Mel", "isCorrect": false }
+      ],
+      "explanation": "Jinx was originally named Powder by her parents. The name 'Jinx' was a hurtful nickname that she eventually embraced.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What fighting style is Vi known for?",
+      "options": [
+        { "id": "a", "text": "Swordsmanship", "isCorrect": false },
+        { "id": "b", "text": "Marksmanship", "isCorrect": false },
+        { "id": "c", "text": "Brawling with gauntlets", "isCorrect": true },
+        { "id": "d", "text": "Magic", "isCorrect": false }
+      ],
+      "explanation": "Vi is a powerful brawler who uses her fists and eventually iconic Hextech-powered Atlas Gauntlets to fight.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Caitlyn comes from a wealthy Piltover family.",
+      "correctAnswer": true,
+      "explanation": "Caitlyn Kiramman is from one of Piltover's most influential and wealthy families, which gives her access to the Enforcers and Council.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Viktor's home city?",
+      "options": [
+        { "id": "a", "text": "Piltover", "isCorrect": false },
+        { "id": "b", "text": "Zaun", "isCorrect": true },
+        { "id": "c", "text": "Noxus", "isCorrect": false },
+        { "id": "d", "text": "Demacia", "isCorrect": false }
+      ],
+      "explanation": "Viktor grew up in the Undercity of Zaun before being discovered by Heimerdinger and brought to study in Piltover.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who was Vander to Vi and Powder?",
+      "options": [
+        { "id": "a", "text": "Their uncle", "isCorrect": false },
+        { "id": "b", "text": "Their biological father", "isCorrect": false },
+        { "id": "c", "text": "Their adoptive father figure", "isCorrect": true },
+        { "id": "d", "text": "A stranger", "isCorrect": false }
+      ],
+      "explanation": "Vander took in Vi and Powder as orphans and raised them as his own children after their parents died.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Silco was once Vander's close ally.",
+      "correctAnswer": true,
+      "explanation": "Silco and Vander were once brothers-in-arms fighting for Zaun's independence, before Vander betrayed him by trying to drown him.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Heimerdinger's species?",
+      "options": [
+        { "id": "a", "text": "Human", "isCorrect": false },
+        { "id": "b", "text": "Yordle", "isCorrect": true },
+        { "id": "c", "text": "Vastaya", "isCorrect": false },
+        { "id": "d", "text": "Ascended", "isCorrect": false }
+      ],
+      "explanation": "Heimerdinger is a Yordle, a magical race of small humanoid creatures that can live for centuries. He's over 300 years old!",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What physical condition does Viktor suffer from?",
+      "options": [
+        { "id": "a", "text": "Blindness", "isCorrect": false },
+        { "id": "b", "text": "A degenerative illness", "isCorrect": true },
+        { "id": "c", "text": "Deafness", "isCorrect": false },
+        { "id": "d", "text": "Memory loss", "isCorrect": false }
+      ],
+      "explanation": "Viktor has a terminal degenerative illness that causes his body to slowly fail, which motivates his pursuit of the Hexcore to save himself.",
+      "points": 10
+    }
+  ]
+}

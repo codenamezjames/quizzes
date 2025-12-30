@@ -11,12 +11,12 @@
       "type": "multiple-choice",
       "question": "What is Zenitsu's greatest fear?",
       "options": [
-        { "id": "a", "text": "Demons", "isCorrect": false },
-        { "id": "b", "text": "Thunder", "isCorrect": true },
+        { "id": "a", "text": "Demons", "isCorrect": true },
+        { "id": "b", "text": "Thunder", "isCorrect": false },
         { "id": "c", "text": "Heights", "isCorrect": false },
         { "id": "d", "text": "Water", "isCorrect": false }
       ],
-      "explanation": "Despite using Thunder Breathing, Zenitsu is terrified of thunder and lightning! The irony is intentional.",
+      "explanation": "Zenitsu is a notorious coward who is terrified of demons and constantly fears for his life during battles!",
       "points": 10
     },
     {

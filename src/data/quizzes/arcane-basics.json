@@ -1,0 +1,99 @@
+{
+  "id": "arcane-basics",
+  "title": "Arcane Basics",
+  "description": "Test your knowledge of the hit Netflix animated series!",
+  "icon": "bolt",
+  "category": "arcane",
+  "coverColor": "#FF4081",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the underground city beneath Piltover?",
+      "options": [
+        { "id": "a", "text": "Zaun", "isCorrect": true },
+        { "id": "b", "text": "Noxus", "isCorrect": false },
+        { "id": "c", "text": "Demacia", "isCorrect": false },
+        { "id": "d", "text": "Bilgewater", "isCorrect": false }
+      ],
+      "explanation": "Zaun is the undercity that exists beneath the wealthy city of Piltover, separated by a massive bridge and stark class divide.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Arcane is based on the video game League of Legends.",
+      "correctAnswer": true,
+      "explanation": "Arcane is an animated series created by Riot Games based on their popular game League of Legends, focusing on the origins of champions Vi and Jinx.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of the revolutionary substance that powers Hextech?",
+      "options": [
+        { "id": "a", "text": "Shimmer", "isCorrect": false },
+        { "id": "b", "text": "Hex Crystals", "isCorrect": true },
+        { "id": "c", "text": "Void Energy", "isCorrect": false },
+        { "id": "d", "text": "Rune Magic", "isCorrect": false }
+      ],
+      "explanation": "Hex Crystals are magical gemstones from the mines that Jayce and Viktor use to create Hextech technology.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the bar that Vander runs in the Undercity?",
+      "options": [
+        { "id": "a", "text": "The Underground", "isCorrect": false },
+        { "id": "b", "text": "The Last Drop", "isCorrect": true },
+        { "id": "c", "text": "Zaun's Rest", "isCorrect": false },
+        { "id": "d", "text": "The Rusty Nail", "isCorrect": false }
+      ],
+      "explanation": "The Last Drop is Vander's bar in the Undercity where the community gathers and where he raises Vi, Powder, and others.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Piltover is also known as the 'City of Progress'.",
+      "correctAnswer": true,
+      "explanation": "Piltover is called the City of Progress due to its advanced technology, wealth, and the inventions coming from its prestigious academy.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What event kicks off the main conflict in episode 1?",
+      "options": [
+        { "id": "a", "text": "A raid on Jayce's lab", "isCorrect": true },
+        { "id": "b", "text": "Silco's rise to power", "isCorrect": false },
+        { "id": "c", "text": "The creation of Hextech", "isCorrect": false },
+        { "id": "d", "text": "An Enforcer attack on Zaun", "isCorrect": false }
+      ],
+      "explanation": "The series begins with Vi, Powder, Mylo, and Claggor raiding Jayce's apartment, which leads to a catastrophic explosion.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many acts/parts does Arcane Season 1 have?",
+      "options": [
+        { "id": "a", "text": "2", "isCorrect": false },
+        { "id": "b", "text": "3", "isCorrect": true },
+        { "id": "c", "text": "4", "isCorrect": false },
+        { "id": "d", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Arcane Season 1 is divided into 3 acts, with 3 episodes each, totaling 9 episodes that were released over 3 weeks.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The animation studio Fortiche produced Arcane.",
+      "correctAnswer": true,
+      "explanation": "Fortiche Production, a French animation studio, created Arcane's unique visual style, blending 3D animation with 2D painting techniques.",
+      "points": 10
+    }
+  ]
+}

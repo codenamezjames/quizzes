@@ -1,0 +1,104 @@
+{
+  "id": "arcane-piltover-zaun",
+  "title": "Piltover & Zaun",
+  "description": "Explore the twin cities and their divided world!",
+  "icon": "location_city",
+  "category": "arcane",
+  "coverColor": "#00BCD4",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What separates Piltover from Zaun?",
+      "options": [
+        { "id": "a", "text": "An ocean", "isCorrect": false },
+        { "id": "b", "text": "A massive bridge", "isCorrect": true },
+        { "id": "c", "text": "A magical barrier", "isCorrect": false },
+        { "id": "d", "text": "A desert", "isCorrect": false }
+      ],
+      "explanation": "The two cities are separated by a great bridge, with wealthy Piltover on top and the impoverished Undercity (Zaun) below.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The air in Zaun is toxic due to pollution from Piltover's industries.",
+      "correctAnswer": true,
+      "explanation": "Zaun suffers from severe pollution, with toxic fumes filling the lower levels. Many residents develop health problems from the contaminated air.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the governing body of Piltover called?",
+      "options": [
+        { "id": "a", "text": "The Senate", "isCorrect": false },
+        { "id": "b", "text": "The Council", "isCorrect": true },
+        { "id": "c", "text": "The Parliament", "isCorrect": false },
+        { "id": "d", "text": "The Tribunal", "isCorrect": false }
+      ],
+      "explanation": "Piltover is governed by the Council, made up of representatives from the city's wealthiest and most influential families.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who are the Enforcers?",
+      "options": [
+        { "id": "a", "text": "Zaun's army", "isCorrect": false },
+        { "id": "b", "text": "Piltover's police force", "isCorrect": true },
+        { "id": "c", "text": "Mercenaries for hire", "isCorrect": false },
+        { "id": "d", "text": "Hextech engineers", "isCorrect": false }
+      ],
+      "explanation": "The Enforcers are Piltover's police force, responsible for maintaining order and often sent to suppress unrest in Zaun.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What major annual event celebrates Piltover's innovation?",
+      "options": [
+        { "id": "a", "text": "Progress Day", "isCorrect": true },
+        { "id": "b", "text": "Hextech Festival", "isCorrect": false },
+        { "id": "c", "text": "Council Day", "isCorrect": false },
+        { "id": "d", "text": "Unity Festival", "isCorrect": false }
+      ],
+      "explanation": "Progress Day is Piltover's grand celebration of scientific and technological achievements, where inventors showcase their latest creations.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The Lanes is a district in the Undercity where Vander maintains peace.",
+      "correctAnswer": true,
+      "explanation": "The Lanes is a community in Zaun where Vander kept order through respect rather than violence, running The Last Drop bar.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What resource does Silco primarily deal in?",
+      "options": [
+        { "id": "a", "text": "Hextech crystals", "isCorrect": false },
+        { "id": "b", "text": "Shimmer", "isCorrect": true },
+        { "id": "c", "text": "Weapons", "isCorrect": false },
+        { "id": "d", "text": "Information", "isCorrect": false }
+      ],
+      "explanation": "Silco builds his empire on the production and distribution of Shimmer, a dangerous purple drug that enhances strength but causes addiction.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What institution in Piltover advances scientific research?",
+      "options": [
+        { "id": "a", "text": "The Academy", "isCorrect": true },
+        { "id": "b", "text": "The Institute", "isCorrect": false },
+        { "id": "c", "text": "The Laboratory", "isCorrect": false },
+        { "id": "d", "text": "The University", "isCorrect": false }
+      ],
+      "explanation": "The Academy is Piltover's prestigious institution where scientists like Jayce, Viktor, and Heimerdinger conduct their research.",
+      "points": 10
+    }
+  ]
+}

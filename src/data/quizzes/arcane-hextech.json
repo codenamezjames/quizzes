@@ -1,0 +1,104 @@
+{
+  "id": "arcane-hextech",
+  "title": "Hextech & Science",
+  "description": "Test your knowledge of Hextech technology and its creators!",
+  "icon": "science",
+  "category": "arcane",
+  "coverColor": "#536DFE",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who are the two inventors credited with creating Hextech?",
+      "options": [
+        { "id": "a", "text": "Heimerdinger and Mel", "isCorrect": false },
+        { "id": "b", "text": "Jayce and Viktor", "isCorrect": true },
+        { "id": "c", "text": "Silco and Singed", "isCorrect": false },
+        { "id": "d", "text": "Vander and Benzo", "isCorrect": false }
+      ],
+      "explanation": "Jayce Talis and Viktor worked together to stabilize magic in gemstones and create Hextech, revolutionizing Piltover's technology.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Heimerdinger initially supported the development of Hextech.",
+      "correctAnswer": false,
+      "explanation": "Heimerdinger was cautious about Hextech due to his centuries of experience with dangerous magic, and initially voted to have Jayce expelled.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the Hexcore?",
+      "options": [
+        { "id": "a", "text": "A power generator", "isCorrect": false },
+        { "id": "b", "text": "A living, adaptive Hextech creation", "isCorrect": true },
+        { "id": "c", "text": "A weapon", "isCorrect": false },
+        { "id": "d", "text": "A communication device", "isCorrect": false }
+      ],
+      "explanation": "The Hexcore is Viktor's experimental creation that can adapt and evolve, responding to organic matter and potentially merging with living beings.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What are Vi's iconic weapons called?",
+      "options": [
+        { "id": "a", "text": "Power Fists", "isCorrect": false },
+        { "id": "b", "text": "Atlas Gauntlets", "isCorrect": true },
+        { "id": "c", "text": "Hex Hammers", "isCorrect": false },
+        { "id": "d", "text": "Thunder Gloves", "isCorrect": false }
+      ],
+      "explanation": "Vi wields the Atlas Gauntlets, massive Hextech-powered mechanical fists that greatly enhance her punching power.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Shimmer is a byproduct of Hextech research.",
+      "correctAnswer": false,
+      "explanation": "Shimmer is a separate creation made by Singed for Silco. It's a dangerous chemical compound, not related to Hextech technology.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What inspired young Jayce to pursue magical science?",
+      "options": [
+        { "id": "a", "text": "A book about magic", "isCorrect": false },
+        { "id": "b", "text": "Being saved by a mage as a child", "isCorrect": true },
+        { "id": "c", "text": "Heimerdinger's lectures", "isCorrect": false },
+        { "id": "d", "text": "Finding a Hex Crystal", "isCorrect": false }
+      ],
+      "explanation": "As a child, Jayce and his mother were saved from freezing by a mysterious mage who used a portal, inspiring his lifelong pursuit.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What does Jinx use to power her weapons?",
+      "options": [
+        { "id": "a", "text": "Shimmer", "isCorrect": false },
+        { "id": "b", "text": "Stolen Hex Crystals", "isCorrect": true },
+        { "id": "c", "text": "Electricity", "isCorrect": false },
+        { "id": "d", "text": "Gunpowder", "isCorrect": false }
+      ],
+      "explanation": "Jinx steals Hextech gemstones to power her various inventions and weapons, including her minigun Pow-Pow and rocket launcher Fishbones.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who created Shimmer?",
+      "options": [
+        { "id": "a", "text": "Viktor", "isCorrect": false },
+        { "id": "b", "text": "Silco", "isCorrect": false },
+        { "id": "c", "text": "Singed", "isCorrect": true },
+        { "id": "d", "text": "Heimerdinger", "isCorrect": false }
+      ],
+      "explanation": "Singed, also known as the doctor, is the mad scientist who created Shimmer for Silco's criminal empire.",
+      "points": 10
+    }
+  ]
+}

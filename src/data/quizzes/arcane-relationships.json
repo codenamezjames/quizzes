@@ -1,0 +1,104 @@
+{
+  "id": "arcane-relationships",
+  "title": "Bonds & Betrayals",
+  "description": "Test your knowledge of the complex relationships in Arcane!",
+  "icon": "favorite",
+  "category": "arcane",
+  "coverColor": "#E91E63",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the relationship between Vi and Jinx?",
+      "options": [
+        { "id": "a", "text": "Best friends", "isCorrect": false },
+        { "id": "b", "text": "Sisters", "isCorrect": true },
+        { "id": "c", "text": "Cousins", "isCorrect": false },
+        { "id": "d", "text": "Rivals", "isCorrect": false }
+      ],
+      "explanation": "Vi and Jinx (Powder) are sisters. Their tragic separation and complicated bond is the emotional core of the entire series.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Vi and Caitlyn develop a romantic relationship in the series.",
+      "correctAnswer": true,
+      "explanation": "Vi and Caitlyn's relationship develops from reluctant allies to romantic partners throughout the series, culminating in a kiss in Season 1.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Why did Powder accidentally cause tragedy in episode 3?",
+      "options": [
+        { "id": "a", "text": "She betrayed her family", "isCorrect": false },
+        { "id": "b", "text": "Her homemade bomb worked for the first time", "isCorrect": true },
+        { "id": "c", "text": "She told the Enforcers", "isCorrect": false },
+        { "id": "d", "text": "She released Silco", "isCorrect": false }
+      ],
+      "explanation": "Powder wanted to help save Vander. Her hextech-powered monkey bomb finally worked, but exploded inside the building, killing Mylo and Claggor.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who does Silco view as his daughter?",
+      "options": [
+        { "id": "a", "text": "Vi", "isCorrect": false },
+        { "id": "b", "text": "Sevika", "isCorrect": false },
+        { "id": "c", "text": "Jinx", "isCorrect": true },
+        { "id": "d", "text": "Caitlyn", "isCorrect": false }
+      ],
+      "explanation": "Silco adopts Jinx after finding her abandoned and raises her as his own daughter, genuinely loving her despite his villainous nature.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Mel Medarda and Jayce become romantically involved.",
+      "correctAnswer": true,
+      "explanation": "Mel and Jayce develop a romantic relationship as she mentors him in politics and he rises to power on the Council.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What did Vander do to Silco that destroyed their brotherhood?",
+      "options": [
+        { "id": "a", "text": "Stole his money", "isCorrect": false },
+        { "id": "b", "text": "Tried to drown him", "isCorrect": true },
+        { "id": "c", "text": "Took his position", "isCorrect": false },
+        { "id": "d", "text": "Betrayed him to Piltover willingly", "isCorrect": false }
+      ],
+      "explanation": "When Vander decided to make peace with Piltover, Silco opposed him. Vander tried to drown Silco to silence him, leaving him scarred and bitter.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who were Mylo and Claggor to Vi and Powder?",
+      "options": [
+        { "id": "a", "text": "Biological brothers", "isCorrect": false },
+        { "id": "b", "text": "Fellow orphans raised by Vander", "isCorrect": true },
+        { "id": "c", "text": "School friends", "isCorrect": false },
+        { "id": "d", "text": "Strangers they met on a heist", "isCorrect": false }
+      ],
+      "explanation": "Mylo and Claggor were orphans like Vi and Powder, all raised together by Vander as a found family in The Last Drop.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What happens to Viktor's assistant Sky?",
+      "options": [
+        { "id": "a", "text": "She betrays Viktor", "isCorrect": false },
+        { "id": "b", "text": "She is absorbed by the Hexcore", "isCorrect": true },
+        { "id": "c", "text": "She leaves Piltover", "isCorrect": false },
+        { "id": "d", "text": "She becomes a Council member", "isCorrect": false }
+      ],
+      "explanation": "Sky, who had romantic feelings for Viktor, is tragically absorbed and killed by the Hexcore when she tries to help him during an experiment.",
+      "points": 10
+    }
+  ]
+}
