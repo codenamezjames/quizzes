@@ -1,0 +1,104 @@
+{
+  "id": "disney-parks-attractions",
+  "title": "Rides & Attractions",
+  "description": "How well do you know Disney's iconic rides?",
+  "icon": "rocket_launch",
+  "category": "disney-parks",
+  "coverColor": "#7B1FA2",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What classic attraction warns 'there's a great big beautiful tomorrow'?",
+      "options": [
+        { "id": "a", "text": "It's a Small World", "isCorrect": false },
+        { "id": "b", "text": "Carousel of Progress", "isCorrect": true },
+        { "id": "c", "text": "Hall of Presidents", "isCorrect": false },
+        { "id": "d", "text": "The Enchanted Tiki Room", "isCorrect": false }
+      ],
+      "explanation": "Carousel of Progress features the song 'There's a Great Big Beautiful Tomorrow,' written by the Sherman Brothers.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Space Mountain was one of the original attractions when Magic Kingdom opened.",
+      "correctAnswer": false,
+      "explanation": "Space Mountain opened in 1975, four years after Magic Kingdom opened in 1971.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is the name of the mountain with the Yeti at Animal Kingdom?",
+      "options": [
+        { "id": "a", "text": "Space Mountain", "isCorrect": false },
+        { "id": "b", "text": "Expedition Everest", "isCorrect": true },
+        { "id": "c", "text": "Splash Mountain", "isCorrect": false },
+        { "id": "d", "text": "Big Thunder Mountain", "isCorrect": false }
+      ],
+      "explanation": "Expedition Everest features a legendary Yeti guarding the Forbidden Mountain in the Himalayas.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which ride replaced Splash Mountain?",
+      "options": [
+        { "id": "a", "text": "Princess and the Frog ride", "isCorrect": false },
+        { "id": "b", "text": "Tiana's Bayou Adventure", "isCorrect": true },
+        { "id": "c", "text": "New Orleans Adventure", "isCorrect": false },
+        { "id": "d", "text": "Bayou Splash", "isCorrect": false }
+      ],
+      "explanation": "Tiana's Bayou Adventure, themed to The Princess and the Frog, replaced Splash Mountain.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "How many happy haunts reside in the Haunted Mansion?",
+      "options": [
+        { "id": "a", "text": "99", "isCorrect": false },
+        { "id": "b", "text": "500", "isCorrect": false },
+        { "id": "c", "text": "999", "isCorrect": true },
+        { "id": "d", "text": "1000", "isCorrect": false }
+      ],
+      "explanation": "The Haunted Mansion is home to 999 happy haunts, but there's always room for one more!",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Pirates of the Caribbean inspired the movie franchise, not the other way around.",
+      "correctAnswer": true,
+      "explanation": "The ride opened in 1967, and the first Pirates of the Caribbean film came out in 2003, inspired by the attraction.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What Star Wars land opened at Disneyland and Hollywood Studios?",
+      "options": [
+        { "id": "a", "text": "Star Wars Land", "isCorrect": false },
+        { "id": "b", "text": "Galaxy's Edge", "isCorrect": true },
+        { "id": "c", "text": "Batuu World", "isCorrect": false },
+        { "id": "d", "text": "Jedi Academy", "isCorrect": false }
+      ],
+      "explanation": "Star Wars: Galaxy's Edge opened in 2019, set on the planet Batuu in the Star Wars universe.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What EPCOT attraction takes you on a journey through time and communication?",
+      "options": [
+        { "id": "a", "text": "Journey Into Imagination", "isCorrect": false },
+        { "id": "b", "text": "Spaceship Earth", "isCorrect": true },
+        { "id": "c", "text": "Test Track", "isCorrect": false },
+        { "id": "d", "text": "Mission: SPACE", "isCorrect": false }
+      ],
+      "explanation": "Spaceship Earth, housed in EPCOT's iconic geodesic sphere, chronicles the history of human communication.",
+      "points": 10
+    }
+  ]
+}

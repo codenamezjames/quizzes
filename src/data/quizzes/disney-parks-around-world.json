@@ -1,0 +1,104 @@
+{
+  "id": "disney-parks-around-world",
+  "title": "Disney Parks Worldwide",
+  "description": "Explore Disney parks around the globe!",
+  "icon": "public",
+  "category": "disney-parks",
+  "coverColor": "#00838F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which Disney park has the tallest castle?",
+      "options": [
+        { "id": "a", "text": "Disneyland Paris", "isCorrect": false },
+        { "id": "b", "text": "Shanghai Disneyland", "isCorrect": true },
+        { "id": "c", "text": "Walt Disney World", "isCorrect": false },
+        { "id": "d", "text": "Hong Kong Disneyland", "isCorrect": false }
+      ],
+      "explanation": "Shanghai Disneyland's Enchanted Storybook Castle is the tallest at 197 feet.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Tokyo Disney Resort is owned by The Walt Disney Company.",
+      "correctAnswer": false,
+      "explanation": "Tokyo Disney Resort is owned and operated by the Oriental Land Company under license from Disney.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What unique attraction can you find at Tokyo DisneySea?",
+      "options": [
+        { "id": "a", "text": "Journey to the Center of the Earth", "isCorrect": true },
+        { "id": "b", "text": "Pirates of the Caribbean", "isCorrect": false },
+        { "id": "c", "text": "Space Mountain", "isCorrect": false },
+        { "id": "d", "text": "Big Thunder Mountain", "isCorrect": false }
+      ],
+      "explanation": "Journey to the Center of the Earth is a unique high-speed dark ride found only at Tokyo DisneySea.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the castle at Disneyland Paris called?",
+      "options": [
+        { "id": "a", "text": "Cinderella Castle", "isCorrect": false },
+        { "id": "b", "text": "Le Château de la Belle au Bois Dormant", "isCorrect": true },
+        { "id": "c", "text": "Enchanted Castle", "isCorrect": false },
+        { "id": "d", "text": "Princess Castle", "isCorrect": false }
+      ],
+      "explanation": "Disneyland Paris features Sleeping Beauty Castle (Le Château de la Belle au Bois Dormant in French).",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "When did Shanghai Disneyland open?",
+      "options": [
+        { "id": "a", "text": "2010", "isCorrect": false },
+        { "id": "b", "text": "2016", "isCorrect": true },
+        { "id": "c", "text": "2018", "isCorrect": false },
+        { "id": "d", "text": "2020", "isCorrect": false }
+      ],
+      "explanation": "Shanghai Disneyland opened on June 16, 2016, as the newest Disney resort.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Hong Kong Disneyland was the first Disney park in China.",
+      "correctAnswer": true,
+      "explanation": "Hong Kong Disneyland opened in 2005, making it the first Disney park in China before Shanghai opened in 2016.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What EPCOT-style attraction is unique to Tokyo DisneySea?",
+      "options": [
+        { "id": "a", "text": "A Mediterranean Harbor", "isCorrect": true },
+        { "id": "b", "text": "A German Village", "isCorrect": false },
+        { "id": "c", "text": "A Chinese Temple", "isCorrect": false },
+        { "id": "d", "text": "An Egyptian Pyramid", "isCorrect": false }
+      ],
+      "explanation": "Tokyo DisneySea features Mediterranean Harbor, a unique port themed after Italian and Mediterranean culture.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which Disney resort has a park called Walt Disney Studios?",
+      "options": [
+        { "id": "a", "text": "Tokyo Disney Resort", "isCorrect": false },
+        { "id": "b", "text": "Disneyland Paris", "isCorrect": true },
+        { "id": "c", "text": "Hong Kong Disneyland", "isCorrect": false },
+        { "id": "d", "text": "Shanghai Disneyland", "isCorrect": false }
+      ],
+      "explanation": "Walt Disney Studios Park is the second theme park at Disneyland Paris, opened in 2002.",
+      "points": 10
+    }
+  ]
+}

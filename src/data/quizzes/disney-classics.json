@@ -43,7 +43,7 @@
     {
       "id": "q4",
       "type": "multiple-choice",
-      "question": "What kind of animal is Bambi?",
+      "question": "What species of animal is Bambi?",
       "options": [
         { "id": "a", "text": "Rabbit", "isCorrect": false },
         { "id": "b", "text": "Deer", "isCorrect": true },

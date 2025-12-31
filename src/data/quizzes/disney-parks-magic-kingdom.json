@@ -1,0 +1,104 @@
+{
+  "id": "disney-parks-magic-kingdom",
+  "title": "Magic Kingdom",
+  "description": "Test your knowledge of the most magical place!",
+  "icon": "castle",
+  "category": "disney-parks",
+  "coverColor": "#0277BD",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many lands are in Magic Kingdom?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "Magic Kingdom has 6 lands: Main Street U.S.A., Adventureland, Frontierland, Liberty Square, Fantasyland, and Tomorrowland.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "There are underground tunnels (utilidors) beneath Magic Kingdom.",
+      "correctAnswer": true,
+      "explanation": "The utilidors allow cast members to move around unseen and maintain the magic for guests.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What land features Big Thunder Mountain Railroad?",
+      "options": [
+        { "id": "a", "text": "Adventureland", "isCorrect": false },
+        { "id": "b", "text": "Frontierland", "isCorrect": true },
+        { "id": "c", "text": "Liberty Square", "isCorrect": false },
+        { "id": "d", "text": "Tomorrowland", "isCorrect": false }
+      ],
+      "explanation": "Big Thunder Mountain Railroad is located in Frontierland, themed as 'the wildest ride in the wilderness.'",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the nighttime fireworks show at Magic Kingdom?",
+      "options": [
+        { "id": "a", "text": "Wishes", "isCorrect": false },
+        { "id": "b", "text": "Happily Ever After", "isCorrect": true },
+        { "id": "c", "text": "Fantasy in the Sky", "isCorrect": false },
+        { "id": "d", "text": "Dreams Come True", "isCorrect": false }
+      ],
+      "explanation": "Happily Ever After is the current nighttime spectacular featuring fireworks and projection mapping on the castle.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Where can you find the Haunted Mansion at Magic Kingdom?",
+      "options": [
+        { "id": "a", "text": "Fantasyland", "isCorrect": false },
+        { "id": "b", "text": "Liberty Square", "isCorrect": true },
+        { "id": "c", "text": "Frontierland", "isCorrect": false },
+        { "id": "d", "text": "Adventureland", "isCorrect": false }
+      ],
+      "explanation": "The Haunted Mansion is in Liberty Square at Magic Kingdom (and New Orleans Square at Disneyland).",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "You can buy gum at Magic Kingdom.",
+      "correctAnswer": false,
+      "explanation": "Disney parks don't sell gum to help keep the parks clean and prevent gum from getting stuck on attractions.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the fastest ride at Magic Kingdom?",
+      "options": [
+        { "id": "a", "text": "Space Mountain", "isCorrect": false },
+        { "id": "b", "text": "TRON Lightcycle Run", "isCorrect": true },
+        { "id": "c", "text": "Big Thunder Mountain", "isCorrect": false },
+        { "id": "d", "text": "Seven Dwarfs Mine Train", "isCorrect": false }
+      ],
+      "explanation": "TRON Lightcycle Run reaches speeds of 59 mph, making it the fastest ride in Magic Kingdom.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What restaurant is located inside Cinderella Castle?",
+      "options": [
+        { "id": "a", "text": "Be Our Guest", "isCorrect": false },
+        { "id": "b", "text": "Cinderella's Royal Table", "isCorrect": true },
+        { "id": "c", "text": "Crystal Palace", "isCorrect": false },
+        { "id": "d", "text": "Liberty Tree Tavern", "isCorrect": false }
+      ],
+      "explanation": "Cinderella's Royal Table is a character dining experience located inside the iconic castle.",
+      "points": 10
+    }
+  ]
+}

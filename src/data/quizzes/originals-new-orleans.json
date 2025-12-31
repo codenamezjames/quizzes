@@ -1,0 +1,104 @@
+{
+  "id": "originals-new-orleans",
+  "title": "New Orleans Factions",
+  "description": "Explore the supernatural politics of the French Quarter!",
+  "icon": "location_city",
+  "category": "the-originals",
+  "coverColor": "#0D47A1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What district is the center of supernatural power in New Orleans?",
+      "options": [
+        { "id": "a", "text": "The Garden District", "isCorrect": false },
+        { "id": "b", "text": "The French Quarter", "isCorrect": true },
+        { "id": "c", "text": "The Bayou", "isCorrect": false },
+        { "id": "d", "text": "Bourbon Street", "isCorrect": false }
+      ],
+      "explanation": "The French Quarter is the heart of supernatural activity where vampires, witches, and werewolves vie for power.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which werewolf pack does Hayley belong to?",
+      "options": [
+        { "id": "a", "text": "Lockwood Pack", "isCorrect": false },
+        { "id": "b", "text": "Crescent Wolf Pack", "isCorrect": true },
+        { "id": "c", "text": "Bayou Pack", "isCorrect": false },
+        { "id": "d", "text": "North East Atlantic Pack", "isCorrect": false }
+      ],
+      "explanation": "Hayley is the last surviving member of the Labonair bloodline, royalty in the Crescent Wolf Pack.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The witches of New Orleans practice Ancestral Magic.",
+      "correctAnswer": true,
+      "explanation": "New Orleans witches draw power from their ancestors buried in the city, making them tied to the land.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who was the Harvest ritual meant to appease?",
+      "options": [
+        { "id": "a", "text": "The vampires", "isCorrect": false },
+        { "id": "b", "text": "The ancestors", "isCorrect": true },
+        { "id": "c", "text": "Marcel", "isCorrect": false },
+        { "id": "d", "text": "The werewolves", "isCorrect": false }
+      ],
+      "explanation": "The Harvest is a sacrificial ritual where four young witches die to strengthen the ancestors' power, then return.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is the name of the bar that serves as a supernatural hub?",
+      "options": [
+        { "id": "a", "text": "The Last Drop", "isCorrect": false },
+        { "id": "b", "text": "Rousseau's", "isCorrect": true },
+        { "id": "c", "text": "The Grill", "isCorrect": false },
+        { "id": "d", "text": "Bourbon Bar", "isCorrect": false }
+      ],
+      "explanation": "Rousseau's is the bar where Cami worked and where many supernatural meetings took place.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What curse did the Crescent wolves suffer from?",
+      "options": [
+        { "id": "a", "text": "They were human only on full moons", "isCorrect": true },
+        { "id": "b", "text": "They couldn't transform", "isCorrect": false },
+        { "id": "c", "text": "They were invisible", "isCorrect": false },
+        { "id": "d", "text": "They were mute", "isCorrect": false }
+      ],
+      "explanation": "The Crescent Curse forced the wolves to stay in wolf form except on full moons when they became human.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Marcel built his vampire army from the streets of New Orleans.",
+      "correctAnswer": true,
+      "explanation": "Marcel created his vampire empire by turning and recruiting people from the streets, building a loyal army.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What powerful witch coven operates from the cemetery?",
+      "options": [
+        { "id": "a", "text": "The Bennett Coven", "isCorrect": false },
+        { "id": "b", "text": "The Nine Covens", "isCorrect": true },
+        { "id": "c", "text": "The Gemini Coven", "isCorrect": false },
+        { "id": "d", "text": "The Travelers", "isCorrect": false }
+      ],
+      "explanation": "The Nine Covens of New Orleans witches operate from the Lafayette Cemetery, where their ancestors are buried.",
+      "points": 10
+    }
+  ]
+}

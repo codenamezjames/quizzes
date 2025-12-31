@@ -1,0 +1,104 @@
+{
+  "id": "originals-mikaelsons",
+  "title": "The Mikaelson Family",
+  "description": "How well do you know the Original family?",
+  "icon": "family_restroom",
+  "category": "the-originals",
+  "coverColor": "#283593",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many Mikaelson siblings are there in total?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": false },
+        { "id": "c", "text": "7", "isCorrect": true },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "There are 7 siblings: Freya, Finn, Elijah, Niklaus, Kol, Rebekah, and Henrik (who died before becoming a vampire).",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is Klaus's biological father?",
+      "options": [
+        { "id": "a", "text": "Mikael", "isCorrect": false },
+        { "id": "b", "text": "Ansel", "isCorrect": true },
+        { "id": "c", "text": "Elijah", "isCorrect": false },
+        { "id": "d", "text": "Finn", "isCorrect": false }
+      ],
+      "explanation": "Ansel was a werewolf and Klaus's biological father. Esther's affair with him is why Klaus has the werewolf gene.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Elijah is known as the most noble and honorable of the Mikaelson siblings.",
+      "correctAnswer": true,
+      "explanation": "Elijah is known for his honor, suits, and moral code, earning him the reputation as the noble Mikaelson.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What happened to the eldest Mikaelson, Freya?",
+      "options": [
+        { "id": "a", "text": "She died as a child", "isCorrect": false },
+        { "id": "b", "text": "She was taken by their aunt Dahlia", "isCorrect": true },
+        { "id": "c", "text": "She ran away", "isCorrect": false },
+        { "id": "d", "text": "She became human", "isCorrect": false }
+      ],
+      "explanation": "Freya was taken by Dahlia as payment for the fertility spell that allowed Esther to have children.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who created the Original vampires?",
+      "options": [
+        { "id": "a", "text": "Mikael", "isCorrect": false },
+        { "id": "b", "text": "Dahlia", "isCorrect": false },
+        { "id": "c", "text": "Esther", "isCorrect": true },
+        { "id": "d", "text": "Qetsiyah", "isCorrect": false }
+      ],
+      "explanation": "Esther, the Original Witch, created the spell that turned her children into the first vampires.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Rebekah's greatest wish throughout the series?",
+      "options": [
+        { "id": "a", "text": "To rule New Orleans", "isCorrect": false },
+        { "id": "b", "text": "To be human and have a family", "isCorrect": true },
+        { "id": "c", "text": "To kill Klaus", "isCorrect": false },
+        { "id": "d", "text": "To become the most powerful", "isCorrect": false }
+      ],
+      "explanation": "Rebekah has always longed to be human, fall in love, and have children of her own.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Kol was known for being the wildest and most unpredictable Mikaelson.",
+      "correctAnswer": true,
+      "explanation": "Kol was notorious for his reckless behavior, love of chaos, and inability to control his bloodlust.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Why did Mikael hunt his own children?",
+      "options": [
+        { "id": "a", "text": "They stole from him", "isCorrect": false },
+        { "id": "b", "text": "He hated vampires and especially Klaus", "isCorrect": true },
+        { "id": "c", "text": "They killed Esther", "isCorrect": false },
+        { "id": "d", "text": "He was compelled", "isCorrect": false }
+      ],
+      "explanation": "Mikael despised what his children became and especially hated Klaus for not being his biological son.",
+      "points": 10
+    }
+  ]
+}

@@ -67,11 +67,11 @@
       "question": "What makes Mitsuri Kanroji's muscles special?",
       "options": [
         { "id": "a", "text": "They're made of steel", "isCorrect": false },
-        { "id": "b", "text": "They're 8 times denser than normal", "isCorrect": true },
+        { "id": "b", "text": "They're much denser than normal", "isCorrect": true },
         { "id": "c", "text": "They can regenerate", "isCorrect": false },
         { "id": "d", "text": "They don't need oxygen", "isCorrect": false }
       ],
-      "explanation": "Mitsuri has a unique muscle composition that's 8x denser than average, giving her superhuman flexibility and strength!",
+      "explanation": "Mitsuri has a unique muscle composition that's much denser than average, giving her superhuman flexibility and strength!",
       "points": 10
     },
     {

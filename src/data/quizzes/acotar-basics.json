@@ -1,0 +1,104 @@
+{
+  "id": "acotar-basics",
+  "title": "ACOTAR Basics",
+  "description": "Test your knowledge of A Court of Thorns and Roses!",
+  "icon": "local_florist",
+  "category": "acotar",
+  "coverColor": "#7B1FA2",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the author of the ACOTAR series?",
+      "options": [
+        { "id": "a", "text": "Rebecca Yarros", "isCorrect": false },
+        { "id": "b", "text": "Sarah J. Maas", "isCorrect": true },
+        { "id": "c", "text": "Jennifer L. Armentrout", "isCorrect": false },
+        { "id": "d", "text": "Cassandra Clare", "isCorrect": false }
+      ],
+      "explanation": "Sarah J. Maas is the author of the ACOTAR series and other popular fantasy series like Throne of Glass.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the main character's name?",
+      "options": [
+        { "id": "a", "text": "Nesta", "isCorrect": false },
+        { "id": "b", "text": "Feyre Archeron", "isCorrect": true },
+        { "id": "c", "text": "Elain", "isCorrect": false },
+        { "id": "d", "text": "Mor", "isCorrect": false }
+      ],
+      "explanation": "Feyre Archeron is the protagonist who becomes entangled in the world of the Fae.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The story is inspired by Beauty and the Beast.",
+      "correctAnswer": true,
+      "explanation": "The first book is a retelling of Beauty and the Beast, with Feyre and Tamlin's story.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the magical land where the Fae live called?",
+      "options": [
+        { "id": "a", "text": "Narnia", "isCorrect": false },
+        { "id": "b", "text": "Prythian", "isCorrect": true },
+        { "id": "c", "text": "Middle Earth", "isCorrect": false },
+        { "id": "d", "text": "Hybern", "isCorrect": false }
+      ],
+      "explanation": "Prythian is the land of the Fae, divided into seven courts based on seasons and elements.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "How many books are in the main ACOTAR series?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "4", "isCorrect": false },
+        { "id": "c", "text": "5", "isCorrect": true },
+        { "id": "d", "text": "6", "isCorrect": false }
+      ],
+      "explanation": "The series includes 5 main books: ACOTAR, ACOMAF, ACOWAR, ACOFAS, and ACOSF.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Feyre starts the series as a human.",
+      "correctAnswer": true,
+      "explanation": "Feyre begins as a human huntress before being taken to Prythian and eventually becoming Fae.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What barrier separates the human and Fae worlds?",
+      "options": [
+        { "id": "a", "text": "The Wall", "isCorrect": true },
+        { "id": "b", "text": "The Veil", "isCorrect": false },
+        { "id": "c", "text": "The Border", "isCorrect": false },
+        { "id": "d", "text": "The Shield", "isCorrect": false }
+      ],
+      "explanation": "The Wall is a magical barrier created after the war to separate humans from the Fae realm.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What does Feyre do to survive and feed her family?",
+      "options": [
+        { "id": "a", "text": "Farm", "isCorrect": false },
+        { "id": "b", "text": "Hunt", "isCorrect": true },
+        { "id": "c", "text": "Steal", "isCorrect": false },
+        { "id": "d", "text": "Beg", "isCorrect": false }
+      ],
+      "explanation": "Feyre is a skilled huntress who provides for her impoverished family through hunting.",
+      "points": 10
+    }
+  ]
+}

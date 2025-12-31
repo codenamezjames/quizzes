@@ -1,0 +1,104 @@
+{
+  "id": "acotar-powers",
+  "title": "ACOTAR Powers & Magic",
+  "description": "Test your knowledge of Fae abilities and magic!",
+  "icon": "auto_fix_high",
+  "category": "acotar",
+  "coverColor": "#8E24AA",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What ancient artifact can transform humans into Fae?",
+      "options": [
+        { "id": "a", "text": "The Orb", "isCorrect": false },
+        { "id": "b", "text": "The Cauldron", "isCorrect": true },
+        { "id": "c", "text": "The Book of Breathings", "isCorrect": false },
+        { "id": "d", "text": "The Crown", "isCorrect": false }
+      ],
+      "explanation": "The Cauldron is an ancient, powerful artifact that created the world and can transform beings.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What unique power does Feyre gain from the High Lords?",
+      "options": [
+        { "id": "a", "text": "One power from each court", "isCorrect": true },
+        { "id": "b", "text": "Immortality only", "isCorrect": false },
+        { "id": "c", "text": "The ability to fly", "isCorrect": false },
+        { "id": "d", "text": "Mind control", "isCorrect": false }
+      ],
+      "explanation": "When Feyre was resurrected, each High Lord contributed power, giving her abilities from all seven courts.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Rhysand is the most powerful High Lord in Prythian's history.",
+      "correctAnswer": true,
+      "explanation": "Rhysand is stated to be the most powerful High Lord ever to exist, partly due to his unique heritage.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is a mate bond in the ACOTAR universe?",
+      "options": [
+        { "id": "a", "text": "A friendship bond", "isCorrect": false },
+        { "id": "b", "text": "A destined soul connection between two beings", "isCorrect": true },
+        { "id": "c", "text": "A political alliance", "isCorrect": false },
+        { "id": "d", "text": "A spell", "isCorrect": false }
+      ],
+      "explanation": "A mate bond is a deep, unbreakable soul connection that the Cauldron creates between destined pairs.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What ability does Rhysand's daemati power give him?",
+      "options": [
+        { "id": "a", "text": "Fire control", "isCorrect": false },
+        { "id": "b", "text": "Mind reading and manipulation", "isCorrect": true },
+        { "id": "c", "text": "Shape shifting", "isCorrect": false },
+        { "id": "d", "text": "Healing", "isCorrect": false }
+      ],
+      "explanation": "As a daemati, Rhysand can read minds, communicate telepathically, and manipulate thoughts.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Nesta becomes a Made being after being put in the Cauldron.",
+      "correctAnswer": true,
+      "explanation": "After being forced into the Cauldron, Nesta emerged as a Made Fae with significant powers she stole from it.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What special powers do Seers have?",
+      "options": [
+        { "id": "a", "text": "Super strength", "isCorrect": false },
+        { "id": "b", "text": "Visions of the future", "isCorrect": true },
+        { "id": "c", "text": "Flying", "isCorrect": false },
+        { "id": "d", "text": "Fire magic", "isCorrect": false }
+      ],
+      "explanation": "Seers can see visions of possible futures, like Elain who gained this ability from the Cauldron.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What curse was placed on the Spring Court in the first book?",
+      "options": [
+        { "id": "a", "text": "Everyone became animals", "isCorrect": false },
+        { "id": "b", "text": "All Fae had to wear masks", "isCorrect": true },
+        { "id": "c", "text": "The court was frozen", "isCorrect": false },
+        { "id": "d", "text": "No one could speak", "isCorrect": false }
+      ],
+      "explanation": "Amarantha cursed the Spring Court, forcing all Fae to wear masks until true love broke the curse.",
+      "points": 10
+    }
+  ]
+}

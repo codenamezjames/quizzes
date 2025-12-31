@@ -1,0 +1,104 @@
+{
+  "id": "originals-powers",
+  "title": "Powers & Abilities",
+  "description": "Test your knowledge of supernatural powers!",
+  "icon": "bolt",
+  "category": "the-originals",
+  "coverColor": "#6A1B9A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What makes Hope Mikaelson unique among supernatural beings?",
+      "options": [
+        { "id": "a", "text": "She's immortal", "isCorrect": false },
+        { "id": "b", "text": "She's a tribrid (vampire, werewolf, witch)", "isCorrect": true },
+        { "id": "c", "text": "She can't be killed", "isCorrect": false },
+        { "id": "d", "text": "She controls time", "isCorrect": false }
+      ],
+      "explanation": "Hope is the first tribrid, possessing witch powers, the werewolf gene, and vampire blood from birth.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Marcel's upgraded vampire form called?",
+      "options": [
+        { "id": "a", "text": "Super Original", "isCorrect": false },
+        { "id": "b", "text": "The Beast", "isCorrect": true },
+        { "id": "c", "text": "Upgraded Original", "isCorrect": false },
+        { "id": "d", "text": "The Destroyer", "isCorrect": false }
+      ],
+      "explanation": "Marcel becomes 'The Beast' after taking the serum, making him stronger than the Originals with a lethal bite.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Klaus's blood can cure a werewolf bite.",
+      "correctAnswer": true,
+      "explanation": "As the Original Hybrid, Klaus's blood is the only cure for the fatal werewolf bite that kills vampires.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What special ability does Freya possess as a firstborn Mikaelson witch?",
+      "options": [
+        { "id": "a", "text": "She can fly", "isCorrect": false },
+        { "id": "b", "text": "Greatly enhanced magical power", "isCorrect": true },
+        { "id": "c", "text": "She can read minds", "isCorrect": false },
+        { "id": "d", "text": "Immortality", "isCorrect": false }
+      ],
+      "explanation": "Firstborn Mikaelson witches possess immense power, which is why Dahlia sought to take Freya and later Hope.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What can the Papa Tunde blade do?",
+      "options": [
+        { "id": "a", "text": "Kill Originals permanently", "isCorrect": false },
+        { "id": "b", "text": "Cause endless torment and immobilize vampires", "isCorrect": true },
+        { "id": "c", "text": "Grant immortality", "isCorrect": false },
+        { "id": "d", "text": "Break curses", "isCorrect": false }
+      ],
+      "explanation": "The blade channels dark magic to cause excruciating pain and can immobilize even Original vampires.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Hybrids can transform into wolves at will without pain.",
+      "correctAnswer": true,
+      "explanation": "Unlike regular werewolves who painfully transform on full moons, hybrids can shift at will painlessly.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What ancient evil is known as 'The Hollow'?",
+      "options": [
+        { "id": "a", "text": "An Original vampire", "isCorrect": false },
+        { "id": "b", "text": "An ancient powerful spirit seeking resurrection", "isCorrect": true },
+        { "id": "c", "text": "A werewolf curse", "isCorrect": false },
+        { "id": "d", "text": "A weapon", "isCorrect": false }
+      ],
+      "explanation": "The Hollow is the spirit of Inadu, an ancient and extremely powerful witch seeking to return to life.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What happens when an Original is stabbed with a silver dagger dipped in white oak ash?",
+      "options": [
+        { "id": "a", "text": "They die permanently", "isCorrect": false },
+        { "id": "b", "text": "They desiccate and remain dormant", "isCorrect": true },
+        { "id": "c", "text": "They become human", "isCorrect": false },
+        { "id": "d", "text": "Nothing", "isCorrect": false }
+      ],
+      "explanation": "The daggers neutralize Originals, putting them in a death-like state until the dagger is removed.",
+      "points": 10
+    }
+  ]
+}

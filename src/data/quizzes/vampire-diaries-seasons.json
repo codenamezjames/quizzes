@@ -1,0 +1,104 @@
+{
+  "id": "vampire-diaries-seasons",
+  "title": "TVD Plot & Seasons",
+  "description": "How well do you remember the storylines?",
+  "icon": "menu_book",
+  "category": "vampire-diaries",
+  "coverColor": "#311B92",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What major event happens to Elena at the end of Season 3?",
+      "options": [
+        { "id": "a", "text": "She dies permanently", "isCorrect": false },
+        { "id": "b", "text": "She becomes a vampire", "isCorrect": true },
+        { "id": "c", "text": "She leaves Mystic Falls", "isCorrect": false },
+        { "id": "d", "text": "She becomes a witch", "isCorrect": false }
+      ],
+      "explanation": "Elena drowns with vampire blood in her system and transitions into a vampire at the end of Season 3.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is the main villain of Season 2?",
+      "options": [
+        { "id": "a", "text": "Katherine", "isCorrect": false },
+        { "id": "b", "text": "Klaus", "isCorrect": true },
+        { "id": "c", "text": "Silas", "isCorrect": false },
+        { "id": "d", "text": "Kai", "isCorrect": false }
+      ],
+      "explanation": "Klaus Mikaelson arrives in Mystic Falls seeking to break his hybrid curse using Elena's blood.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Damon and Bonnie get trapped in a prison world together.",
+      "correctAnswer": true,
+      "explanation": "In Season 6, Damon and Bonnie are trapped in the 1994 prison world after the Other Side collapses.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who kills Elena's aunt Jenna?",
+      "options": [
+        { "id": "a", "text": "Damon", "isCorrect": false },
+        { "id": "b", "text": "Katherine", "isCorrect": false },
+        { "id": "c", "text": "Klaus", "isCorrect": true },
+        { "id": "d", "text": "Stefan", "isCorrect": false }
+      ],
+      "explanation": "Klaus kills Jenna as part of his ritual to break the hybrid curse, after turning her into a vampire.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What villain is introduced in Season 4 as 'the first immortal'?",
+      "options": [
+        { "id": "a", "text": "Mikael", "isCorrect": false },
+        { "id": "b", "text": "Silas", "isCorrect": true },
+        { "id": "c", "text": "Markos", "isCorrect": false },
+        { "id": "d", "text": "Cade", "isCorrect": false }
+      ],
+      "explanation": "Silas is the first immortal being, even older than the Original vampires, seeking his lost love Amara.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Why does Elena leave the show for most of Seasons 7 and 8?",
+      "options": [
+        { "id": "a", "text": "She dies", "isCorrect": false },
+        { "id": "b", "text": "She's put in a magical sleep linked to Bonnie's life", "isCorrect": true },
+        { "id": "c", "text": "She takes the cure and ages", "isCorrect": false },
+        { "id": "d", "text": "She moves away", "isCorrect": false }
+      ],
+      "explanation": "Kai links Elena's life to Bonnie's, putting Elena in a sleep that will only end when Bonnie dies.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Stefan dies in the series finale.",
+      "correctAnswer": true,
+      "explanation": "Stefan sacrifices himself to destroy Katherine and Hell, dying as a human after giving Damon the cure.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is the name of the heretic coven introduced in Season 7?",
+      "options": [
+        { "id": "a", "text": "The Bennett coven", "isCorrect": false },
+        { "id": "b", "text": "The Heretics", "isCorrect": true },
+        { "id": "c", "text": "The Gemini coven", "isCorrect": false },
+        { "id": "d", "text": "The Travelers", "isCorrect": false }
+      ],
+      "explanation": "The Heretics are vampire-witch hybrids who were banished by the Gemini coven and later released.",
+      "points": 10
+    }
+  ]
+}

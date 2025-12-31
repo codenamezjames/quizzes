@@ -1,0 +1,104 @@
+{
+  "id": "disney-parks-history",
+  "title": "Disney Parks History",
+  "description": "Journey through Disney theme park history!",
+  "icon": "history",
+  "category": "disney-parks",
+  "coverColor": "#C62828",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What was the first attraction Walt Disney personally worked on at Disneyland?",
+      "options": [
+        { "id": "a", "text": "Pirates of the Caribbean", "isCorrect": false },
+        { "id": "b", "text": "Jungle Cruise", "isCorrect": true },
+        { "id": "c", "text": "Space Mountain", "isCorrect": false },
+        { "id": "d", "text": "Haunted Mansion", "isCorrect": false }
+      ],
+      "explanation": "Jungle Cruise was an opening day attraction in 1955 that Walt personally helped design.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "EPCOT stands for Experimental Prototype Community of Tomorrow.",
+      "correctAnswer": true,
+      "explanation": "Walt envisioned EPCOT as a real working city of the future, though it became a theme park instead.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Which park was NOT open on Walt Disney World's opening day in 1971?",
+      "options": [
+        { "id": "a", "text": "Magic Kingdom", "isCorrect": false },
+        { "id": "b", "text": "EPCOT", "isCorrect": true },
+        { "id": "c", "text": "Contemporary Resort", "isCorrect": false },
+        { "id": "d", "text": "Polynesian Resort", "isCorrect": false }
+      ],
+      "explanation": "Only Magic Kingdom and two resorts opened in 1971. EPCOT opened in 1982.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What was the first international Disney park?",
+      "options": [
+        { "id": "a", "text": "Disneyland Paris", "isCorrect": false },
+        { "id": "b", "text": "Tokyo Disneyland", "isCorrect": true },
+        { "id": "c", "text": "Hong Kong Disneyland", "isCorrect": false },
+        { "id": "d", "text": "Shanghai Disneyland", "isCorrect": false }
+      ],
+      "explanation": "Tokyo Disneyland opened in 1983, making it the first Disney park outside the United States.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What year did Hollywood Studios (originally Disney-MGM Studios) open?",
+      "options": [
+        { "id": "a", "text": "1985", "isCorrect": false },
+        { "id": "b", "text": "1989", "isCorrect": true },
+        { "id": "c", "text": "1992", "isCorrect": false },
+        { "id": "d", "text": "1998", "isCorrect": false }
+      ],
+      "explanation": "Disney-MGM Studios (now Hollywood Studios) opened on May 1, 1989.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Disney's Animal Kingdom is the largest theme park at Walt Disney World.",
+      "correctAnswer": true,
+      "explanation": "At approximately 580 acres, Animal Kingdom is the largest Disney theme park in the world.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What company originally sponsored Spaceship Earth at EPCOT?",
+      "options": [
+        { "id": "a", "text": "Kodak", "isCorrect": false },
+        { "id": "b", "text": "AT&T", "isCorrect": true },
+        { "id": "c", "text": "General Electric", "isCorrect": false },
+        { "id": "d", "text": "IBM", "isCorrect": false }
+      ],
+      "explanation": "AT&T was the original sponsor of Spaceship Earth when EPCOT opened in 1982.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What was Disneyland's opening day famously called due to problems?",
+      "options": [
+        { "id": "a", "text": "Dark Sunday", "isCorrect": false },
+        { "id": "b", "text": "Black Sunday", "isCorrect": true },
+        { "id": "c", "text": "Chaos Day", "isCorrect": false },
+        { "id": "d", "text": "The Disaster", "isCorrect": false }
+      ],
+      "explanation": "Opening day had counterfeit tickets, broken rides, and a heatwave, earning it the name 'Black Sunday.'",
+      "points": 10
+    }
+  ]
+}

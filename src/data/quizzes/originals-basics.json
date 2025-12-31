@@ -1,0 +1,104 @@
+{
+  "id": "originals-basics",
+  "title": "The Originals Basics",
+  "description": "Test your knowledge of the Mikaelson family saga!",
+  "icon": "castle",
+  "category": "the-originals",
+  "coverColor": "#1A237E",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Where does The Originals primarily take place?",
+      "options": [
+        { "id": "a", "text": "Mystic Falls", "isCorrect": false },
+        { "id": "b", "text": "New Orleans", "isCorrect": true },
+        { "id": "c", "text": "Los Angeles", "isCorrect": false },
+        { "id": "d", "text": "New York", "isCorrect": false }
+      ],
+      "explanation": "The Originals is set in New Orleans, where the Mikaelsons originally helped build the city centuries ago.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Originals is a spinoff of The Vampire Diaries.",
+      "correctAnswer": true,
+      "explanation": "The Originals premiered in 2013 as a spinoff focusing on the Original vampire family introduced in TVD.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How many seasons did The Originals run for?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "4", "isCorrect": false },
+        { "id": "c", "text": "5", "isCorrect": true },
+        { "id": "d", "text": "6", "isCorrect": false }
+      ],
+      "explanation": "The Originals ran for 5 seasons from 2013 to 2018.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Klaus's daughter?",
+      "options": [
+        { "id": "a", "text": "Freya", "isCorrect": false },
+        { "id": "b", "text": "Hope", "isCorrect": true },
+        { "id": "c", "text": "Davina", "isCorrect": false },
+        { "id": "d", "text": "Rebekah", "isCorrect": false }
+      ],
+      "explanation": "Hope Mikaelson is Klaus's daughter with Hayley Marshall, and the first tribrid ever born.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What phrase represents the Mikaelson family motto?",
+      "options": [
+        { "id": "a", "text": "Family first", "isCorrect": false },
+        { "id": "b", "text": "Always and Forever", "isCorrect": true },
+        { "id": "c", "text": "Blood is thicker", "isCorrect": false },
+        { "id": "d", "text": "Together we stand", "isCorrect": false }
+      ],
+      "explanation": "'Always and Forever' is the Mikaelson family vow, representing their eternal commitment to each other.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Marcel Gerard was raised by the Mikaelsons.",
+      "correctAnswer": true,
+      "explanation": "Klaus rescued Marcel as a child slave and raised him, later turning him into a vampire.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who is the main antagonist in Season 1?",
+      "options": [
+        { "id": "a", "text": "Mikael", "isCorrect": false },
+        { "id": "b", "text": "Marcel Gerard", "isCorrect": true },
+        { "id": "c", "text": "Dahlia", "isCorrect": false },
+        { "id": "d", "text": "The Hollow", "isCorrect": false }
+      ],
+      "explanation": "Marcel rules New Orleans when the Mikaelsons return, setting up a power struggle with Klaus.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What supernatural council governs New Orleans?",
+      "options": [
+        { "id": "a", "text": "The Founders Council", "isCorrect": false },
+        { "id": "b", "text": "The Faction", "isCorrect": true },
+        { "id": "c", "text": "The Coven", "isCorrect": false },
+        { "id": "d", "text": "The Tribunal", "isCorrect": false }
+      ],
+      "explanation": "The Faction was a council of human leaders, witches, werewolves, and vampires who governed New Orleans.",
+      "points": 10
+    }
+  ]
+}

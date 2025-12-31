@@ -1,0 +1,104 @@
+{
+  "id": "fourth-wing-dragons",
+  "title": "Dragons of Fourth Wing",
+  "description": "Test your knowledge of the magnificent dragons!",
+  "icon": "whatshot",
+  "category": "fourth-wing",
+  "coverColor": "#E65100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of Violet's first dragon?",
+      "options": [
+        { "id": "a", "text": "Sgaeyl", "isCorrect": false },
+        { "id": "b", "text": "Tairn", "isCorrect": true },
+        { "id": "c", "text": "Codagh", "isCorrect": false },
+        { "id": "d", "text": "Deigh", "isCorrect": false }
+      ],
+      "explanation": "Tairn is a massive black dragon who chooses to bond with Violet during Threshing.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Violet bonds with two dragons.",
+      "correctAnswer": true,
+      "explanation": "Violet bonds with both Tairn and Andarna, making her one of the rare dual-bonded riders.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is special about Andarna?",
+      "options": [
+        { "id": "a", "text": "She's the oldest dragon", "isCorrect": false },
+        { "id": "b", "text": "She's a young, featherless dragon", "isCorrect": true },
+        { "id": "c", "text": "She can't fly", "isCorrect": false },
+        { "id": "d", "text": "She's made of gold", "isCorrect": false }
+      ],
+      "explanation": "Andarna is a unique young golden dragon who hasn't fully matured, making her unusual among bonded dragons.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What dragon is bonded to Xaden?",
+      "options": [
+        { "id": "a", "text": "Tairn", "isCorrect": false },
+        { "id": "b", "text": "Sgaeyl", "isCorrect": true },
+        { "id": "c", "text": "Codagh", "isCorrect": false },
+        { "id": "d", "text": "Deigh", "isCorrect": false }
+      ],
+      "explanation": "Sgaeyl is Xaden's dragon, and she is mated to Tairn, which complicates Violet and Xaden's relationship.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What event determines which dragon bonds with a cadet?",
+      "options": [
+        { "id": "a", "text": "The Choosing", "isCorrect": false },
+        { "id": "b", "text": "Threshing", "isCorrect": true },
+        { "id": "c", "text": "Dragon Day", "isCorrect": false },
+        { "id": "d", "text": "The Bonding Ceremony", "isCorrect": false }
+      ],
+      "explanation": "Threshing is when dragons choose their riders. If a cadet isn't chosen, they may be killed or left unbonded.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Dragons can communicate telepathically with their bonded riders.",
+      "correctAnswer": true,
+      "explanation": "Bonded dragons and their riders share a telepathic connection, allowing mental communication.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What happens to a rider if their dragon dies?",
+      "options": [
+        { "id": "a", "text": "Nothing", "isCorrect": false },
+        { "id": "b", "text": "They typically die as well", "isCorrect": true },
+        { "id": "c", "text": "They become a scribe", "isCorrect": false },
+        { "id": "d", "text": "They bond a new dragon", "isCorrect": false }
+      ],
+      "explanation": "The bond between dragon and rider is so strong that riders usually die when their dragon dies.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What color is Tairn?",
+      "options": [
+        { "id": "a", "text": "Gold", "isCorrect": false },
+        { "id": "b", "text": "Black", "isCorrect": true },
+        { "id": "c", "text": "Blue", "isCorrect": false },
+        { "id": "d", "text": "Red", "isCorrect": false }
+      ],
+      "explanation": "Tairn is a massive black dragon with distinctive scars, known for being one of the most powerful dragons.",
+      "points": 10
+    }
+  ]
+}

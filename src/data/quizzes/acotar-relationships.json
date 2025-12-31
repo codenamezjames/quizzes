@@ -1,0 +1,104 @@
+{
+  "id": "acotar-relationships",
+  "title": "ACOTAR Relationships",
+  "description": "Test your knowledge of the romances and bonds!",
+  "icon": "favorite",
+  "category": "acotar",
+  "coverColor": "#AD1457",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who does Feyre end up marrying?",
+      "options": [
+        { "id": "a", "text": "Tamlin", "isCorrect": false },
+        { "id": "b", "text": "Rhysand", "isCorrect": true },
+        { "id": "c", "text": "Lucien", "isCorrect": false },
+        { "id": "d", "text": "Cassian", "isCorrect": false }
+      ],
+      "explanation": "Feyre and Rhysand are mates and get married, becoming the High Lord and High Lady of the Night Court.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Feyre is the first High Lady in Prythian's history.",
+      "correctAnswer": true,
+      "explanation": "Rhysand makes Feyre his equal, naming her High Lady of the Night Court—a first in history.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Who is Nesta's love interest?",
+      "options": [
+        { "id": "a", "text": "Azriel", "isCorrect": false },
+        { "id": "b", "text": "Cassian", "isCorrect": true },
+        { "id": "c", "text": "Rhysand", "isCorrect": false },
+        { "id": "d", "text": "Lucien", "isCorrect": false }
+      ],
+      "explanation": "Nesta and Cassian have a enemies-to-lovers romance that is central to A Court of Silver Flames.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is Elain's mate?",
+      "options": [
+        { "id": "a", "text": "Azriel", "isCorrect": false },
+        { "id": "b", "text": "Lucien", "isCorrect": true },
+        { "id": "c", "text": "Cassian", "isCorrect": false },
+        { "id": "d", "text": "Tamlin", "isCorrect": false }
+      ],
+      "explanation": "Lucien discovered he was Elain's mate when she emerged from the Cauldron, though she initially rejected the bond.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Mor has romantic feelings for Azriel.",
+      "correctAnswer": false,
+      "explanation": "Mor is actually attracted to women and has hidden this, though Azriel has feelings for her.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Why did Feyre's relationship with Tamlin fall apart?",
+      "options": [
+        { "id": "a", "text": "She fell for someone else immediately", "isCorrect": false },
+        { "id": "b", "text": "His controlling behavior and trapping her", "isCorrect": true },
+        { "id": "c", "text": "He was evil all along", "isCorrect": false },
+        { "id": "d", "text": "She wanted to be human again", "isCorrect": false }
+      ],
+      "explanation": "Tamlin became controlling and overprotective, refusing to let Feyre have freedom or heal from her trauma.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the romantic trope between Nesta and Cassian?",
+      "options": [
+        { "id": "a", "text": "Friends to lovers", "isCorrect": false },
+        { "id": "b", "text": "Enemies to lovers", "isCorrect": true },
+        { "id": "c", "text": "Love at first sight", "isCorrect": false },
+        { "id": "d", "text": "Forbidden love", "isCorrect": false }
+      ],
+      "explanation": "Nesta and Cassian start with intense hostility before their relationship develops into love.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What did Rhysand do Under the Mountain to protect Feyre?",
+      "options": [
+        { "id": "a", "text": "He ignored her", "isCorrect": false },
+        { "id": "b", "text": "Made a bargain and shielded her mind", "isCorrect": true },
+        { "id": "c", "text": "Fought Amarantha immediately", "isCorrect": false },
+        { "id": "d", "text": "Helped her escape", "isCorrect": false }
+      ],
+      "explanation": "Rhysand made a bargain with Feyre and secretly protected her mind from Amarantha's torture.",
+      "points": 10
+    }
+  ]
+}

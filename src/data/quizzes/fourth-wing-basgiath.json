@@ -1,0 +1,104 @@
+{
+  "id": "fourth-wing-basgiath",
+  "title": "Basgiath War College",
+  "description": "How well do you know the Riders Quadrant?",
+  "icon": "school",
+  "category": "fourth-wing",
+  "coverColor": "#FF6F00",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many quadrants are there at Basgiath?",
+      "options": [
+        { "id": "a", "text": "2", "isCorrect": false },
+        { "id": "b", "text": "3", "isCorrect": false },
+        { "id": "c", "text": "4", "isCorrect": true },
+        { "id": "d", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Basgiath has four quadrants: Riders, Infantry, Healers, and Scribes.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the Gauntlet?",
+      "options": [
+        { "id": "a", "text": "A weapon", "isCorrect": false },
+        { "id": "b", "text": "An obstacle course test", "isCorrect": true },
+        { "id": "c", "text": "A type of dragon", "isCorrect": false },
+        { "id": "d", "text": "A graduation ceremony", "isCorrect": false }
+      ],
+      "explanation": "The Gauntlet is a grueling obstacle course that cadets must complete to prove their physical capabilities.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Cadets can challenge each other to duels at Basgiath.",
+      "correctAnswer": true,
+      "explanation": "Challenges are allowed and can result in death, making Basgiath extremely dangerous for cadets.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What wing is Violet assigned to?",
+      "options": [
+        { "id": "a", "text": "First Wing", "isCorrect": false },
+        { "id": "b", "text": "Second Wing", "isCorrect": false },
+        { "id": "c", "text": "Third Wing", "isCorrect": false },
+        { "id": "d", "text": "Fourth Wing", "isCorrect": true }
+      ],
+      "explanation": "Violet is assigned to Fourth Wing, led by wingleader Xaden Riorson.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is the main rule about killing at Basgiath?",
+      "options": [
+        { "id": "a", "text": "Killing is forbidden", "isCorrect": false },
+        { "id": "b", "text": "Killing is encouraged", "isCorrect": false },
+        { "id": "c", "text": "No killing outside of challenges or sanctioned combat", "isCorrect": true },
+        { "id": "d", "text": "Only dragons can kill", "isCorrect": false }
+      ],
+      "explanation": "While killing in challenges is permitted, murder outside sanctioned events is punishable.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The survival rate for first-year cadets in the Riders Quadrant is high.",
+      "correctAnswer": false,
+      "explanation": "Many first-year cadets die from the parapet, Threshing, challenges, or training exercises.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What class teaches combat techniques to riders?",
+      "options": [
+        { "id": "a", "text": "Dragon Studies", "isCorrect": false },
+        { "id": "b", "text": "Battle Brief", "isCorrect": false },
+        { "id": "c", "text": "Hand-to-hand combat", "isCorrect": true },
+        { "id": "d", "text": "History of Navarre", "isCorrect": false }
+      ],
+      "explanation": "Cadets take hand-to-hand combat classes to prepare them for physical confrontations.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is the commandant of Basgiath?",
+      "options": [
+        { "id": "a", "text": "Lilith Sorrengail", "isCorrect": false },
+        { "id": "b", "text": "Panchek", "isCorrect": true },
+        { "id": "c", "text": "Xaden Riorson", "isCorrect": false },
+        { "id": "d", "text": "General Aetos", "isCorrect": false }
+      ],
+      "explanation": "Commandant Panchek is the leader of Basgiath War College.",
+      "points": 10
+    }
+  ]
+}

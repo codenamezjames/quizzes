@@ -1,0 +1,104 @@
+{
+  "id": "originals-alliances",
+  "title": "Alliances & Enemies",
+  "description": "Who's on whose side in New Orleans?",
+  "icon": "groups",
+  "category": "the-originals",
+  "coverColor": "#4527A0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who does Marcel ultimately end up with romantically?",
+      "options": [
+        { "id": "a", "text": "Cami", "isCorrect": false },
+        { "id": "b", "text": "Rebekah", "isCorrect": true },
+        { "id": "c", "text": "Davina", "isCorrect": false },
+        { "id": "d", "text": "Hayley", "isCorrect": false }
+      ],
+      "explanation": "Marcel and Rebekah's love story spans centuries, and they finally end up together in the series finale.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Davina Claire was once an enemy of the Mikaelsons.",
+      "correctAnswer": true,
+      "explanation": "Davina initially opposed the Mikaelsons due to her alliance with Marcel and hatred of Klaus for killing her friend Tim.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Who is Cami O'Connell to Klaus?",
+      "options": [
+        { "id": "a", "text": "His enemy", "isCorrect": false },
+        { "id": "b", "text": "His therapist and love interest", "isCorrect": true },
+        { "id": "c", "text": "His sister", "isCorrect": false },
+        { "id": "d", "text": "His employee", "isCorrect": false }
+      ],
+      "explanation": "Cami is a psychology grad student who becomes Klaus's confidante, therapist, and eventually his love.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who does Hayley marry?",
+      "options": [
+        { "id": "a", "text": "Klaus", "isCorrect": false },
+        { "id": "b", "text": "Elijah", "isCorrect": false },
+        { "id": "c", "text": "Jackson Kenner", "isCorrect": true },
+        { "id": "d", "text": "Marcel", "isCorrect": false }
+      ],
+      "explanation": "Hayley marries Jackson Kenner to unite the werewolf packs, though her heart belongs to Elijah.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who becomes Kol's love interest and later wife?",
+      "options": [
+        { "id": "a", "text": "Cami", "isCorrect": false },
+        { "id": "b", "text": "Davina Claire", "isCorrect": true },
+        { "id": "c", "text": "Freya", "isCorrect": false },
+        { "id": "d", "text": "Sophie", "isCorrect": false }
+      ],
+      "explanation": "Kol and Davina fall in love, and they eventually get married in the series.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Vincent Griffith eventually becomes an ally to the Mikaelsons.",
+      "correctAnswer": true,
+      "explanation": "Despite initial conflicts, Vincent works with the Mikaelsons to protect New Orleans from greater threats.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the relationship between Klaus and Marcel?",
+      "options": [
+        { "id": "a", "text": "Brothers", "isCorrect": false },
+        { "id": "b", "text": "Father figure and adopted son", "isCorrect": true },
+        { "id": "c", "text": "Cousins", "isCorrect": false },
+        { "id": "d", "text": "Just enemies", "isCorrect": false }
+      ],
+      "explanation": "Klaus rescued and raised Marcel, treating him as a son, though their relationship is complicated.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who kills Klaus in the series finale?",
+      "options": [
+        { "id": "a", "text": "Marcel", "isCorrect": false },
+        { "id": "b", "text": "He kills himself alongside Elijah", "isCorrect": true },
+        { "id": "c", "text": "The Hollow", "isCorrect": false },
+        { "id": "d", "text": "Mikael", "isCorrect": false }
+      ],
+      "explanation": "Klaus and Elijah stake themselves with the white oak stake to destroy The Hollow and protect Hope.",
+      "points": 10
+    }
+  ]
+}

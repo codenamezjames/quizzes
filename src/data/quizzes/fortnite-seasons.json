@@ -80,11 +80,11 @@
       "question": "Which season first introduced vehicles to Battle Royale?",
       "options": [
         { "id": "a", "text": "Season 3", "isCorrect": false },
-        { "id": "b", "text": "Season 4", "isCorrect": false },
-        { "id": "c", "text": "Season 5", "isCorrect": true },
+        { "id": "b", "text": "Season 4", "isCorrect": true },
+        { "id": "c", "text": "Season 5", "isCorrect": false },
         { "id": "d", "text": "Season 6", "isCorrect": false }
       ],
-      "explanation": "Shopping Carts were added in Season 4, but the ATK (All Terrain Kart) in Season 5 was the first true vehicle!",
+      "explanation": "Shopping Carts were introduced in Season 4, making them Fortnite's first vehicle! The ATK (All Terrain Kart) came later in Season 5.",
       "points": 10
     },
     {

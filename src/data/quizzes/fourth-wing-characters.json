@@ -1,0 +1,104 @@
+{
+  "id": "fourth-wing-characters",
+  "title": "Fourth Wing Characters",
+  "description": "How well do you know the characters of Basgiath?",
+  "icon": "people",
+  "category": "fourth-wing",
+  "coverColor": "#BF360C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is Xaden Riorson?",
+      "options": [
+        { "id": "a", "text": "Violet's brother", "isCorrect": false },
+        { "id": "b", "text": "The wingleader and a rebellion leader's son", "isCorrect": true },
+        { "id": "c", "text": "A professor at Basgiath", "isCorrect": false },
+        { "id": "d", "text": "The king of Navarre", "isCorrect": false }
+      ],
+      "explanation": "Xaden Riorson is a fourth-year wingleader and the son of the executed rebellion leader Fen Riorson.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is Violet's best friend at Basgiath?",
+      "options": [
+        { "id": "a", "text": "Dain Aetos", "isCorrect": false },
+        { "id": "b", "text": "Rhiannon Matthias", "isCorrect": true },
+        { "id": "c", "text": "Imogen", "isCorrect": false },
+        { "id": "d", "text": "Mira", "isCorrect": false }
+      ],
+      "explanation": "Rhiannon becomes Violet's closest friend and squadmate at Basgiath War College.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Dain Aetos is Violet's childhood friend.",
+      "correctAnswer": true,
+      "explanation": "Dain and Violet grew up together, and he initially tries to protect her at Basgiath.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Mira Sorrengail's relationship to Violet?",
+      "options": [
+        { "id": "a", "text": "Her mother", "isCorrect": false },
+        { "id": "b", "text": "Her older sister", "isCorrect": true },
+        { "id": "c", "text": "Her cousin", "isCorrect": false },
+        { "id": "d", "text": "Her roommate", "isCorrect": false }
+      ],
+      "explanation": "Mira is Violet's older sister who is already an accomplished dragon rider.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is Liam Mairi?",
+      "options": [
+        { "id": "a", "text": "Violet's enemy", "isCorrect": false },
+        { "id": "b", "text": "Xaden's best friend assigned to protect Violet", "isCorrect": true },
+        { "id": "c", "text": "A professor", "isCorrect": false },
+        { "id": "d", "text": "The dragon master", "isCorrect": false }
+      ],
+      "explanation": "Liam is Xaden's close friend who is assigned to watch over and protect Violet.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What distinguishes the children of the rebellion leaders?",
+      "options": [
+        { "id": "a", "text": "They wear special uniforms", "isCorrect": false },
+        { "id": "b", "text": "They have rebellion relics tattooed on them", "isCorrect": true },
+        { "id": "c", "text": "They can't bond dragons", "isCorrect": false },
+        { "id": "d", "text": "They live separately", "isCorrect": false }
+      ],
+      "explanation": "The marked ones, children of rebellion leaders, are forced to wear rebellion relics as tattoos that can kill them.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Violet's father is still alive at the start of the book.",
+      "correctAnswer": false,
+      "explanation": "Violet's father died before the events of Fourth Wing, and his death deeply affected her.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is Professor Kaori?",
+      "options": [
+        { "id": "a", "text": "Battle tactics instructor", "isCorrect": false },
+        { "id": "b", "text": "The signet professor", "isCorrect": true },
+        { "id": "c", "text": "Dragon bonding specialist", "isCorrect": false },
+        { "id": "d", "text": "History teacher", "isCorrect": false }
+      ],
+      "explanation": "Professor Kaori teaches cadets about their signets (magical abilities gained from dragon bonds).",
+      "points": 10
+    }
+  ]
+}

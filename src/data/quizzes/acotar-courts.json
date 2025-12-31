@@ -1,0 +1,104 @@
+{
+  "id": "acotar-courts",
+  "title": "Courts of Prythian",
+  "description": "Explore the seven courts of the Fae realm!",
+  "icon": "castle",
+  "category": "acotar",
+  "coverColor": "#4A148C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many courts are there in Prythian?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": false },
+        { "id": "c", "text": "7", "isCorrect": true },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "There are seven courts: Night, Day, Dawn, Spring, Summer, Autumn, and Winter.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the hidden city of the Night Court called?",
+      "options": [
+        { "id": "a", "text": "Hewn City", "isCorrect": false },
+        { "id": "b", "text": "Velaris", "isCorrect": true },
+        { "id": "c", "text": "Starfall", "isCorrect": false },
+        { "id": "d", "text": "Moonhaven", "isCorrect": false }
+      ],
+      "explanation": "Velaris is the City of Starlight, a hidden jewel of the Night Court that Rhysand protects from the world.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The Court of Nightmares is another name for the Night Court.",
+      "correctAnswer": false,
+      "explanation": "The Court of Nightmares (Hewn City) is a separate, darker part of the Night Court that Rhysand rules but despises.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which court does Helion rule?",
+      "options": [
+        { "id": "a", "text": "Summer Court", "isCorrect": false },
+        { "id": "b", "text": "Day Court", "isCorrect": true },
+        { "id": "c", "text": "Dawn Court", "isCorrect": false },
+        { "id": "d", "text": "Autumn Court", "isCorrect": false }
+      ],
+      "explanation": "Helion is the charismatic High Lord of the Day Court, known for his libraries and magical knowledge.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What season is the Spring Court associated with?",
+      "options": [
+        { "id": "a", "text": "Eternal winter", "isCorrect": false },
+        { "id": "b", "text": "Eternal spring and renewal", "isCorrect": true },
+        { "id": "c", "text": "Constant summer", "isCorrect": false },
+        { "id": "d", "text": "Perpetual autumn", "isCorrect": false }
+      ],
+      "explanation": "The Spring Court represents renewal and growth, with lands of eternal spring beauty.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is the cruel High Lord of the Autumn Court?",
+      "options": [
+        { "id": "a", "text": "Tarquin", "isCorrect": false },
+        { "id": "b", "text": "Beron", "isCorrect": true },
+        { "id": "c", "text": "Kallias", "isCorrect": false },
+        { "id": "d", "text": "Thesan", "isCorrect": false }
+      ],
+      "explanation": "Beron Vanserra is the ruthless High Lord of the Autumn Court and Lucien's father.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "The Summer Court is ruled by High Lord Tarquin.",
+      "correctAnswer": true,
+      "explanation": "Tarquin is the young High Lord of the Summer Court, one of the youngest High Lords in history.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What are the Illyrians in the Night Court known for?",
+      "options": [
+        { "id": "a", "text": "Their magic", "isCorrect": false },
+        { "id": "b", "text": "Their warrior culture and wings", "isCorrect": true },
+        { "id": "c", "text": "Their wealth", "isCorrect": false },
+        { "id": "d", "text": "Their peaceful nature", "isCorrect": false }
+      ],
+      "explanation": "Illyrians are fierce winged warriors known for their brutal training and aerial combat skills.",
+      "points": 10
+    }
+  ]
+}

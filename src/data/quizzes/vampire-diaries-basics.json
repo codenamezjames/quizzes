@@ -1,0 +1,104 @@
+{
+  "id": "vampire-diaries-basics",
+  "title": "TVD Basics",
+  "description": "Test your knowledge of The Vampire Diaries!",
+  "icon": "nightlight",
+  "category": "vampire-diaries",
+  "coverColor": "#B71C1C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What town does The Vampire Diaries take place in?",
+      "options": [
+        { "id": "a", "text": "Mystic Falls", "isCorrect": true },
+        { "id": "b", "text": "New Orleans", "isCorrect": false },
+        { "id": "c", "text": "Forks", "isCorrect": false },
+        { "id": "d", "text": "Sunnydale", "isCorrect": false }
+      ],
+      "explanation": "The Vampire Diaries is set in the fictional town of Mystic Falls, Virginia.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is the main protagonist of the series?",
+      "options": [
+        { "id": "a", "text": "Caroline Forbes", "isCorrect": false },
+        { "id": "b", "text": "Bonnie Bennett", "isCorrect": false },
+        { "id": "c", "text": "Elena Gilbert", "isCorrect": true },
+        { "id": "d", "text": "Katherine Pierce", "isCorrect": false }
+      ],
+      "explanation": "Elena Gilbert, played by Nina Dobrev, is the main protagonist of the series.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Stefan and Damon Salvatore are brothers.",
+      "correctAnswer": true,
+      "explanation": "Stefan and Damon are indeed brothers who were both turned into vampires in 1864.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What plant is toxic to vampires in this universe?",
+      "options": [
+        { "id": "a", "text": "Garlic", "isCorrect": false },
+        { "id": "b", "text": "Vervain", "isCorrect": true },
+        { "id": "c", "text": "Wolfsbane", "isCorrect": false },
+        { "id": "d", "text": "Holy water", "isCorrect": false }
+      ],
+      "explanation": "Vervain is toxic to vampires and prevents compulsion when worn or consumed by humans.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is Elena's younger brother's name?",
+      "options": [
+        { "id": "a", "text": "Matt", "isCorrect": false },
+        { "id": "b", "text": "Tyler", "isCorrect": false },
+        { "id": "c", "text": "Jeremy", "isCorrect": true },
+        { "id": "d", "text": "Alaric", "isCorrect": false }
+      ],
+      "explanation": "Jeremy Gilbert is Elena's younger brother, played by Steven R. McQueen.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The Vampire Diaries is based on a book series.",
+      "correctAnswer": true,
+      "explanation": "The show is based on the book series of the same name by L.J. Smith.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What allows vampires to walk in the sun?",
+      "options": [
+        { "id": "a", "text": "Sunscreen", "isCorrect": false },
+        { "id": "b", "text": "A daylight ring", "isCorrect": true },
+        { "id": "c", "text": "Drinking human blood", "isCorrect": false },
+        { "id": "d", "text": "Age", "isCorrect": false }
+      ],
+      "explanation": "Daylight rings, enchanted by witches with lapis lazuli stones, allow vampires to walk in sunlight.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "How many seasons did The Vampire Diaries run for?",
+      "options": [
+        { "id": "a", "text": "6", "isCorrect": false },
+        { "id": "b", "text": "7", "isCorrect": false },
+        { "id": "c", "text": "8", "isCorrect": true },
+        { "id": "d", "text": "9", "isCorrect": false }
+      ],
+      "explanation": "The Vampire Diaries ran for 8 seasons from 2009 to 2017.",
+      "points": 10
+    }
+  ]
+}

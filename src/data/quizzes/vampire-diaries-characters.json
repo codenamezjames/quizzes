@@ -1,0 +1,104 @@
+{
+  "id": "vampire-diaries-characters",
+  "title": "TVD Characters",
+  "description": "How well do you know the characters of Mystic Falls?",
+  "icon": "people",
+  "category": "vampire-diaries",
+  "coverColor": "#880E4F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who turned Stefan and Damon into vampires?",
+      "options": [
+        { "id": "a", "text": "Elena", "isCorrect": false },
+        { "id": "b", "text": "Katherine Pierce", "isCorrect": true },
+        { "id": "c", "text": "Klaus", "isCorrect": false },
+        { "id": "d", "text": "Rebekah", "isCorrect": false }
+      ],
+      "explanation": "Katherine Pierce gave the brothers her blood before they were killed, turning them into vampires in 1864.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What type of supernatural being is Bonnie Bennett?",
+      "options": [
+        { "id": "a", "text": "Vampire", "isCorrect": false },
+        { "id": "b", "text": "Werewolf", "isCorrect": false },
+        { "id": "c", "text": "Witch", "isCorrect": true },
+        { "id": "d", "text": "Doppelganger", "isCorrect": false }
+      ],
+      "explanation": "Bonnie Bennett is a powerful witch descended from the Bennett bloodline, one of the most powerful witch lineages.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Caroline Forbes starts the series as a vampire.",
+      "correctAnswer": false,
+      "explanation": "Caroline starts as a human and is turned into a vampire by Katherine in Season 2.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Alaric Saltzman's profession?",
+      "options": [
+        { "id": "a", "text": "Doctor", "isCorrect": false },
+        { "id": "b", "text": "History teacher", "isCorrect": true },
+        { "id": "c", "text": "Sheriff", "isCorrect": false },
+        { "id": "d", "text": "Lawyer", "isCorrect": false }
+      ],
+      "explanation": "Alaric is a history teacher at Mystic Falls High School and also a vampire hunter.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What triggers the werewolf gene in Tyler Lockwood?",
+      "options": [
+        { "id": "a", "text": "A full moon", "isCorrect": false },
+        { "id": "b", "text": "Killing someone", "isCorrect": true },
+        { "id": "c", "text": "Being bitten", "isCorrect": false },
+        { "id": "d", "text": "A spell", "isCorrect": false }
+      ],
+      "explanation": "The werewolf gene is triggered when a person with the gene kills someone, even accidentally.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is Elena's biological mother?",
+      "options": [
+        { "id": "a", "text": "Miranda Gilbert", "isCorrect": false },
+        { "id": "b", "text": "Isobel Flemming", "isCorrect": true },
+        { "id": "c", "text": "Jenna Sommers", "isCorrect": false },
+        { "id": "d", "text": "Katherine Pierce", "isCorrect": false }
+      ],
+      "explanation": "Isobel Flemming is Elena's biological mother who gave her up for adoption to her brother Grayson Gilbert.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Matt Donovan remains human throughout the entire series.",
+      "correctAnswer": true,
+      "explanation": "Matt is one of the few main characters who stays human throughout all 8 seasons.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What nickname does Damon often call Stefan?",
+      "options": [
+        { "id": "a", "text": "Little brother", "isCorrect": false },
+        { "id": "b", "text": "Saint Stefan", "isCorrect": true },
+        { "id": "c", "text": "Stef", "isCorrect": false },
+        { "id": "d", "text": "The good one", "isCorrect": false }
+      ],
+      "explanation": "Damon sarcastically calls Stefan 'Saint Stefan' due to his moral stance and guilt over being a vampire.",
+      "points": 10
+    }
+  ]
+}

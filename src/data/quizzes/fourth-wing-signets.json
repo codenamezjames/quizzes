@@ -1,0 +1,104 @@
+{
+  "id": "fourth-wing-signets",
+  "title": "Signets & Powers",
+  "description": "Test your knowledge of rider abilities!",
+  "icon": "bolt",
+  "category": "fourth-wing",
+  "coverColor": "#F57C00",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is a signet?",
+      "options": [
+        { "id": "a", "text": "A dragon's name", "isCorrect": false },
+        { "id": "b", "text": "A magical ability gained from bonding a dragon", "isCorrect": true },
+        { "id": "c", "text": "A type of weapon", "isCorrect": false },
+        { "id": "d", "text": "A rank at Basgiath", "isCorrect": false }
+      ],
+      "explanation": "A signet is a unique magical power that manifests in a rider after bonding with their dragon.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Violet's signet?",
+      "options": [
+        { "id": "a", "text": "Shadow wielding", "isCorrect": false },
+        { "id": "b", "text": "Lightning wielding", "isCorrect": true },
+        { "id": "c", "text": "Mind reading", "isCorrect": false },
+        { "id": "d", "text": "Fire control", "isCorrect": false }
+      ],
+      "explanation": "Violet can wield lightning, a powerful and rare signet that makes her formidable in battle.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What is Xaden's signet?",
+      "options": [
+        { "id": "a", "text": "Lightning", "isCorrect": false },
+        { "id": "b", "text": "Shadows", "isCorrect": true },
+        { "id": "c", "text": "Fire", "isCorrect": false },
+        { "id": "d", "text": "Wind", "isCorrect": false }
+      ],
+      "explanation": "Xaden can control shadows, using them to hide, attack, and even communicate secretly.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "question": "Every rider who bonds a dragon develops a signet.",
+      "correctAnswer": true,
+      "explanation": "All bonded riders eventually manifest a signet, though it may take time to appear and master.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is Dain's signet ability?",
+      "options": [
+        { "id": "a", "text": "Super strength", "isCorrect": false },
+        { "id": "b", "text": "Reading recent memories through touch", "isCorrect": true },
+        { "id": "c", "text": "Fire manipulation", "isCorrect": false },
+        { "id": "d", "text": "Flying without a dragon", "isCorrect": false }
+      ],
+      "explanation": "Dain can read people's recent memories by touching them, which creates trust issues.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What determines what signet a rider gets?",
+      "options": [
+        { "id": "a", "text": "Their choice", "isCorrect": false },
+        { "id": "b", "text": "Their dragon and their own nature", "isCorrect": true },
+        { "id": "c", "text": "Random chance", "isCorrect": false },
+        { "id": "d", "text": "Their family lineage", "isCorrect": false }
+      ],
+      "explanation": "A rider's signet is influenced by both their dragon's power and their own personality and needs.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Using signets too much can kill a rider.",
+      "correctAnswer": true,
+      "explanation": "Overusing one's signet can drain a rider completely and potentially kill them from exhaustion.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What unique ability does Andarna potentially give Violet?",
+      "options": [
+        { "id": "a", "text": "Fire immunity", "isCorrect": false },
+        { "id": "b", "text": "A second signet", "isCorrect": true },
+        { "id": "c", "text": "Immortality", "isCorrect": false },
+        { "id": "d", "text": "Flight without a dragon", "isCorrect": false }
+      ],
+      "explanation": "Being bonded to two dragons means Violet may develop two signets, which is extremely rare.",
+      "points": 10
+    }
+  ]
+}

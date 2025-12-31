@@ -1,0 +1,104 @@
+{
+  "id": "disney-parks-basics",
+  "title": "Disney Parks Basics",
+  "description": "Test your knowledge of the Happiest Places on Earth!",
+  "icon": "attractions",
+  "category": "disney-parks",
+  "coverColor": "#1565C0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When did Disneyland in California open?",
+      "options": [
+        { "id": "a", "text": "1950", "isCorrect": false },
+        { "id": "b", "text": "1955", "isCorrect": true },
+        { "id": "c", "text": "1960", "isCorrect": false },
+        { "id": "d", "text": "1965", "isCorrect": false }
+      ],
+      "explanation": "Disneyland opened on July 17, 1955, in Anaheim, California, making it the first Disney theme park.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Walt Disney was alive when Walt Disney World opened.",
+      "correctAnswer": false,
+      "explanation": "Walt Disney died in 1966, and Walt Disney World didn't open until October 1, 1971.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "How many Disney theme park resorts are there worldwide?",
+      "options": [
+        { "id": "a", "text": "4", "isCorrect": false },
+        { "id": "b", "text": "5", "isCorrect": false },
+        { "id": "c", "text": "6", "isCorrect": true },
+        { "id": "d", "text": "7", "isCorrect": false }
+      ],
+      "explanation": "There are 6 Disney resorts: Disneyland, Walt Disney World, Tokyo Disney, Disneyland Paris, Hong Kong Disneyland, and Shanghai Disneyland.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the iconic castle at Magic Kingdom called?",
+      "options": [
+        { "id": "a", "text": "Sleeping Beauty Castle", "isCorrect": false },
+        { "id": "b", "text": "Cinderella Castle", "isCorrect": true },
+        { "id": "c", "text": "Snow White Castle", "isCorrect": false },
+        { "id": "d", "text": "Princess Castle", "isCorrect": false }
+      ],
+      "explanation": "Cinderella Castle is the icon of Magic Kingdom at Walt Disney World, standing 189 feet tall.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What are Disney theme park employees called?",
+      "options": [
+        { "id": "a", "text": "Employees", "isCorrect": false },
+        { "id": "b", "text": "Cast Members", "isCorrect": true },
+        { "id": "c", "text": "Crew Members", "isCorrect": false },
+        { "id": "d", "text": "Disney Hosts", "isCorrect": false }
+      ],
+      "explanation": "Disney refers to all employees as Cast Members because they're part of the show for guests.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Main Street, U.S.A. is designed to look like Walt Disney's hometown.",
+      "correctAnswer": true,
+      "explanation": "Main Street, U.S.A. is inspired by Walt Disney's childhood hometown of Marceline, Missouri.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the term for the hidden Mickey Mouse shapes throughout the parks?",
+      "options": [
+        { "id": "a", "text": "Secret Mickeys", "isCorrect": false },
+        { "id": "b", "text": "Hidden Mickeys", "isCorrect": true },
+        { "id": "c", "text": "Mystery Mickeys", "isCorrect": false },
+        { "id": "d", "text": "Invisible Mickeys", "isCorrect": false }
+      ],
+      "explanation": "Hidden Mickeys are subtle Mickey Mouse shapes hidden throughout Disney parks and resorts by Imagineers.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What company designs Disney attractions?",
+      "options": [
+        { "id": "a", "text": "Disney Creative", "isCorrect": false },
+        { "id": "b", "text": "Walt Disney Imagineering", "isCorrect": true },
+        { "id": "c", "text": "Disney Design", "isCorrect": false },
+        { "id": "d", "text": "Disney Attractions Inc.", "isCorrect": false }
+      ],
+      "explanation": "Walt Disney Imagineering (WDI) is the design and development arm that creates Disney attractions.",
+      "points": 10
+    }
+  ]
+}

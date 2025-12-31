@@ -1,0 +1,104 @@
+{
+  "id": "fourth-wing-basics",
+  "title": "Fourth Wing Basics",
+  "description": "Test your knowledge of Rebecca Yarros's bestseller!",
+  "icon": "local_fire_department",
+  "category": "fourth-wing",
+  "coverColor": "#D84315",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the war college where the story takes place?",
+      "options": [
+        { "id": "a", "text": "Dragon Academy", "isCorrect": false },
+        { "id": "b", "text": "Basgiath War College", "isCorrect": true },
+        { "id": "c", "text": "Navarre Military School", "isCorrect": false },
+        { "id": "d", "text": "Riders Academy", "isCorrect": false }
+      ],
+      "explanation": "Basgiath War College is the elite military academy where riders are trained and bonded with dragons.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the main character's name?",
+      "options": [
+        { "id": "a", "text": "Rhiannon", "isCorrect": false },
+        { "id": "b", "text": "Violet Sorrengail", "isCorrect": true },
+        { "id": "c", "text": "Mira Sorrengail", "isCorrect": false },
+        { "id": "d", "text": "Jesinia", "isCorrect": false }
+      ],
+      "explanation": "Violet Sorrengail is the protagonist who was meant to enter the Scribe Quadrant but was forced into the Riders Quadrant.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Violet originally wanted to become a dragon rider.",
+      "correctAnswer": false,
+      "explanation": "Violet was training to be a scribe and only entered the Riders Quadrant because her mother forced her.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What physical condition does Violet have?",
+      "options": [
+        { "id": "a", "text": "Blindness", "isCorrect": false },
+        { "id": "b", "text": "A joint condition that makes her fragile", "isCorrect": true },
+        { "id": "c", "text": "Deafness", "isCorrect": false },
+        { "id": "d", "text": "A missing limb", "isCorrect": false }
+      ],
+      "explanation": "Violet has a condition similar to Ehlers-Danlos syndrome, making her joints hypermobile and prone to injury.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is the kingdom called where the story is set?",
+      "options": [
+        { "id": "a", "text": "Prythian", "isCorrect": false },
+        { "id": "b", "text": "Navarre", "isCorrect": true },
+        { "id": "c", "text": "Poromiel", "isCorrect": false },
+        { "id": "d", "text": "Tyrrendor", "isCorrect": false }
+      ],
+      "explanation": "The story is set in the kingdom of Navarre, which has been at war with neighboring Poromiel.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Fourth Wing is the first book in the Empyrean series.",
+      "correctAnswer": true,
+      "explanation": "Fourth Wing is the first book in the Empyrean series by Rebecca Yarros, followed by Iron Flame.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What dangerous event happens on the first day at Basgiath?",
+      "options": [
+        { "id": "a", "text": "A dragon attack", "isCorrect": false },
+        { "id": "b", "text": "Crossing the parapet", "isCorrect": true },
+        { "id": "c", "text": "A battle with gryphons", "isCorrect": false },
+        { "id": "d", "text": "An assassination attempt", "isCorrect": false }
+      ],
+      "explanation": "Cadets must cross the narrow, dangerous parapet to enter Basgiath, and many fall to their deaths.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is Violet's mother's position?",
+      "options": [
+        { "id": "a", "text": "Queen of Navarre", "isCorrect": false },
+        { "id": "b", "text": "General and commanding officer", "isCorrect": true },
+        { "id": "c", "text": "Head Scribe", "isCorrect": false },
+        { "id": "d", "text": "Dragon healer", "isCorrect": false }
+      ],
+      "explanation": "Lilith Sorrengail is a decorated general and the commanding officer of the Eastern Wing.",
+      "points": 10
+    }
+  ]
+}

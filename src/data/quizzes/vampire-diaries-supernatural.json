@@ -1,0 +1,104 @@
+{
+  "id": "vampire-diaries-supernatural",
+  "title": "TVD Supernatural",
+  "description": "Vampires, witches, werewolves and more!",
+  "icon": "auto_fix_high",
+  "category": "vampire-diaries",
+  "coverColor": "#4A148C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the dimension where supernatural beings go when they die?",
+      "options": [
+        { "id": "a", "text": "The Underworld", "isCorrect": false },
+        { "id": "b", "text": "The Other Side", "isCorrect": true },
+        { "id": "c", "text": "Purgatory", "isCorrect": false },
+        { "id": "d", "text": "The Void", "isCorrect": false }
+      ],
+      "explanation": "The Other Side was created by the witch Qetsiyah as a purgatory for supernatural beings.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is a hybrid in this universe?",
+      "options": [
+        { "id": "a", "text": "Vampire-witch", "isCorrect": false },
+        { "id": "b", "text": "Vampire-werewolf", "isCorrect": true },
+        { "id": "c", "text": "Witch-werewolf", "isCorrect": false },
+        { "id": "d", "text": "Human-vampire", "isCorrect": false }
+      ],
+      "explanation": "A hybrid is a vampire-werewolf combination. Klaus was the first hybrid, and he created others.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Vampires can enter homes without being invited.",
+      "correctAnswer": false,
+      "explanation": "Vampires must be invited in by a resident to enter a private home. This is a key protective measure.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What can cure vampirism in this universe?",
+      "options": [
+        { "id": "a", "text": "Holy water", "isCorrect": false },
+        { "id": "b", "text": "The Cure", "isCorrect": true },
+        { "id": "c", "text": "A witch's spell", "isCorrect": false },
+        { "id": "d", "text": "Werewolf blood", "isCorrect": false }
+      ],
+      "explanation": "The Cure is a magical remedy created by Qetsiyah that can turn a vampire back into a human.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is the name of Stefan's dark alter ego when he drinks human blood?",
+      "options": [
+        { "id": "a", "text": "The Beast", "isCorrect": false },
+        { "id": "b", "text": "The Ripper", "isCorrect": true },
+        { "id": "c", "text": "The Hunter", "isCorrect": false },
+        { "id": "d", "text": "The Monster", "isCorrect": false }
+      ],
+      "explanation": "Stefan becomes 'The Ripper' when he drinks human blood, losing control and becoming extremely violent.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What are the Original vampires?",
+      "options": [
+        { "id": "a", "text": "The oldest vampires in each country", "isCorrect": false },
+        { "id": "b", "text": "The first vampires ever created", "isCorrect": true },
+        { "id": "c", "text": "Vampires born, not made", "isCorrect": false },
+        { "id": "d", "text": "Vampire royalty", "isCorrect": false }
+      ],
+      "explanation": "The Originals are the first vampires, the Mikaelson family, turned by their mother Esther's spell.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "A werewolf bite is fatal to vampires.",
+      "correctAnswer": true,
+      "explanation": "A werewolf bite causes vampires to hallucinate and eventually die, unless cured by Klaus's blood.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What powerful object can kill an Original vampire?",
+      "options": [
+        { "id": "a", "text": "Any wooden stake", "isCorrect": false },
+        { "id": "b", "text": "White oak stake", "isCorrect": true },
+        { "id": "c", "text": "Silver dagger", "isCorrect": false },
+        { "id": "d", "text": "Vervain injection", "isCorrect": false }
+      ],
+      "explanation": "Only a stake made from the white oak tree can permanently kill an Original vampire.",
+      "points": 10
+    }
+  ]
+}

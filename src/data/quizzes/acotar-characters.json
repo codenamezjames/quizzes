@@ -1,0 +1,104 @@
+{
+  "id": "acotar-characters",
+  "title": "ACOTAR Characters",
+  "description": "How well do you know the characters of Prythian?",
+  "icon": "people",
+  "category": "acotar",
+  "coverColor": "#6A1B9A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the High Lord of the Night Court?",
+      "options": [
+        { "id": "a", "text": "Tamlin", "isCorrect": false },
+        { "id": "b", "text": "Rhysand", "isCorrect": true },
+        { "id": "c", "text": "Lucien", "isCorrect": false },
+        { "id": "d", "text": "Cassian", "isCorrect": false }
+      ],
+      "explanation": "Rhysand (Rhys) is the powerful High Lord of the Night Court and Feyre's mate.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How many sisters does Feyre have?",
+      "options": [
+        { "id": "a", "text": "1", "isCorrect": false },
+        { "id": "b", "text": "2", "isCorrect": true },
+        { "id": "c", "text": "3", "isCorrect": false },
+        { "id": "d", "text": "None", "isCorrect": false }
+      ],
+      "explanation": "Feyre has two older sisters: Nesta and Elain Archeron.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Tamlin is the High Lord of the Spring Court.",
+      "correctAnswer": true,
+      "explanation": "Tamlin rules the Spring Court and is Feyre's love interest in the first book.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is Feyre's true mate?",
+      "options": [
+        { "id": "a", "text": "Tamlin", "isCorrect": false },
+        { "id": "b", "text": "Lucien", "isCorrect": false },
+        { "id": "c", "text": "Rhysand", "isCorrect": true },
+        { "id": "d", "text": "Cassian", "isCorrect": false }
+      ],
+      "explanation": "Rhysand is revealed to be Feyre's true mate, the person destined for her by the Cauldron.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What are Cassian, Azriel, and Rhysand known as?",
+      "options": [
+        { "id": "a", "text": "The Brothers", "isCorrect": false },
+        { "id": "b", "text": "The Inner Circle", "isCorrect": true },
+        { "id": "c", "text": "The Dark Lords", "isCorrect": false },
+        { "id": "d", "text": "The Generals", "isCorrect": false }
+      ],
+      "explanation": "The Inner Circle is Rhysand's trusted group of friends and advisors, including the Illyrian warriors.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is the Shadowsinger of the Night Court?",
+      "options": [
+        { "id": "a", "text": "Cassian", "isCorrect": false },
+        { "id": "b", "text": "Azriel", "isCorrect": true },
+        { "id": "c", "text": "Lucien", "isCorrect": false },
+        { "id": "d", "text": "Mor", "isCorrect": false }
+      ],
+      "explanation": "Azriel is the Shadowsinger, a rare Illyrian who can control shadows and serves as spymaster.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Lucien was originally from the Spring Court.",
+      "correctAnswer": false,
+      "explanation": "Lucien was born in the Autumn Court as a son of the High Lord Beron, but fled to Spring Court.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is Amren?",
+      "options": [
+        { "id": "a", "text": "A normal Fae", "isCorrect": false },
+        { "id": "b", "text": "An ancient being trapped in a Fae body", "isCorrect": true },
+        { "id": "c", "text": "Rhysand's sister", "isCorrect": false },
+        { "id": "d", "text": "A human", "isCorrect": false }
+      ],
+      "explanation": "Amren is an ancient, powerful being from another world who was trapped in a Fae form.",
+      "points": 10
+    }
+  ]
+}

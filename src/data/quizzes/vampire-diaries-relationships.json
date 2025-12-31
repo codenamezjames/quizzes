@@ -1,0 +1,104 @@
+{
+  "id": "vampire-diaries-relationships",
+  "title": "TVD Relationships",
+  "description": "Test your knowledge of the romances and bonds!",
+  "icon": "favorite",
+  "category": "vampire-diaries",
+  "coverColor": "#C2185B",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who does Elena end up with at the end of the series?",
+      "options": [
+        { "id": "a", "text": "Stefan", "isCorrect": false },
+        { "id": "b", "text": "Damon", "isCorrect": true },
+        { "id": "c", "text": "Matt", "isCorrect": false },
+        { "id": "d", "text": "No one", "isCorrect": false }
+      ],
+      "explanation": "Elena ends up with Damon, and they live a long human life together after she takes the cure.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Caroline and Klaus have a romantic relationship in the series.",
+      "correctAnswer": true,
+      "explanation": "Caroline and Klaus develop feelings for each other, sharing a memorable moment in the woods before Klaus leaves for New Orleans.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Who was Elena dating at the start of Season 1?",
+      "options": [
+        { "id": "a", "text": "Stefan", "isCorrect": false },
+        { "id": "b", "text": "Damon", "isCorrect": false },
+        { "id": "c", "text": "Matt", "isCorrect": true },
+        { "id": "d", "text": "No one", "isCorrect": false }
+      ],
+      "explanation": "Elena had recently broken up with Matt Donovan at the start of the series before meeting Stefan.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who does Caroline marry?",
+      "options": [
+        { "id": "a", "text": "Tyler", "isCorrect": false },
+        { "id": "b", "text": "Klaus", "isCorrect": false },
+        { "id": "c", "text": "Stefan", "isCorrect": true },
+        { "id": "d", "text": "Alaric", "isCorrect": false }
+      ],
+      "explanation": "Caroline marries Stefan Salvatore in the series finale, though their time together is tragically short.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Bonnie has a significant relationship with which of Damon's friends?",
+      "options": [
+        { "id": "a", "text": "Enzo", "isCorrect": true },
+        { "id": "b", "text": "Kai", "isCorrect": false },
+        { "id": "c", "text": "Alaric", "isCorrect": false },
+        { "id": "d", "text": "Tyler", "isCorrect": false }
+      ],
+      "explanation": "Bonnie falls in love with Enzo, and their relationship becomes one of the most beloved in later seasons.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Alaric and Jenna Sommers were in a relationship.",
+      "correctAnswer": true,
+      "explanation": "Alaric and Jenna dated, and her death at Klaus's hands deeply affected Alaric.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What connects Elena and Katherine besides their appearance?",
+      "options": [
+        { "id": "a", "text": "They're twins", "isCorrect": false },
+        { "id": "b", "text": "Elena is Katherine's doppelganger descendant", "isCorrect": true },
+        { "id": "c", "text": "They're sisters", "isCorrect": false },
+        { "id": "d", "text": "Nothing", "isCorrect": false }
+      ],
+      "explanation": "Elena is the Petrova doppelganger, a descendant of Katherine who is also a doppelganger of Amara.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is the father of Caroline's twins?",
+      "options": [
+        { "id": "a", "text": "Stefan", "isCorrect": false },
+        { "id": "b", "text": "Klaus", "isCorrect": false },
+        { "id": "c", "text": "Alaric", "isCorrect": true },
+        { "id": "d", "text": "Tyler", "isCorrect": false }
+      ],
+      "explanation": "Alaric is the biological father of Lizzie and Josie. Caroline was a surrogate after Jo died.",
+      "points": 10
+    }
+  ]
+}
