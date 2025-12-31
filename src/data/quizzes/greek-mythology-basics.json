@@ -1,0 +1,104 @@
+{
+  "id": "greek-mythology-basics",
+  "title": "Greek Mythology Basics",
+  "description": "Test your knowledge of ancient Greek myths!",
+  "icon": "temple_buddhist",
+  "category": "greek-mythology",
+  "coverColor": "#5D4037",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Where do the Greek gods live?",
+      "options": [
+        { "id": "a", "text": "Mount Olympus", "isCorrect": true },
+        { "id": "b", "text": "Mount Everest", "isCorrect": false },
+        { "id": "c", "text": "The Underworld", "isCorrect": false },
+        { "id": "d", "text": "Atlantis", "isCorrect": false }
+      ],
+      "explanation": "Mount Olympus is the mythical home of the twelve Olympian gods in Greek mythology.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is the king of the Greek gods?",
+      "options": [
+        { "id": "a", "text": "Poseidon", "isCorrect": false },
+        { "id": "b", "text": "Zeus", "isCorrect": true },
+        { "id": "c", "text": "Hades", "isCorrect": false },
+        { "id": "d", "text": "Apollo", "isCorrect": false }
+      ],
+      "explanation": "Zeus is the king of the gods, ruler of Mount Olympus, and god of the sky and thunder.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The Titans ruled before the Olympian gods.",
+      "correctAnswer": true,
+      "explanation": "The Titans were the elder gods who ruled before Zeus and the Olympians overthrew them.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the Greek underworld?",
+      "options": [
+        { "id": "a", "text": "Tartarus", "isCorrect": false },
+        { "id": "b", "text": "Hades", "isCorrect": true },
+        { "id": "c", "text": "Elysium", "isCorrect": false },
+        { "id": "d", "text": "Olympus", "isCorrect": false }
+      ],
+      "explanation": "The underworld is called Hades, named after its ruler. Tartarus is the deepest dungeon within it.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What food grants immortality to the gods?",
+      "options": [
+        { "id": "a", "text": "Golden apples", "isCorrect": false },
+        { "id": "b", "text": "Ambrosia", "isCorrect": true },
+        { "id": "c", "text": "Pomegranates", "isCorrect": false },
+        { "id": "d", "text": "Honey", "isCorrect": false }
+      ],
+      "explanation": "Ambrosia is the food of the gods, and nectar is their drink, both granting immortality.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Zeus, Poseidon, and Hades are brothers.",
+      "correctAnswer": true,
+      "explanation": "The three brothers divided the world after defeating the Titans: Zeus got the sky, Poseidon the sea, and Hades the underworld.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Who ferries souls across the River Styx?",
+      "options": [
+        { "id": "a", "text": "Hermes", "isCorrect": false },
+        { "id": "b", "text": "Charon", "isCorrect": true },
+        { "id": "c", "text": "Hades", "isCorrect": false },
+        { "id": "d", "text": "Cerberus", "isCorrect": false }
+      ],
+      "explanation": "Charon is the ferryman who carries souls of the deceased across the River Styx to the underworld.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "How many Olympian gods are there traditionally?",
+      "options": [
+        { "id": "a", "text": "10", "isCorrect": false },
+        { "id": "b", "text": "12", "isCorrect": true },
+        { "id": "c", "text": "14", "isCorrect": false },
+        { "id": "d", "text": "7", "isCorrect": false }
+      ],
+      "explanation": "There are traditionally twelve Olympian gods who resided on Mount Olympus.",
+      "points": 10
+    }
+  ]
+}

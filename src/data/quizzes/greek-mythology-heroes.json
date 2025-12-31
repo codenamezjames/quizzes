@@ -1,0 +1,104 @@
+{
+  "id": "greek-mythology-heroes",
+  "title": "Greek Heroes",
+  "description": "Test your knowledge of legendary Greek heroes!",
+  "icon": "shield",
+  "category": "greek-mythology",
+  "coverColor": "#FF5722",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many labors did Hercules have to complete?",
+      "options": [
+        { "id": "a", "text": "10", "isCorrect": false },
+        { "id": "b", "text": "12", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "15", "isCorrect": false }
+      ],
+      "explanation": "Hercules completed twelve labors as penance, including slaying the Nemean Lion and capturing Cerberus.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who killed Medusa?",
+      "options": [
+        { "id": "a", "text": "Hercules", "isCorrect": false },
+        { "id": "b", "text": "Perseus", "isCorrect": true },
+        { "id": "c", "text": "Theseus", "isCorrect": false },
+        { "id": "d", "text": "Achilles", "isCorrect": false }
+      ],
+      "explanation": "Perseus beheaded Medusa using a mirrored shield to avoid her petrifying gaze.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Achilles was invulnerable except for his heel.",
+      "correctAnswer": true,
+      "explanation": "Achilles' mother dipped him in the River Styx, but held him by his heel, leaving it vulnerable.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who defeated the Minotaur in the labyrinth?",
+      "options": [
+        { "id": "a", "text": "Perseus", "isCorrect": false },
+        { "id": "b", "text": "Theseus", "isCorrect": true },
+        { "id": "c", "text": "Jason", "isCorrect": false },
+        { "id": "d", "text": "Odysseus", "isCorrect": false }
+      ],
+      "explanation": "Theseus navigated the labyrinth and killed the Minotaur, using Ariadne's thread to escape.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What was Jason searching for with the Argonauts?",
+      "options": [
+        { "id": "a", "text": "The Holy Grail", "isCorrect": false },
+        { "id": "b", "text": "The Golden Fleece", "isCorrect": true },
+        { "id": "c", "text": "Pandora's Box", "isCorrect": false },
+        { "id": "d", "text": "The Trident", "isCorrect": false }
+      ],
+      "explanation": "Jason led the Argonauts on a quest to retrieve the Golden Fleece from Colchis.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who took 10 years to return home after the Trojan War?",
+      "options": [
+        { "id": "a", "text": "Achilles", "isCorrect": false },
+        { "id": "b", "text": "Odysseus", "isCorrect": true },
+        { "id": "c", "text": "Ajax", "isCorrect": false },
+        { "id": "d", "text": "Paris", "isCorrect": false }
+      ],
+      "explanation": "Odysseus's journey home to Ithaca took 10 years, facing monsters, gods, and temptations.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Hercules is the son of Zeus.",
+      "correctAnswer": true,
+      "explanation": "Hercules (Heracles) is the son of Zeus and the mortal woman Alcmene.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who flew too close to the sun with wax wings?",
+      "options": [
+        { "id": "a", "text": "Daedalus", "isCorrect": false },
+        { "id": "b", "text": "Icarus", "isCorrect": true },
+        { "id": "c", "text": "Orpheus", "isCorrect": false },
+        { "id": "d", "text": "Bellerophon", "isCorrect": false }
+      ],
+      "explanation": "Icarus ignored his father Daedalus's warning and flew too close to the sun, melting his wings.",
+      "points": 10
+    }
+  ]
+}

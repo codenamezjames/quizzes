@@ -1,0 +1,104 @@
+{
+  "id": "gilmore-girls-stars-hollow",
+  "title": "Stars Hollow Life",
+  "description": "Explore the charming town and its traditions!",
+  "icon": "location_city",
+  "category": "gilmore-girls",
+  "coverColor": "#42A5F5",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What festival features a dance marathon?",
+      "options": [
+        { "id": "a", "text": "The Firelight Festival", "isCorrect": false },
+        { "id": "b", "text": "The Stars Hollow Dance Marathon", "isCorrect": true },
+        { "id": "c", "text": "The Winter Carnival", "isCorrect": false },
+        { "id": "d", "text": "The Founders Day Festival", "isCorrect": false }
+      ],
+      "explanation": "The 24-hour Stars Hollow Dance Marathon is a beloved annual tradition with a trophy prize!",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The Dragonfly Inn is the inn Lorelai and Sookie open together.",
+      "correctAnswer": true,
+      "explanation": "Lorelai and Sookie fulfill their dream by opening the Dragonfly Inn together.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What store does Taylor Doose own?",
+      "options": [
+        { "id": "a", "text": "A hardware store", "isCorrect": false },
+        { "id": "b", "text": "A grocery/market store", "isCorrect": true },
+        { "id": "c", "text": "A bookstore", "isCorrect": false },
+        { "id": "d", "text": "A flower shop", "isCorrect": false }
+      ],
+      "explanation": "Taylor owns Doose's Market, the town's grocery store, among his many business ventures.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is above Luke's Diner?",
+      "options": [
+        { "id": "a", "text": "A storage room", "isCorrect": false },
+        { "id": "b", "text": "Luke's apartment", "isCorrect": true },
+        { "id": "c", "text": "An office", "isCorrect": false },
+        { "id": "d", "text": "Nothing", "isCorrect": false }
+      ],
+      "explanation": "Luke lives in the apartment above the diner, which was originally his father's hardware store.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What annual event does Lorelai hate attending?",
+      "options": [
+        { "id": "a", "text": "The Firelight Festival", "isCorrect": false },
+        { "id": "b", "text": "Friday Night Dinners", "isCorrect": true },
+        { "id": "c", "text": "Town meetings", "isCorrect": false },
+        { "id": "d", "text": "The carnival", "isCorrect": false }
+      ],
+      "explanation": "Friday Night Dinners at Emily and Richard's become mandatory when they agree to pay for Chilton.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Stars Hollow has a town troubadour who sings on the streets.",
+      "correctAnswer": true,
+      "explanation": "The Town Troubadour is a recurring character who performs folk songs around Stars Hollow.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the name of the local bookstore?",
+      "options": [
+        { "id": "a", "text": "Stars Hollow Books", "isCorrect": true },
+        { "id": "b", "text": "Andrew's Books", "isCorrect": false },
+        { "id": "c", "text": "The Reading Room", "isCorrect": false },
+        { "id": "d", "text": "Book Nook", "isCorrect": false }
+      ],
+      "explanation": "Stars Hollow Books is run by Andrew and is one of Rory's favorite places in town.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What state is Stars Hollow located in?",
+      "options": [
+        { "id": "a", "text": "Massachusetts", "isCorrect": false },
+        { "id": "b", "text": "Connecticut", "isCorrect": true },
+        { "id": "c", "text": "Vermont", "isCorrect": false },
+        { "id": "d", "text": "New Hampshire", "isCorrect": false }
+      ],
+      "explanation": "Stars Hollow is a fictional town in Connecticut, about 30 minutes from Hartford.",
+      "points": 10
+    }
+  ]
+}

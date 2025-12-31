@@ -1,0 +1,104 @@
+{
+  "id": "twilight-relationships",
+  "title": "Twilight Relationships",
+  "description": "Test your knowledge of the saga's romances!",
+  "icon": "favorite",
+  "category": "twilight",
+  "coverColor": "#D32F2F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What does Edward compare Bella's scent to?",
+      "options": [
+        { "id": "a", "text": "Roses", "isCorrect": false },
+        { "id": "b", "text": "His personal brand of heroin", "isCorrect": true },
+        { "id": "c", "text": "Honey", "isCorrect": false },
+        { "id": "d", "text": "Vanilla", "isCorrect": false }
+      ],
+      "explanation": "Edward describes Bella's blood as being like his 'own personal brand of heroin' - irresistible to him.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Bella chooses Jacob over Edward in the end.",
+      "correctAnswer": false,
+      "explanation": "Bella ultimately chooses Edward, marries him, and becomes a vampire.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Where do Edward and Bella get married?",
+      "options": [
+        { "id": "a", "text": "A church", "isCorrect": false },
+        { "id": "b", "text": "The Cullen house", "isCorrect": true },
+        { "id": "c", "text": "The beach", "isCorrect": false },
+        { "id": "d", "text": "Las Vegas", "isCorrect": false }
+      ],
+      "explanation": "Edward and Bella get married at the Cullen house, with Alice planning the beautiful ceremony.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Edward and Bella's daughter?",
+      "options": [
+        { "id": "a", "text": "Carlie", "isCorrect": false },
+        { "id": "b", "text": "Renesmee", "isCorrect": true },
+        { "id": "c", "text": "Esme", "isCorrect": false },
+        { "id": "d", "text": "Elizabeth", "isCorrect": false }
+      ],
+      "explanation": "Renesmee Carlie Cullen's name combines Renee + Esme and Carlisle + Charlie.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Where do Edward and Bella honeymoon?",
+      "options": [
+        { "id": "a", "text": "Paris", "isCorrect": false },
+        { "id": "b", "text": "Isle Esme", "isCorrect": true },
+        { "id": "c", "text": "Hawaii", "isCorrect": false },
+        { "id": "d", "text": "Alaska", "isCorrect": false }
+      ],
+      "explanation": "They honeymoon on Isle Esme, a private island off the coast of Brazil that Carlisle gave to Esme.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Alice and Jasper are a couple.",
+      "correctAnswer": true,
+      "explanation": "Alice and Jasper found each other before joining the Cullens and have been together ever since.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Why does Edward leave Bella in New Moon?",
+      "options": [
+        { "id": "a", "text": "He stops loving her", "isCorrect": false },
+        { "id": "b", "text": "To protect her from vampires", "isCorrect": true },
+        { "id": "c", "text": "The Volturi force him to", "isCorrect": false },
+        { "id": "d", "text": "He moves away for school", "isCorrect": false }
+      ],
+      "explanation": "After Jasper attacks Bella, Edward believes she'll be safer without him and leaves to protect her.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What does Bella's shield power protect against?",
+      "options": [
+        { "id": "a", "text": "Physical attacks", "isCorrect": false },
+        { "id": "b", "text": "Mental/psychic vampire powers", "isCorrect": true },
+        { "id": "c", "text": "Sunlight", "isCorrect": false },
+        { "id": "d", "text": "Werewolves", "isCorrect": false }
+      ],
+      "explanation": "Bella's shield blocks mental powers like Edward's mind reading, Jane's pain, and Aro's power.",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "twilight-vampires",
+  "title": "Twilight Vampires",
+  "description": "Test your knowledge of vampire lore!",
+  "icon": "nights_stay",
+  "category": "twilight",
+  "coverColor": "#263238",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the ruling body of the vampire world called?",
+      "options": [
+        { "id": "a", "text": "The Council", "isCorrect": false },
+        { "id": "b", "text": "The Volturi", "isCorrect": true },
+        { "id": "c", "text": "The Ancients", "isCorrect": false },
+        { "id": "d", "text": "The Elders", "isCorrect": false }
+      ],
+      "explanation": "The Volturi are the ancient vampire coven that enforces vampire law from Volterra, Italy.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who are the three leaders of the Volturi?",
+      "options": [
+        { "id": "a", "text": "Aro, Caius, and Marcus", "isCorrect": true },
+        { "id": "b", "text": "James, Laurent, and Victoria", "isCorrect": false },
+        { "id": "c", "text": "Felix, Demetri, and Jane", "isCorrect": false },
+        { "id": "d", "text": "Carlisle, Edward, and Jasper", "isCorrect": false }
+      ],
+      "explanation": "Aro, Caius, and Marcus are the three ancient vampires who lead the Volturi.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Newborn vampires are stronger than older vampires.",
+      "correctAnswer": true,
+      "explanation": "Newborn vampires retain their human blood in their tissues, making them exceptionally strong but also volatile.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What color are a vampire's eyes when they drink human blood?",
+      "options": [
+        { "id": "a", "text": "Gold", "isCorrect": false },
+        { "id": "b", "text": "Red", "isCorrect": true },
+        { "id": "c", "text": "Black", "isCorrect": false },
+        { "id": "d", "text": "Blue", "isCorrect": false }
+      ],
+      "explanation": "Vampires who drink human blood have red eyes, while those who drink animal blood have golden eyes.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What happens during a vampire's transformation?",
+      "options": [
+        { "id": "a", "text": "They sleep for a week", "isCorrect": false },
+        { "id": "b", "text": "They experience intense burning pain for days", "isCorrect": true },
+        { "id": "c", "text": "They immediately become vampires", "isCorrect": false },
+        { "id": "d", "text": "They lose all memories", "isCorrect": false }
+      ],
+      "explanation": "The transformation takes 2-3 days of excruciating burning pain as the venom spreads through the body.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Jane's terrifying ability?",
+      "options": [
+        { "id": "a", "text": "Mind reading", "isCorrect": false },
+        { "id": "b", "text": "Creating the illusion of pain", "isCorrect": true },
+        { "id": "c", "text": "Super speed", "isCorrect": false },
+        { "id": "d", "text": "Seeing the future", "isCorrect": false }
+      ],
+      "explanation": "Jane can create the illusion of extreme pain in her victims, making her one of the Volturi's most feared members.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Vampires in Twilight need to be invited into homes.",
+      "correctAnswer": false,
+      "explanation": "Unlike traditional vampire lore, Twilight vampires don't need invitations to enter homes.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is an 'immortal child' and why are they forbidden?",
+      "options": [
+        { "id": "a", "text": "A vampire child - they're too powerful and uncontrollable", "isCorrect": true },
+        { "id": "b", "text": "A human child of vampires", "isCorrect": false },
+        { "id": "c", "text": "A vampire who never ages mentally", "isCorrect": false },
+        { "id": "d", "text": "A half-vampire", "isCorrect": false }
+      ],
+      "explanation": "Immortal children are vampires turned as young children. They're forbidden because they can't control their instincts and exposed vampires.",
+      "points": 10
+    }
+  ]
+}

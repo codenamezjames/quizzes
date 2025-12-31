@@ -1,0 +1,104 @@
+{
+  "id": "greek-mythology-gods",
+  "title": "The Olympian Gods",
+  "description": "How well do you know the gods of Olympus?",
+  "icon": "bolt",
+  "category": "greek-mythology",
+  "coverColor": "#FFC107",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the goddess of wisdom and warfare?",
+      "options": [
+        { "id": "a", "text": "Hera", "isCorrect": false },
+        { "id": "b", "text": "Athena", "isCorrect": true },
+        { "id": "c", "text": "Artemis", "isCorrect": false },
+        { "id": "d", "text": "Aphrodite", "isCorrect": false }
+      ],
+      "explanation": "Athena is the goddess of wisdom, strategic warfare, and crafts. Athens is named after her.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Poseidon the god of?",
+      "options": [
+        { "id": "a", "text": "The sky", "isCorrect": false },
+        { "id": "b", "text": "The sea", "isCorrect": true },
+        { "id": "c", "text": "War", "isCorrect": false },
+        { "id": "d", "text": "Fire", "isCorrect": false }
+      ],
+      "explanation": "Poseidon is the god of the sea, earthquakes, and horses. He wields a powerful trident.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Aphrodite is the goddess of love and beauty.",
+      "correctAnswer": true,
+      "explanation": "Aphrodite is the goddess of love, beauty, and desire, born from the sea foam.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is the messenger of the gods?",
+      "options": [
+        { "id": "a", "text": "Apollo", "isCorrect": false },
+        { "id": "b", "text": "Hermes", "isCorrect": true },
+        { "id": "c", "text": "Ares", "isCorrect": false },
+        { "id": "d", "text": "Dionysus", "isCorrect": false }
+      ],
+      "explanation": "Hermes is the messenger god, also associated with travelers, thieves, and commerce.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Artemis is the goddess of what?",
+      "options": [
+        { "id": "a", "text": "Marriage", "isCorrect": false },
+        { "id": "b", "text": "The hunt and the moon", "isCorrect": true },
+        { "id": "c", "text": "Agriculture", "isCorrect": false },
+        { "id": "d", "text": "Love", "isCorrect": false }
+      ],
+      "explanation": "Artemis is the goddess of the hunt, wilderness, and the moon. She's Apollo's twin sister.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is Hera?",
+      "options": [
+        { "id": "a", "text": "Zeus's mother", "isCorrect": false },
+        { "id": "b", "text": "Zeus's wife and queen of the gods", "isCorrect": true },
+        { "id": "c", "text": "Zeus's daughter", "isCorrect": false },
+        { "id": "d", "text": "A Titan", "isCorrect": false }
+      ],
+      "explanation": "Hera is Zeus's wife and queen of the gods, goddess of marriage and family.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Apollo is the god of the sun, music, and poetry.",
+      "correctAnswer": true,
+      "explanation": "Apollo is one of the most important gods, associated with the sun, music, poetry, art, and prophecy.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is the god of wine and celebration?",
+      "options": [
+        { "id": "a", "text": "Ares", "isCorrect": false },
+        { "id": "b", "text": "Hephaestus", "isCorrect": false },
+        { "id": "c", "text": "Dionysus", "isCorrect": true },
+        { "id": "d", "text": "Hermes", "isCorrect": false }
+      ],
+      "explanation": "Dionysus is the god of wine, fertility, theater, and religious ecstasy.",
+      "points": 10
+    }
+  ]
+}

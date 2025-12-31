@@ -1,0 +1,104 @@
+{
+  "id": "gilmore-girls-characters",
+  "title": "Gilmore Girls Characters",
+  "description": "How well do you know the residents of Stars Hollow?",
+  "icon": "people",
+  "category": "gilmore-girls",
+  "coverColor": "#7E57C2",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who runs the local inn before Lorelai opens the Dragonfly?",
+      "options": [
+        { "id": "a", "text": "Emily Gilmore", "isCorrect": false },
+        { "id": "b", "text": "Mia", "isCorrect": true },
+        { "id": "c", "text": "Sookie", "isCorrect": false },
+        { "id": "d", "text": "Michel", "isCorrect": false }
+      ],
+      "explanation": "Mia owns the Independence Inn where Lorelai worked her way up from maid to manager.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Sookie's profession?",
+      "options": [
+        { "id": "a", "text": "Teacher", "isCorrect": false },
+        { "id": "b", "text": "Chef", "isCorrect": true },
+        { "id": "c", "text": "Nurse", "isCorrect": false },
+        { "id": "d", "text": "Florist", "isCorrect": false }
+      ],
+      "explanation": "Sookie St. James is a talented but accident-prone chef and Lorelai's best friend.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Kirk has held numerous different jobs throughout the series.",
+      "correctAnswer": true,
+      "explanation": "Kirk Gleason is famous for having held dozens of bizarre jobs in Stars Hollow throughout the series!",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Luke's nephew?",
+      "options": [
+        { "id": "a", "text": "Jess", "isCorrect": true },
+        { "id": "b", "text": "Dean", "isCorrect": false },
+        { "id": "c", "text": "Logan", "isCorrect": false },
+        { "id": "d", "text": "Tristan", "isCorrect": false }
+      ],
+      "explanation": "Jess Mariano is Luke's rebellious nephew who comes to live with him in Stars Hollow.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is Paris Geller?",
+      "options": [
+        { "id": "a", "text": "Rory's cousin", "isCorrect": false },
+        { "id": "b", "text": "Rory's rival turned friend at Chilton", "isCorrect": true },
+        { "id": "c", "text": "Lorelai's coworker", "isCorrect": false },
+        { "id": "d", "text": "Emily's assistant", "isCorrect": false }
+      ],
+      "explanation": "Paris starts as Rory's intense academic rival at Chilton but becomes one of her closest friends.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Michel's nationality?",
+      "options": [
+        { "id": "a", "text": "Italian", "isCorrect": false },
+        { "id": "b", "text": "French", "isCorrect": true },
+        { "id": "c", "text": "Spanish", "isCorrect": false },
+        { "id": "d", "text": "British", "isCorrect": false }
+      ],
+      "explanation": "Michel Gerard is the snooty French concierge at the Independence Inn and later the Dragonfly.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Lane Kim's mother owns a furniture store.",
+      "correctAnswer": false,
+      "explanation": "Mrs. Kim owns an antique store, not a furniture store, and is very strict with Lane.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who is the town selectman obsessed with town events?",
+      "options": [
+        { "id": "a", "text": "Kirk", "isCorrect": false },
+        { "id": "b", "text": "Taylor Doose", "isCorrect": true },
+        { "id": "c", "text": "Andrew", "isCorrect": false },
+        { "id": "d", "text": "Bootsy", "isCorrect": false }
+      ],
+      "explanation": "Taylor Doose is the uptight town selectman who runs the market and organizes all town events.",
+      "points": 10
+    }
+  ]
+}

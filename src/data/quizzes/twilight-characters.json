@@ -1,0 +1,104 @@
+{
+  "id": "twilight-characters",
+  "title": "Twilight Characters",
+  "description": "How well do you know the characters?",
+  "icon": "people",
+  "category": "twilight",
+  "coverColor": "#455A64",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the leader of the Cullen family?",
+      "options": [
+        { "id": "a", "text": "Edward", "isCorrect": false },
+        { "id": "b", "text": "Carlisle", "isCorrect": true },
+        { "id": "c", "text": "Jasper", "isCorrect": false },
+        { "id": "d", "text": "Emmett", "isCorrect": false }
+      ],
+      "explanation": "Carlisle Cullen is the patriarch who created most of the Cullen family and works as a doctor.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Edward's special vampire ability?",
+      "options": [
+        { "id": "a", "text": "Super strength", "isCorrect": false },
+        { "id": "b", "text": "Mind reading", "isCorrect": true },
+        { "id": "c", "text": "Seeing the future", "isCorrect": false },
+        { "id": "d", "text": "Controlling emotions", "isCorrect": false }
+      ],
+      "explanation": "Edward can read minds, though notably he cannot read Bella's thoughts.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Alice can see the future.",
+      "correctAnswer": true,
+      "explanation": "Alice Cullen has the ability to see visions of the future, though they can change based on decisions.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is Jasper's special ability?",
+      "options": [
+        { "id": "a", "text": "Super speed", "isCorrect": false },
+        { "id": "b", "text": "Controlling emotions", "isCorrect": true },
+        { "id": "c", "text": "Tracking", "isCorrect": false },
+        { "id": "d", "text": "Shield", "isCorrect": false }
+      ],
+      "explanation": "Jasper can sense and manipulate the emotions of those around him.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is Esme Cullen?",
+      "options": [
+        { "id": "a", "text": "Edward's sister", "isCorrect": false },
+        { "id": "b", "text": "Carlisle's wife and the family's mother figure", "isCorrect": true },
+        { "id": "c", "text": "A human friend", "isCorrect": false },
+        { "id": "d", "text": "A Volturi member", "isCorrect": false }
+      ],
+      "explanation": "Esme is Carlisle's wife and serves as the loving mother figure to all the Cullen 'children.'",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who is known for being the strongest Cullen?",
+      "options": [
+        { "id": "a", "text": "Edward", "isCorrect": false },
+        { "id": "b", "text": "Jasper", "isCorrect": false },
+        { "id": "c", "text": "Emmett", "isCorrect": true },
+        { "id": "d", "text": "Carlisle", "isCorrect": false }
+      ],
+      "explanation": "Emmett is the physically strongest of the Cullens, known for his love of physical challenges.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Rosalie initially welcomes Bella into the family.",
+      "correctAnswer": false,
+      "explanation": "Rosalie is cold and unwelcoming to Bella at first, envious of her humanity and choices.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is Jacob Black's relationship to Bella at the start?",
+      "options": [
+        { "id": "a", "text": "Stranger", "isCorrect": false },
+        { "id": "b", "text": "Family friend since childhood", "isCorrect": true },
+        { "id": "c", "text": "Classmate", "isCorrect": false },
+        { "id": "d", "text": "Cousin", "isCorrect": false }
+      ],
+      "explanation": "Jacob and Bella knew each other as children because their fathers, Billy and Charlie, are old friends.",
+      "points": 10
+    }
+  ]
+}

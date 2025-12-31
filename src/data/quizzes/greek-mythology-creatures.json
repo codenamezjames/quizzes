@@ -1,0 +1,104 @@
+{
+  "id": "greek-mythology-creatures",
+  "title": "Mythical Creatures",
+  "description": "Test your knowledge of Greek monsters and beasts!",
+  "icon": "pest_control",
+  "category": "greek-mythology",
+  "coverColor": "#4CAF50",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Cerberus?",
+      "options": [
+        { "id": "a", "text": "A one-eyed giant", "isCorrect": false },
+        { "id": "b", "text": "A three-headed dog", "isCorrect": true },
+        { "id": "c", "text": "A sea monster", "isCorrect": false },
+        { "id": "d", "text": "A winged horse", "isCorrect": false }
+      ],
+      "explanation": "Cerberus is the three-headed dog that guards the entrance to the underworld.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What happens when you look at Medusa?",
+      "options": [
+        { "id": "a", "text": "You fall asleep", "isCorrect": false },
+        { "id": "b", "text": "You turn to stone", "isCorrect": true },
+        { "id": "c", "text": "You go blind", "isCorrect": false },
+        { "id": "d", "text": "Nothing", "isCorrect": false }
+      ],
+      "explanation": "Medusa was a Gorgon whose gaze turned anyone who looked at her into stone.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The Minotaur had the head of a bull and body of a man.",
+      "correctAnswer": true,
+      "explanation": "The Minotaur was a creature with a bull's head on a human body, trapped in the Labyrinth of Crete.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is a Cyclops?",
+      "options": [
+        { "id": "a", "text": "A winged creature", "isCorrect": false },
+        { "id": "b", "text": "A one-eyed giant", "isCorrect": true },
+        { "id": "c", "text": "A half-man, half-horse", "isCorrect": false },
+        { "id": "d", "text": "A sea serpent", "isCorrect": false }
+      ],
+      "explanation": "Cyclopes are giant beings with a single eye in the middle of their forehead.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is Pegasus?",
+      "options": [
+        { "id": "a", "text": "A fire-breathing dragon", "isCorrect": false },
+        { "id": "b", "text": "A winged horse", "isCorrect": true },
+        { "id": "c", "text": "A giant eagle", "isCorrect": false },
+        { "id": "d", "text": "A unicorn", "isCorrect": false }
+      ],
+      "explanation": "Pegasus is a divine winged horse that sprang from Medusa's blood when Perseus killed her.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What creature has the head of a woman and body of a lion with wings?",
+      "options": [
+        { "id": "a", "text": "Harpy", "isCorrect": false },
+        { "id": "b", "text": "Sphinx", "isCorrect": true },
+        { "id": "c", "text": "Chimera", "isCorrect": false },
+        { "id": "d", "text": "Siren", "isCorrect": false }
+      ],
+      "explanation": "The Sphinx asked riddles and devoured those who couldn't answer. Oedipus solved her riddle.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Centaurs are half-human and half-horse.",
+      "correctAnswer": true,
+      "explanation": "Centaurs have the upper body of a human and the lower body of a horse.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What do Sirens use to lure sailors to their doom?",
+      "options": [
+        { "id": "a", "text": "Their beauty", "isCorrect": false },
+        { "id": "b", "text": "Their enchanting songs", "isCorrect": true },
+        { "id": "c", "text": "Gold and treasure", "isCorrect": false },
+        { "id": "d", "text": "Magic spells", "isCorrect": false }
+      ],
+      "explanation": "Sirens sang irresistible songs that lured sailors to crash their ships on the rocks.",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "gilmore-girls-relationships",
+  "title": "Gilmore Girls Relationships",
+  "description": "Test your knowledge of the romances and friendships!",
+  "icon": "favorite",
+  "category": "gilmore-girls",
+  "coverColor": "#EC407A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is Rory's first boyfriend in the series?",
+      "options": [
+        { "id": "a", "text": "Jess", "isCorrect": false },
+        { "id": "b", "text": "Dean", "isCorrect": true },
+        { "id": "c", "text": "Logan", "isCorrect": false },
+        { "id": "d", "text": "Tristan", "isCorrect": false }
+      ],
+      "explanation": "Dean Forester is Rory's first boyfriend, a tall new kid in town who falls for her at school.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Luke and Lorelai eventually get together.",
+      "correctAnswer": true,
+      "explanation": "After years of will-they-won't-they tension, Luke and Lorelai finally become a couple.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Who does Sookie marry?",
+      "options": [
+        { "id": "a", "text": "Kirk", "isCorrect": false },
+        { "id": "b", "text": "Jackson Belleville", "isCorrect": true },
+        { "id": "c", "text": "Michel", "isCorrect": false },
+        { "id": "d", "text": "Andrew", "isCorrect": false }
+      ],
+      "explanation": "Sookie marries Jackson Belleville, the local produce supplier who grows vegetables for the inn.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is the wealthy Yale student Rory dates?",
+      "options": [
+        { "id": "a", "text": "Dean", "isCorrect": false },
+        { "id": "b", "text": "Jess", "isCorrect": false },
+        { "id": "c", "text": "Logan Huntzberger", "isCorrect": true },
+        { "id": "d", "text": "Marty", "isCorrect": false }
+      ],
+      "explanation": "Logan Huntzberger is a wealthy, charming Yale student and member of the Life and Death Brigade.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is Rory's father?",
+      "options": [
+        { "id": "a", "text": "Luke Danes", "isCorrect": false },
+        { "id": "b", "text": "Christopher Hayden", "isCorrect": true },
+        { "id": "c", "text": "Richard Gilmore", "isCorrect": false },
+        { "id": "d", "text": "Max Medina", "isCorrect": false }
+      ],
+      "explanation": "Christopher Hayden is Rory's father, Lorelai's high school boyfriend who was absent for much of Rory's life.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Lane Kim marries Zack Van Gerbig.",
+      "correctAnswer": true,
+      "explanation": "Lane marries Zack, her bandmate from Hep Alien, and they have twin boys.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which teacher did Lorelai briefly get engaged to?",
+      "options": [
+        { "id": "a", "text": "Mr. Medina", "isCorrect": true },
+        { "id": "b", "text": "Mr. Charleston", "isCorrect": false },
+        { "id": "c", "text": "Mr. Hunter", "isCorrect": false },
+        { "id": "d", "text": "Mr. Kim", "isCorrect": false }
+      ],
+      "explanation": "Max Medina, Rory's English teacher at Chilton, proposes to Lorelai but they don't go through with the wedding.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is Lorelai's relationship with her mother Emily like?",
+      "options": [
+        { "id": "a", "text": "Very close and loving", "isCorrect": false },
+        { "id": "b", "text": "Complicated and often tense", "isCorrect": true },
+        { "id": "c", "text": "They don't speak at all", "isCorrect": false },
+        { "id": "d", "text": "Emily isn't in her life", "isCorrect": false }
+      ],
+      "explanation": "Lorelai and Emily have a complicated relationship due to Lorelai leaving home at 16 and their very different values.",
+      "points": 10
+    }
+  ]
+}

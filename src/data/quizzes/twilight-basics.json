@@ -1,0 +1,104 @@
+{
+  "id": "twilight-basics",
+  "title": "Twilight Basics",
+  "description": "Test your knowledge of the Twilight saga!",
+  "icon": "nightlight",
+  "category": "twilight",
+  "coverColor": "#37474F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What town does Bella move to at the start of Twilight?",
+      "options": [
+        { "id": "a", "text": "Seattle", "isCorrect": false },
+        { "id": "b", "text": "Forks", "isCorrect": true },
+        { "id": "c", "text": "Portland", "isCorrect": false },
+        { "id": "d", "text": "La Push", "isCorrect": false }
+      ],
+      "explanation": "Bella Swan moves to the rainy town of Forks, Washington to live with her father Charlie.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is the author of the Twilight series?",
+      "options": [
+        { "id": "a", "text": "J.K. Rowling", "isCorrect": false },
+        { "id": "b", "text": "Stephenie Meyer", "isCorrect": true },
+        { "id": "c", "text": "Suzanne Collins", "isCorrect": false },
+        { "id": "d", "text": "Cassandra Clare", "isCorrect": false }
+      ],
+      "explanation": "Stephenie Meyer wrote the Twilight series, which became a global phenomenon.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "There are four books in the main Twilight series.",
+      "correctAnswer": true,
+      "explanation": "The main series consists of Twilight, New Moon, Eclipse, and Breaking Dawn.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Bella's father?",
+      "options": [
+        { "id": "a", "text": "Billy", "isCorrect": false },
+        { "id": "b", "text": "Charlie", "isCorrect": true },
+        { "id": "c", "text": "Phil", "isCorrect": false },
+        { "id": "d", "text": "Carlisle", "isCorrect": false }
+      ],
+      "explanation": "Charlie Swan is Bella's father and the police chief of Forks.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What makes the Cullen vampires different from others?",
+      "options": [
+        { "id": "a", "text": "They can fly", "isCorrect": false },
+        { "id": "b", "text": "They only drink animal blood", "isCorrect": true },
+        { "id": "c", "text": "They can walk in sunlight normally", "isCorrect": false },
+        { "id": "d", "text": "They don't have fangs", "isCorrect": false }
+      ],
+      "explanation": "The Cullens are 'vegetarian' vampires who choose to drink only animal blood instead of human blood.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Twilight vampires burn in the sunlight.",
+      "correctAnswer": false,
+      "explanation": "In Twilight, vampires don't burn in sunlight - instead, their skin sparkles like diamonds.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What class do Bella and Edward first share?",
+      "options": [
+        { "id": "a", "text": "English", "isCorrect": false },
+        { "id": "b", "text": "Biology", "isCorrect": true },
+        { "id": "c", "text": "History", "isCorrect": false },
+        { "id": "d", "text": "Gym", "isCorrect": false }
+      ],
+      "explanation": "Bella and Edward first meet as lab partners in Biology class at Forks High School.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is the name of the Native American reservation near Forks?",
+      "options": [
+        { "id": "a", "text": "La Push", "isCorrect": true },
+        { "id": "b", "text": "Quilayute", "isCorrect": false },
+        { "id": "c", "text": "First Beach", "isCorrect": false },
+        { "id": "d", "text": "Wolf Creek", "isCorrect": false }
+      ],
+      "explanation": "La Push is the Quileute reservation where Jacob Black and his family live.",
+      "points": 10
+    }
+  ]
+}

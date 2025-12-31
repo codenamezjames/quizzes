@@ -1,0 +1,104 @@
+{
+  "id": "twilight-wolves",
+  "title": "The Wolf Pack",
+  "description": "Test your knowledge of the Quileute wolves!",
+  "icon": "pets",
+  "category": "twilight",
+  "coverColor": "#795548",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What tribe do the shapeshifters belong to?",
+      "options": [
+        { "id": "a", "text": "Makah", "isCorrect": false },
+        { "id": "b", "text": "Quileute", "isCorrect": true },
+        { "id": "c", "text": "Chinook", "isCorrect": false },
+        { "id": "d", "text": "Yakama", "isCorrect": false }
+      ],
+      "explanation": "The Quileute tribe has a genetic ability to transform into giant wolves to protect their people from vampires.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who is the Alpha of Sam's pack?",
+      "options": [
+        { "id": "a", "text": "Jacob", "isCorrect": false },
+        { "id": "b", "text": "Sam Uley", "isCorrect": true },
+        { "id": "c", "text": "Paul", "isCorrect": false },
+        { "id": "d", "text": "Embry", "isCorrect": false }
+      ],
+      "explanation": "Sam Uley was the first of his generation to phase and became the Alpha of the pack.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Jacob eventually becomes an Alpha.",
+      "correctAnswer": true,
+      "explanation": "Jacob has Alpha bloodline and eventually forms his own pack to protect Bella and the Cullens.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is 'imprinting'?",
+      "options": [
+        { "id": "a", "text": "When a wolf marks territory", "isCorrect": false },
+        { "id": "b", "text": "An unbreakable bond a wolf forms with their soulmate", "isCorrect": true },
+        { "id": "c", "text": "The first transformation", "isCorrect": false },
+        { "id": "d", "text": "A wolf's hunting instinct", "isCorrect": false }
+      ],
+      "explanation": "Imprinting is when a shapeshifter finds their soulmate and forms an unbreakable bond with them.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who does Sam imprint on?",
+      "options": [
+        { "id": "a", "text": "Leah", "isCorrect": false },
+        { "id": "b", "text": "Emily", "isCorrect": true },
+        { "id": "c", "text": "Rachel", "isCorrect": false },
+        { "id": "d", "text": "Kim", "isCorrect": false }
+      ],
+      "explanation": "Sam imprints on Emily Young, which was heartbreaking because he was dating her cousin Leah at the time.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Leah Clearwater is the first female wolf in Quileute history.",
+      "correctAnswer": true,
+      "explanation": "Leah is the only known female shapeshifter in the tribe's history.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What triggers the wolf transformation in young Quileutes?",
+      "options": [
+        { "id": "a", "text": "A full moon", "isCorrect": false },
+        { "id": "b", "text": "The presence of vampires nearby", "isCorrect": true },
+        { "id": "c", "text": "Turning 16", "isCorrect": false },
+        { "id": "d", "text": "A special ritual", "isCorrect": false }
+      ],
+      "explanation": "The gene is triggered by the proximity of vampires, which is why more wolves phased when the Cullens returned.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who does Jacob imprint on?",
+      "options": [
+        { "id": "a", "text": "Bella", "isCorrect": false },
+        { "id": "b", "text": "Leah", "isCorrect": false },
+        { "id": "c", "text": "Renesmee", "isCorrect": true },
+        { "id": "d", "text": "No one", "isCorrect": false }
+      ],
+      "explanation": "Jacob imprints on Renesmee, Bella and Edward's daughter, the moment he sees her.",
+      "points": 10
+    }
+  ]
+}

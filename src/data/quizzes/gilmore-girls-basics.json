@@ -1,0 +1,104 @@
+{
+  "id": "gilmore-girls-basics",
+  "title": "Gilmore Girls Basics",
+  "description": "Test your knowledge of Stars Hollow!",
+  "icon": "coffee",
+  "category": "gilmore-girls",
+  "coverColor": "#5C6BC0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the town where the Gilmore girls live?",
+      "options": [
+        { "id": "a", "text": "Stars Hollow", "isCorrect": true },
+        { "id": "b", "text": "Hartford", "isCorrect": false },
+        { "id": "c", "text": "New Haven", "isCorrect": false },
+        { "id": "d", "text": "Woodbury", "isCorrect": false }
+      ],
+      "explanation": "Stars Hollow is the charming fictional Connecticut town where Lorelai and Rory live.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Lorelai's favorite beverage?",
+      "options": [
+        { "id": "a", "text": "Tea", "isCorrect": false },
+        { "id": "b", "text": "Coffee", "isCorrect": true },
+        { "id": "c", "text": "Hot chocolate", "isCorrect": false },
+        { "id": "d", "text": "Soda", "isCorrect": false }
+      ],
+      "explanation": "Lorelai is famously obsessed with coffee and can't function without it!",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Rory is Lorelai's daughter.",
+      "correctAnswer": true,
+      "explanation": "Rory (Lorelai Leigh Gilmore) is Lorelai's daughter, whom she had at age 16.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the local diner in Stars Hollow?",
+      "options": [
+        { "id": "a", "text": "Al's Pancake World", "isCorrect": false },
+        { "id": "b", "text": "Luke's Diner", "isCorrect": true },
+        { "id": "c", "text": "Weston's Bakery", "isCorrect": false },
+        { "id": "d", "text": "The Dragonfly", "isCorrect": false }
+      ],
+      "explanation": "Luke's Diner is the beloved local hangout run by Luke Danes, where Lorelai gets her coffee.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What elite prep school does Rory attend?",
+      "options": [
+        { "id": "a", "text": "Stars Hollow High", "isCorrect": false },
+        { "id": "b", "text": "Chilton Preparatory", "isCorrect": true },
+        { "id": "c", "text": "Hartford Academy", "isCorrect": false },
+        { "id": "d", "text": "St. Mary's", "isCorrect": false }
+      ],
+      "explanation": "Rory attends Chilton Preparatory School, funded by her grandparents Emily and Richard.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The show originally ran for 7 seasons.",
+      "correctAnswer": true,
+      "explanation": "Gilmore Girls ran for 7 seasons from 2000-2007, plus the 2016 Netflix revival 'A Year in the Life.'",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What Ivy League school does Rory dream of attending?",
+      "options": [
+        { "id": "a", "text": "Princeton", "isCorrect": false },
+        { "id": "b", "text": "Harvard", "isCorrect": true },
+        { "id": "c", "text": "Yale", "isCorrect": false },
+        { "id": "d", "text": "Columbia", "isCorrect": false }
+      ],
+      "explanation": "Rory dreams of attending Harvard throughout her childhood, though she ultimately attends Yale.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is the name of Lorelai's parents?",
+      "options": [
+        { "id": "a", "text": "Richard and Emily", "isCorrect": true },
+        { "id": "b", "text": "Edward and Eleanor", "isCorrect": false },
+        { "id": "c", "text": "Robert and Elizabeth", "isCorrect": false },
+        { "id": "d", "text": "Charles and Catherine", "isCorrect": false }
+      ],
+      "explanation": "Richard and Emily Gilmore are Lorelai's wealthy, traditional parents who live in Hartford.",
+      "points": 10
+    }
+  ]
+}

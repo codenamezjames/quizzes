@@ -1,0 +1,104 @@
+{
+  "id": "gilmore-girls-culture",
+  "title": "Pop Culture & Quotes",
+  "description": "Test your knowledge of the show's iconic references!",
+  "icon": "movie",
+  "category": "gilmore-girls",
+  "coverColor": "#AB47BC",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What band does Lane Kim dream of being in?",
+      "options": [
+        { "id": "a", "text": "A jazz band", "isCorrect": false },
+        { "id": "b", "text": "A rock band", "isCorrect": true },
+        { "id": "c", "text": "A classical orchestra", "isCorrect": false },
+        { "id": "d", "text": "A country band", "isCorrect": false }
+      ],
+      "explanation": "Lane secretly loves rock music and eventually joins the band Hep Alien as their drummer.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "The show is known for its fast-paced, witty dialogue.",
+      "correctAnswer": true,
+      "explanation": "Gilmore Girls is famous for its rapid-fire dialogue filled with pop culture references and witty banter.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "What career does Rory pursue?",
+      "options": [
+        { "id": "a", "text": "Law", "isCorrect": false },
+        { "id": "b", "text": "Journalism", "isCorrect": true },
+        { "id": "c", "text": "Medicine", "isCorrect": false },
+        { "id": "d", "text": "Teaching", "isCorrect": false }
+      ],
+      "explanation": "Rory dreams of being a journalist, working on school papers and eventually pursuing it professionally.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Lane's band?",
+      "options": [
+        { "id": "a", "text": "The Hollow", "isCorrect": false },
+        { "id": "b", "text": "Hep Alien", "isCorrect": true },
+        { "id": "c", "text": "Stars Rock", "isCorrect": false },
+        { "id": "d", "text": "Lane's Band", "isCorrect": false }
+      ],
+      "explanation": "Hep Alien is Lane's band with Zack, Brian, and Gil.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What movie do Lorelai and Rory watch together frequently?",
+      "options": [
+        { "id": "a", "text": "The Godfather", "isCorrect": false },
+        { "id": "b", "text": "Willy Wonka & the Chocolate Factory", "isCorrect": true },
+        { "id": "c", "text": "Star Wars", "isCorrect": false },
+        { "id": "d", "text": "Titanic", "isCorrect": false }
+      ],
+      "explanation": "The Gilmore girls love movie nights, with Willy Wonka being one of their favorites along with many others.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Rory is an avid reader who loves books.",
+      "correctAnswer": true,
+      "explanation": "Rory is famous for always having her nose in a book and her extensive reading habits.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What secret society does Logan belong to at Yale?",
+      "options": [
+        { "id": "a", "text": "Skull and Bones", "isCorrect": false },
+        { "id": "b", "text": "The Life and Death Brigade", "isCorrect": true },
+        { "id": "c", "text": "The Secret Seven", "isCorrect": false },
+        { "id": "d", "text": "The Yale Elite", "isCorrect": false }
+      ],
+      "explanation": "The Life and Death Brigade is a secret society of wealthy Yale students known for elaborate stunts.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What junk food do Lorelai and Rory frequently eat?",
+      "options": [
+        { "id": "a", "text": "Salads", "isCorrect": false },
+        { "id": "b", "text": "Pizza and Chinese takeout", "isCorrect": true },
+        { "id": "c", "text": "Homemade meals", "isCorrect": false },
+        { "id": "d", "text": "Sushi", "isCorrect": false }
+      ],
+      "explanation": "The Gilmores are famous for their terrible eating habits, surviving on takeout, pizza, and junk food.",
+      "points": 10
+    }
+  ]
+}
