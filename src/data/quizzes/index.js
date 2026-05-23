@@ -183,6 +183,12 @@ export const categoryMeta = {
     icon: 'sports_tennis',
     color: '#7CB342',
   },
+  volleyball: {
+    title: 'Volleyball',
+    description: 'Spikes, sets, and serves!',
+    icon: 'sports_volleyball',
+    color: '#FBC02D',
+  },
 }
 
 export const quizManifest = [
@@ -1090,6 +1096,17 @@ export const quizManifest = [
     category: 'tennis',
     coverColor: '#7CB342',
     loader: () => import('./tennis.json'),
+  },
+
+  // Volleyball quizzes
+  {
+    id: 'volleyball',
+    title: 'Volleyball',
+    description: 'Test your knowledge of spikes, sets, and serves!',
+    icon: 'sports_volleyball',
+    category: 'volleyball',
+    coverColor: '#FBC02D',
+    loader: () => import('./volleyball.json'),
   },
 ]
 

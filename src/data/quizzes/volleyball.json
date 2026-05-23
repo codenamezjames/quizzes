@@ -1,0 +1,125 @@
+{
+  "id": "volleyball",
+  "title": "Volleyball",
+  "description": "Test your knowledge of spikes, sets, and serves!",
+  "icon": "sports_volleyball",
+  "category": "Sports",
+  "coverColor": "#FBC02D",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many players from one team are on the court during indoor volleyball?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "Indoor volleyball teams field 6 players: 3 in the front row and 3 in the back row.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How many points are typically needed to win a set in indoor volleyball?",
+      "options": [
+        { "id": "a", "text": "15", "isCorrect": false },
+        { "id": "b", "text": "21", "isCorrect": false },
+        { "id": "c", "text": "25", "isCorrect": true },
+        { "id": "d", "text": "30", "isCorrect": false }
+      ],
+      "explanation": "Sets are played to 25 points, win by 2 (except the deciding 5th set, played to 15).",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "A team is allowed three contacts before sending the ball over the net.",
+      "correctAnswer": true,
+      "explanation": "Typically: a bump (pass), set, then spike. A block does not count as one of the three.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the defensive specialist position called who wears a different colored jersey?",
+      "options": [
+        { "id": "a", "text": "Libero", "isCorrect": true },
+        { "id": "b", "text": "Setter", "isCorrect": false },
+        { "id": "c", "text": "Outside hitter", "isCorrect": false },
+        { "id": "d", "text": "Middle blocker", "isCorrect": false }
+      ],
+      "explanation": "The libero is a back-row defensive specialist who wears a contrasting jersey.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which country has won the most Olympic gold medals in men's indoor volleyball?",
+      "options": [
+        { "id": "a", "text": "Brazil", "isCorrect": false },
+        { "id": "b", "text": "USA", "isCorrect": false },
+        { "id": "c", "text": "Soviet Union/Russia", "isCorrect": true },
+        { "id": "d", "text": "Italy", "isCorrect": false }
+      ],
+      "explanation": "The Soviet Union/Russia leads men's Olympic volleyball with the most golds historically.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Beach volleyball is played with two players per team.",
+      "correctAnswer": true,
+      "explanation": "Standard beach volleyball is 2v2, with no substitutions during a match.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is a 'kill' in volleyball?",
+      "options": [
+        { "id": "a", "text": "A serve that no one returns", "isCorrect": false },
+        { "id": "b", "text": "An attack that directly results in a point", "isCorrect": true },
+        { "id": "c", "text": "A blocked spike", "isCorrect": false },
+        { "id": "d", "text": "An ace serve", "isCorrect": false }
+      ],
+      "explanation": "A kill is an attack hit that the opponent cannot return, resulting in a point or side-out.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "How high is the net for men's indoor volleyball?",
+      "options": [
+        { "id": "a", "text": "2.24 m (7' 4 1/8\")", "isCorrect": false },
+        { "id": "b", "text": "2.43 m (7' 11 5/8\")", "isCorrect": true },
+        { "id": "c", "text": "2.55 m (8' 4\")", "isCorrect": false },
+        { "id": "d", "text": "2.10 m (6' 10 3/4\")", "isCorrect": false }
+      ],
+      "explanation": "The men's net is set at 2.43 meters; the women's net is 2.24 meters.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is it called when a serve lands in the opponent's court untouched?",
+      "options": [
+        { "id": "a", "text": "Spike", "isCorrect": false },
+        { "id": "b", "text": "Ace", "isCorrect": true },
+        { "id": "c", "text": "Dig", "isCorrect": false },
+        { "id": "d", "text": "Roof", "isCorrect": false }
+      ],
+      "explanation": "An ace is a serve that scores directly without the opposing team returning it.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Players must rotate clockwise after winning a side-out.",
+      "correctAnswer": false,
+      "explanation": "Rotation is clockwise, but it occurs after the receiving team wins the rally to serve.",
+      "points": 10
+    }
+  ]
+}
