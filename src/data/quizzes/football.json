@@ -1,0 +1,125 @@
+{
+  "id": "football",
+  "title": "American Football",
+  "description": "Test your knowledge of the NFL and gridiron!",
+  "icon": "sports_football",
+  "category": "Sports",
+  "coverColor": "#3E2723",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many points is a touchdown worth?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "8", "isCorrect": false }
+      ],
+      "explanation": "A touchdown is worth 6 points, with the option of a 1-point PAT or 2-point conversion.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which team has won the most Super Bowls?",
+      "options": [
+        { "id": "a", "text": "Dallas Cowboys", "isCorrect": false },
+        { "id": "b", "text": "Pittsburgh Steelers", "isCorrect": false },
+        { "id": "c", "text": "New England Patriots", "isCorrect": false },
+        { "id": "d", "text": "Tied: Steelers and Patriots", "isCorrect": true }
+      ],
+      "explanation": "Both the Pittsburgh Steelers and New England Patriots have 6 Super Bowl wins each.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Tom Brady has won 7 Super Bowl titles as a quarterback.",
+      "correctAnswer": true,
+      "explanation": "Brady won 6 with the Patriots and 1 with the Buccaneers, the most by any player.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "How many players from one team are on the field at one time?",
+      "options": [
+        { "id": "a", "text": "10", "isCorrect": false },
+        { "id": "b", "text": "11", "isCorrect": true },
+        { "id": "c", "text": "12", "isCorrect": false },
+        { "id": "d", "text": "9", "isCorrect": false }
+      ],
+      "explanation": "Each NFL team fields 11 players at a time, on both offense and defense.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is a 'safety' worth in football?",
+      "options": [
+        { "id": "a", "text": "1 point", "isCorrect": false },
+        { "id": "b", "text": "2 points", "isCorrect": true },
+        { "id": "c", "text": "3 points", "isCorrect": false },
+        { "id": "d", "text": "6 points", "isCorrect": false }
+      ],
+      "explanation": "A safety is worth 2 points and occurs when the offense is tackled in their own end zone.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The NFL season originally started in 1920 as the APFA.",
+      "correctAnswer": true,
+      "explanation": "The American Professional Football Association (APFA) was founded in 1920 and renamed the NFL in 1922.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many yards must an offense gain for a first down?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "10", "isCorrect": true },
+        { "id": "c", "text": "15", "isCorrect": false },
+        { "id": "d", "text": "20", "isCorrect": false }
+      ],
+      "explanation": "Offenses get four downs to gain 10 yards and earn a new set of downs.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which NFL position is responsible for snapping the ball to the quarterback?",
+      "options": [
+        { "id": "a", "text": "Tight End", "isCorrect": false },
+        { "id": "b", "text": "Center", "isCorrect": true },
+        { "id": "c", "text": "Guard", "isCorrect": false },
+        { "id": "d", "text": "Tackle", "isCorrect": false }
+      ],
+      "explanation": "The center snaps the ball to begin each offensive play.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Who holds the NFL record for career passing yards?",
+      "options": [
+        { "id": "a", "text": "Peyton Manning", "isCorrect": false },
+        { "id": "b", "text": "Drew Brees", "isCorrect": false },
+        { "id": "c", "text": "Tom Brady", "isCorrect": true },
+        { "id": "d", "text": "Brett Favre", "isCorrect": false }
+      ],
+      "explanation": "Tom Brady retired as the all-time leader in passing yards with over 89,000.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "An NFL field is 100 yards long between the end zones.",
+      "correctAnswer": true,
+      "explanation": "The playing field is 100 yards from goal line to goal line, plus 10-yard end zones on each end.",
+      "points": 10
+    }
+  ]
+}

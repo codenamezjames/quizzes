@@ -1,0 +1,125 @@
+{
+  "id": "basketball",
+  "title": "Basketball",
+  "description": "Test your knowledge of hoops, dunks, and the NBA!",
+  "icon": "sports_basketball",
+  "category": "Sports",
+  "coverColor": "#E65100",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is the all-time leading scorer in NBA history?",
+      "options": [
+        { "id": "a", "text": "Kareem Abdul-Jabbar", "isCorrect": false },
+        { "id": "b", "text": "LeBron James", "isCorrect": true },
+        { "id": "c", "text": "Michael Jordan", "isCorrect": false },
+        { "id": "d", "text": "Karl Malone", "isCorrect": false }
+      ],
+      "explanation": "LeBron James passed Kareem Abdul-Jabbar's record in February 2023.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How many championships did Michael Jordan win with the Chicago Bulls?",
+      "options": [
+        { "id": "a", "text": "5", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "4", "isCorrect": false }
+      ],
+      "explanation": "Jordan won 6 NBA Finals (1991, 1992, 1993, 1996, 1997, 1998), going undefeated.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "A three-point shot is worth three points only if taken from beyond the arc.",
+      "correctAnswer": true,
+      "explanation": "Any shot made from behind the three-point line counts as three points.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "How many players from each team are on the court during play?",
+      "options": [
+        { "id": "a", "text": "4", "isCorrect": false },
+        { "id": "b", "text": "5", "isCorrect": true },
+        { "id": "c", "text": "6", "isCorrect": false },
+        { "id": "d", "text": "7", "isCorrect": false }
+      ],
+      "explanation": "Each NBA team has 5 players on the court at any time.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which player is known as 'The Black Mamba'?",
+      "options": [
+        { "id": "a", "text": "Shaquille O'Neal", "isCorrect": false },
+        { "id": "b", "text": "Kobe Bryant", "isCorrect": true },
+        { "id": "c", "text": "Allen Iverson", "isCorrect": false },
+        { "id": "d", "text": "Kevin Garnett", "isCorrect": false }
+      ],
+      "explanation": "Kobe Bryant adopted the 'Black Mamba' nickname for his fierce mentality.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The NBA was founded in 1946 as the BAA.",
+      "correctAnswer": true,
+      "explanation": "The Basketball Association of America (BAA) was founded in 1946 and became the NBA in 1949.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which team has won the most NBA championships?",
+      "options": [
+        { "id": "a", "text": "Los Angeles Lakers", "isCorrect": false },
+        { "id": "b", "text": "Boston Celtics", "isCorrect": true },
+        { "id": "c", "text": "Chicago Bulls", "isCorrect": false },
+        { "id": "d", "text": "Golden State Warriors", "isCorrect": false }
+      ],
+      "explanation": "The Boston Celtics have 18 championships, edging out the Lakers' 17.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Who scored 100 points in a single NBA game?",
+      "options": [
+        { "id": "a", "text": "Wilt Chamberlain", "isCorrect": true },
+        { "id": "b", "text": "Kobe Bryant", "isCorrect": false },
+        { "id": "c", "text": "Michael Jordan", "isCorrect": false },
+        { "id": "d", "text": "Elgin Baylor", "isCorrect": false }
+      ],
+      "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors on March 2, 1962.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is a triple-double in basketball?",
+      "options": [
+        { "id": "a", "text": "Three consecutive three-pointers", "isCorrect": false },
+        { "id": "b", "text": "Double digits in three statistical categories", "isCorrect": true },
+        { "id": "c", "text": "Three dunks in a row", "isCorrect": false },
+        { "id": "d", "text": "Three blocks in one possession", "isCorrect": false }
+      ],
+      "explanation": "A triple-double means reaching double digits (10+) in three of: points, rebounds, assists, steals, blocks.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "The shot clock in the NBA is 24 seconds.",
+      "correctAnswer": true,
+      "explanation": "Teams must attempt a shot that hits the rim within 24 seconds of gaining possession.",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "soccer",
+  "title": "Soccer (Football)",
+  "description": "Test your knowledge of the beautiful game!",
+  "icon": "sports_soccer",
+  "category": "Sports",
+  "coverColor": "#2E7D32",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "options": [
+        { "id": "a", "text": "Cristiano Ronaldo", "isCorrect": false },
+        { "id": "b", "text": "Lionel Messi", "isCorrect": true },
+        { "id": "c", "text": "Michel Platini", "isCorrect": false },
+        { "id": "d", "text": "Johan Cruyff", "isCorrect": false }
+      ],
+      "explanation": "Lionel Messi has won 8 Ballon d'Or awards, the most in history.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How long is a standard soccer match?",
+      "options": [
+        { "id": "a", "text": "60 minutes", "isCorrect": false },
+        { "id": "b", "text": "80 minutes", "isCorrect": false },
+        { "id": "c", "text": "90 minutes", "isCorrect": true },
+        { "id": "d", "text": "120 minutes", "isCorrect": false }
+      ],
+      "explanation": "Two halves of 45 minutes each make up a 90-minute match, plus added time.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "A red card means the player is ejected from the game.",
+      "correctAnswer": true,
+      "explanation": "A red card sends the player off the field, and the team cannot substitute a replacement.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which country won the 2022 FIFA World Cup?",
+      "options": [
+        { "id": "a", "text": "France", "isCorrect": false },
+        { "id": "b", "text": "Brazil", "isCorrect": false },
+        { "id": "c", "text": "Argentina", "isCorrect": true },
+        { "id": "d", "text": "Germany", "isCorrect": false }
+      ],
+      "explanation": "Argentina defeated France on penalties in Qatar, with Messi finally lifting the trophy.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which club is known as 'Los Blancos'?",
+      "options": [
+        { "id": "a", "text": "Barcelona", "isCorrect": false },
+        { "id": "b", "text": "Real Madrid", "isCorrect": true },
+        { "id": "c", "text": "Manchester United", "isCorrect": false },
+        { "id": "d", "text": "Juventus", "isCorrect": false }
+      ],
+      "explanation": "Real Madrid is nicknamed 'Los Blancos' (The Whites) for their iconic white kits.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Pelé won three FIFA World Cups with Brazil.",
+      "correctAnswer": true,
+      "explanation": "Pelé won World Cups in 1958, 1962, and 1970, the only player to do so.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the maximum number of substitutions in a standard soccer match?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "5", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "Unlimited", "isCorrect": false }
+      ],
+      "explanation": "Since 2020, teams are allowed 5 substitutions per match in most competitions.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which competition is the most prestigious in European club football?",
+      "options": [
+        { "id": "a", "text": "Europa League", "isCorrect": false },
+        { "id": "b", "text": "UEFA Champions League", "isCorrect": true },
+        { "id": "c", "text": "Conference League", "isCorrect": false },
+        { "id": "d", "text": "Super Cup", "isCorrect": false }
+      ],
+      "explanation": "The UEFA Champions League is the top European club competition.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is the offside rule based on?",
+      "options": [
+        { "id": "a", "text": "Position relative to the ball at the moment it is played", "isCorrect": false },
+        { "id": "b", "text": "Position relative to the second-last defender when the ball is played", "isCorrect": true },
+        { "id": "c", "text": "Position in the opposition's half only", "isCorrect": false },
+        { "id": "d", "text": "Crossing the halfway line first", "isCorrect": false }
+      ],
+      "explanation": "A player is offside if nearer to the goal line than both the ball and the second-last defender.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "A goalkeeper can pick up a back-pass kicked deliberately by a teammate.",
+      "correctAnswer": false,
+      "explanation": "Since 1992, keepers cannot use hands on a deliberate back-pass; it's an indirect free kick.",
+      "points": 10
+    }
+  ]
+}

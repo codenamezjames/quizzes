@@ -1,0 +1,125 @@
+{
+  "id": "tennis",
+  "title": "Tennis",
+  "description": "Test your knowledge of aces, slams, and rallies!",
+  "icon": "sports_tennis",
+  "category": "Sports",
+  "coverColor": "#7CB342",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many Grand Slam tournaments are held each year?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "4", "isCorrect": true },
+        { "id": "c", "text": "5", "isCorrect": false },
+        { "id": "d", "text": "6", "isCorrect": false }
+      ],
+      "explanation": "The 4 Grand Slams are Australian Open, French Open, Wimbledon, and US Open.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which Grand Slam is played on clay?",
+      "options": [
+        { "id": "a", "text": "Wimbledon", "isCorrect": false },
+        { "id": "b", "text": "US Open", "isCorrect": false },
+        { "id": "c", "text": "French Open", "isCorrect": true },
+        { "id": "d", "text": "Australian Open", "isCorrect": false }
+      ],
+      "explanation": "The French Open at Roland Garros is the only Grand Slam played on red clay.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "In tennis scoring, the score after 'love' is '15'.",
+      "correctAnswer": true,
+      "explanation": "Tennis scoring goes love, 15, 30, 40, then game.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who holds the record for most men's Grand Slam singles titles?",
+      "options": [
+        { "id": "a", "text": "Roger Federer", "isCorrect": false },
+        { "id": "b", "text": "Rafael Nadal", "isCorrect": false },
+        { "id": "c", "text": "Novak Djokovic", "isCorrect": true },
+        { "id": "d", "text": "Pete Sampras", "isCorrect": false }
+      ],
+      "explanation": "Novak Djokovic holds the men's record with 24 Grand Slam singles titles.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who has won the most women's Grand Slam singles titles in the Open Era?",
+      "options": [
+        { "id": "a", "text": "Serena Williams", "isCorrect": true },
+        { "id": "b", "text": "Steffi Graf", "isCorrect": false },
+        { "id": "c", "text": "Martina Navratilova", "isCorrect": false },
+        { "id": "d", "text": "Chris Evert", "isCorrect": false }
+      ],
+      "explanation": "Serena Williams has 23 Grand Slam singles titles in the Open Era.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "A 'love game' is one where the loser scores zero points.",
+      "correctAnswer": true,
+      "explanation": "A love game is won without the opponent winning a single point.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the term when a server wins a point with an unreturnable serve?",
+      "options": [
+        { "id": "a", "text": "Volley", "isCorrect": false },
+        { "id": "b", "text": "Ace", "isCorrect": true },
+        { "id": "c", "text": "Smash", "isCorrect": false },
+        { "id": "d", "text": "Drop shot", "isCorrect": false }
+      ],
+      "explanation": "An ace is a legal serve that the opponent fails to touch.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Rafael Nadal is famous for his dominance on which surface?",
+      "options": [
+        { "id": "a", "text": "Grass", "isCorrect": false },
+        { "id": "b", "text": "Hard court", "isCorrect": false },
+        { "id": "c", "text": "Clay", "isCorrect": true },
+        { "id": "d", "text": "Carpet", "isCorrect": false }
+      ],
+      "explanation": "Nadal is called the 'King of Clay' for his record 14 French Open titles.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "How many sets does a man typically need to win a Grand Slam match?",
+      "options": [
+        { "id": "a", "text": "2", "isCorrect": false },
+        { "id": "b", "text": "3", "isCorrect": true },
+        { "id": "c", "text": "4", "isCorrect": false },
+        { "id": "d", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "Men's Grand Slam matches are best-of-5, so 3 sets are needed to win.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "A tiebreak is typically played to 7 points, win by 2.",
+      "correctAnswer": true,
+      "explanation": "Standard tiebreaks are first to 7, with a margin of 2 required.",
+      "points": 10
+    }
+  ]
+}

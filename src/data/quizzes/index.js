@@ -153,6 +153,36 @@ export const categoryMeta = {
     icon: 'sports',
     color: '#FF6F00',
   },
+  basketball: {
+    title: 'Basketball',
+    description: 'Hoops, dunks, and the NBA!',
+    icon: 'sports_basketball',
+    color: '#E65100',
+  },
+  soccer: {
+    title: 'Soccer',
+    description: 'The beautiful game!',
+    icon: 'sports_soccer',
+    color: '#2E7D32',
+  },
+  football: {
+    title: 'American Football',
+    description: 'NFL and gridiron action!',
+    icon: 'sports_football',
+    color: '#3E2723',
+  },
+  baseball: {
+    title: 'Baseball',
+    description: "America's pastime!",
+    icon: 'sports_baseball',
+    color: '#0D47A1',
+  },
+  tennis: {
+    title: 'Tennis',
+    description: 'Aces, slams, and rallies!',
+    icon: 'sports_tennis',
+    color: '#7CB342',
+  },
 }
 
 export const quizManifest = [
@@ -1005,6 +1035,61 @@ export const quizManifest = [
     category: 'sports',
     coverColor: '#FF6F00',
     loader: () => import('./sports.json'),
+  },
+
+  // Basketball quizzes
+  {
+    id: 'basketball',
+    title: 'Basketball',
+    description: 'Test your knowledge of hoops, dunks, and the NBA!',
+    icon: 'sports_basketball',
+    category: 'basketball',
+    coverColor: '#E65100',
+    loader: () => import('./basketball.json'),
+  },
+
+  // Soccer quizzes
+  {
+    id: 'soccer',
+    title: 'Soccer (Football)',
+    description: 'Test your knowledge of the beautiful game!',
+    icon: 'sports_soccer',
+    category: 'soccer',
+    coverColor: '#2E7D32',
+    loader: () => import('./soccer.json'),
+  },
+
+  // American Football quizzes
+  {
+    id: 'football',
+    title: 'American Football',
+    description: 'Test your knowledge of the NFL and gridiron!',
+    icon: 'sports_football',
+    category: 'football',
+    coverColor: '#3E2723',
+    loader: () => import('./football.json'),
+  },
+
+  // Baseball quizzes
+  {
+    id: 'baseball',
+    title: 'Baseball',
+    description: "Test your knowledge of America's pastime!",
+    icon: 'sports_baseball',
+    category: 'baseball',
+    coverColor: '#0D47A1',
+    loader: () => import('./baseball.json'),
+  },
+
+  // Tennis quizzes
+  {
+    id: 'tennis',
+    title: 'Tennis',
+    description: 'Test your knowledge of aces, slams, and rallies!',
+    icon: 'sports_tennis',
+    category: 'tennis',
+    coverColor: '#7CB342',
+    loader: () => import('./tennis.json'),
   },
 ]
 

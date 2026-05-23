@@ -1,0 +1,125 @@
+{
+  "id": "baseball",
+  "title": "Baseball",
+  "description": "Test your knowledge of America's pastime!",
+  "icon": "sports_baseball",
+  "category": "Sports",
+  "coverColor": "#0D47A1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many innings are in a standard MLB game?",
+      "options": [
+        { "id": "a", "text": "7", "isCorrect": false },
+        { "id": "b", "text": "9", "isCorrect": true },
+        { "id": "c", "text": "10", "isCorrect": false },
+        { "id": "d", "text": "11", "isCorrect": false }
+      ],
+      "explanation": "A standard MLB game is 9 innings, with extra innings if tied.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who holds the MLB record for most career home runs?",
+      "options": [
+        { "id": "a", "text": "Babe Ruth", "isCorrect": false },
+        { "id": "b", "text": "Hank Aaron", "isCorrect": false },
+        { "id": "c", "text": "Barry Bonds", "isCorrect": true },
+        { "id": "d", "text": "Albert Pujols", "isCorrect": false }
+      ],
+      "explanation": "Barry Bonds holds the record with 762 career home runs.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Three strikes make an out.",
+      "correctAnswer": true,
+      "explanation": "A batter is out after three strikes.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which team has won the most World Series titles?",
+      "options": [
+        { "id": "a", "text": "Boston Red Sox", "isCorrect": false },
+        { "id": "b", "text": "New York Yankees", "isCorrect": true },
+        { "id": "c", "text": "Los Angeles Dodgers", "isCorrect": false },
+        { "id": "d", "text": "St. Louis Cardinals", "isCorrect": false }
+      ],
+      "explanation": "The Yankees have 27 World Series championships, far more than any other team.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What is the distance between bases on an MLB field?",
+      "options": [
+        { "id": "a", "text": "60 feet", "isCorrect": false },
+        { "id": "b", "text": "90 feet", "isCorrect": true },
+        { "id": "c", "text": "100 feet", "isCorrect": false },
+        { "id": "d", "text": "120 feet", "isCorrect": false }
+      ],
+      "explanation": "The bases are 90 feet apart on a standard MLB diamond.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Jackie Robinson broke baseball's color barrier in 1947.",
+      "correctAnswer": true,
+      "explanation": "Jackie Robinson debuted for the Brooklyn Dodgers on April 15, 1947, breaking the MLB color barrier.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which position wears protective gear behind home plate?",
+      "options": [
+        { "id": "a", "text": "Pitcher", "isCorrect": false },
+        { "id": "b", "text": "Shortstop", "isCorrect": false },
+        { "id": "c", "text": "Catcher", "isCorrect": true },
+        { "id": "d", "text": "First baseman", "isCorrect": false }
+      ],
+      "explanation": "The catcher receives pitches and wears a mask, chest protector, and shin guards.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is a 'no-hitter'?",
+      "options": [
+        { "id": "a", "text": "A game with no runs scored", "isCorrect": false },
+        { "id": "b", "text": "A game in which a pitcher allows no hits", "isCorrect": true },
+        { "id": "c", "text": "A game with no walks", "isCorrect": false },
+        { "id": "d", "text": "A game where no one strikes out", "isCorrect": false }
+      ],
+      "explanation": "A no-hitter is when a pitcher (or pitchers) complete a game without giving up a single hit.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Who is known as 'The Sultan of Swat'?",
+      "options": [
+        { "id": "a", "text": "Babe Ruth", "isCorrect": true },
+        { "id": "b", "text": "Ted Williams", "isCorrect": false },
+        { "id": "c", "text": "Mickey Mantle", "isCorrect": false },
+        { "id": "d", "text": "Lou Gehrig", "isCorrect": false }
+      ],
+      "explanation": "Babe Ruth earned the nickname 'The Sultan of Swat' for his prolific home run hitting.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "A perfect game means no batter from the opposing team reaches base.",
+      "correctAnswer": true,
+      "explanation": "A perfect game retires all 27 batters in order — no hits, walks, errors, or hit batsmen.",
+      "points": 10
+    }
+  ]
+}
