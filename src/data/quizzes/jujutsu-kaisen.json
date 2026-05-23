@@ -120,6 +120,181 @@
       "correctAnswer": true,
       "explanation": "A sure-hit effect is the defining trait of a domain expansion against opponents inside it.",
       "points": 10
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "question": "What is the name of Gojo's Domain Expansion?",
+      "options": [
+        { "id": "a", "text": "Malevolent Shrine", "isCorrect": false },
+        { "id": "b", "text": "Unlimited Void", "isCorrect": true },
+        { "id": "c", "text": "Idle Death Gamble", "isCorrect": false },
+        { "id": "d", "text": "Horizon of the Captivating Skandha", "isCorrect": false }
+      ],
+      "explanation": "Unlimited Void overwhelms victims with infinite information, locking them in place.",
+      "points": 10
+    },
+    {
+      "id": "q12",
+      "type": "multiple-choice",
+      "question": "What is Sukuna's Domain Expansion called?",
+      "options": [
+        { "id": "a", "text": "Self-Embodiment of Perfection", "isCorrect": false },
+        { "id": "b", "text": "Malevolent Shrine", "isCorrect": true },
+        { "id": "c", "text": "Coffin of the Iron Mountain", "isCorrect": false },
+        { "id": "d", "text": "Time Cell Moon Palace", "isCorrect": false }
+      ],
+      "explanation": "Malevolent Shrine is unique because it doesn't require a barrier, projecting open at massive range.",
+      "points": 10
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "question": "Which technique does Yuta Okkotsu inherit from his deceased fiancée?",
+      "options": [
+        { "id": "a", "text": "Copy", "isCorrect": false },
+        { "id": "b", "text": "Rika the Queen of Curses", "isCorrect": true },
+        { "id": "c", "text": "Boogie Woogie", "isCorrect": false },
+        { "id": "d", "text": "Cursed Speech", "isCorrect": false }
+      ],
+      "explanation": "Rika Orimoto became a special grade cursed spirit bound to Yuta after her death.",
+      "points": 10
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "question": "Aoi Todo's cursed technique is called Boogie Woogie and lets him swap positions by clapping.",
+      "correctAnswer": true,
+      "explanation": "Boogie Woogie swaps the positions of objects/people with matching cursed energy when Todo claps.",
+      "points": 10
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "question": "What grade is the highest classification for jujutsu sorcerers?",
+      "options": [
+        { "id": "a", "text": "Grade 1", "isCorrect": false },
+        { "id": "b", "text": "Special Grade", "isCorrect": true },
+        { "id": "c", "text": "Grade S", "isCorrect": false },
+        { "id": "d", "text": "Semi-Grade 1", "isCorrect": false }
+      ],
+      "explanation": "Special Grade is the highest tier, held by sorcerers like Gojo, Yuta, and Yuki Tsukumo.",
+      "points": 10
+    },
+    {
+      "id": "q16",
+      "type": "multiple-choice",
+      "question": "Who killed Satoru Gojo's mentor and led to him sealing himself in the Prison Realm?",
+      "options": [
+        { "id": "a", "text": "Mahito", "isCorrect": false },
+        { "id": "b", "text": "Suguru Geto (Kenjaku)", "isCorrect": true },
+        { "id": "c", "text": "Jogo", "isCorrect": false },
+        { "id": "d", "text": "Toji Fushiguro", "isCorrect": false }
+      ],
+      "explanation": "Kenjaku, inhabiting Geto's body, sealed Gojo in the Prison Realm during the Shibuya Incident.",
+      "points": 10
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "question": "What is the name of Nanami Kento's cursed technique?",
+      "options": [
+        { "id": "a", "text": "Ratio Technique", "isCorrect": true },
+        { "id": "b", "text": "Straw Doll Technique", "isCorrect": false },
+        { "id": "c", "text": "Ten Shadows", "isCorrect": false },
+        { "id": "d", "text": "Disaster Flames", "isCorrect": false }
+      ],
+      "explanation": "Nanami divides his targets into segments, creating a forced weak point at the 7:3 ratio.",
+      "points": 10
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "question": "Megumi Fushiguro is Toji Fushiguro's biological son.",
+      "correctAnswer": true,
+      "explanation": "Megumi inherited the Zenin clan's Ten Shadows Technique through his father Toji.",
+      "points": 10
+    },
+    {
+      "id": "q19",
+      "type": "multiple-choice",
+      "question": "Which of these is NOT one of Megumi's shikigami?",
+      "options": [
+        { "id": "a", "text": "Divine Dogs", "isCorrect": false },
+        { "id": "b", "text": "Nue", "isCorrect": false },
+        { "id": "c", "text": "Mahoraga", "isCorrect": false },
+        { "id": "d", "text": "Tengu", "isCorrect": true }
+      ],
+      "explanation": "Tengu is not a Ten Shadows shikigami. Megumi controls Divine Dogs, Nue, Mahoraga, and others.",
+      "points": 10
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "question": "What event takes place where many of Tokyo's residents are massacred by curses?",
+      "options": [
+        { "id": "a", "text": "Goodwill Event", "isCorrect": false },
+        { "id": "b", "text": "Shibuya Incident", "isCorrect": true },
+        { "id": "c", "text": "Night Parade", "isCorrect": false },
+        { "id": "d", "text": "Culling Game", "isCorrect": false }
+      ],
+      "explanation": "The Shibuya Incident on October 31 marks the most devastating arc, with massive civilian and sorcerer casualties.",
+      "points": 10
+    },
+    {
+      "id": "q21",
+      "type": "multiple-choice",
+      "question": "Who is Yuji's grandfather, whose dying words influenced Yuji's worldview?",
+      "options": [
+        { "id": "a", "text": "Jin Itadori", "isCorrect": false },
+        { "id": "b", "text": "Wasuke Itadori", "isCorrect": true },
+        { "id": "c", "text": "Tengen", "isCorrect": false },
+        { "id": "d", "text": "Kenjaku", "isCorrect": false }
+      ],
+      "explanation": "Wasuke told Yuji to help others and die surrounded by people, shaping his moral compass.",
+      "points": 10
+    },
+    {
+      "id": "q22",
+      "type": "true-false",
+      "question": "Reverse Cursed Technique allows sorcerers to heal themselves and others.",
+      "correctAnswer": true,
+      "explanation": "RCT converts negative cursed energy into positive energy, enabling healing.",
+      "points": 10
+    },
+    {
+      "id": "q23",
+      "type": "multiple-choice",
+      "question": "What is Maki Zenin's defining trait among the Zenin clan?",
+      "options": [
+        { "id": "a", "text": "Strongest cursed technique in the clan", "isCorrect": false },
+        { "id": "b", "text": "Born with almost no cursed energy", "isCorrect": true },
+        { "id": "c", "text": "Heir to the Ten Shadows", "isCorrect": false },
+        { "id": "d", "text": "Telepathic abilities", "isCorrect": false }
+      ],
+      "explanation": "Maki has near-zero cursed energy, granting her enhanced physicality like Toji.",
+      "points": 10
+    },
+    {
+      "id": "q24",
+      "type": "multiple-choice",
+      "question": "What is the name of the special grade cursed object that Mechamaru piloted?",
+      "options": [
+        { "id": "a", "text": "Ultimate Mechamaru", "isCorrect": true },
+        { "id": "b", "text": "Iron Maiden", "isCorrect": false },
+        { "id": "c", "text": "Cursed Corpse Beta", "isCorrect": false },
+        { "id": "d", "text": "Heavenly Vessel", "isCorrect": false }
+      ],
+      "explanation": "Kokichi Muta controlled Ultimate Mechamaru remotely due to his Heavenly Restriction.",
+      "points": 10
+    },
+    {
+      "id": "q25",
+      "type": "true-false",
+      "question": "Black Flash is a phenomenon that occurs when cursed energy is applied within 0.000001 seconds of a physical hit.",
+      "correctAnswer": true,
+      "explanation": "Black Flash distorts space, dealing 2.5x the normal damage and amplifying cursed energy output.",
+      "points": 10
     }
   ]
 }
