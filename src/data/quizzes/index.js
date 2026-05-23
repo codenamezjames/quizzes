@@ -129,6 +129,30 @@ export const categoryMeta = {
     icon: 'temple_buddhist',
     color: '#5D4037',
   },
+  'jujutsu-kaisen': {
+    title: 'Jujutsu Kaisen',
+    description: 'Sorcerers, curses, and domain expansions!',
+    icon: 'visibility',
+    color: '#1A237E',
+  },
+  pokemon: {
+    title: 'Pokémon',
+    description: 'Gotta know \'em all!',
+    icon: 'catching_pokemon',
+    color: '#FFCB05',
+  },
+  spiderman: {
+    title: 'Spider-Man',
+    description: 'With great power comes great trivia!',
+    icon: 'pest_control',
+    color: '#D32F2F',
+  },
+  sports: {
+    title: 'Sports',
+    description: 'Test your sports trivia knowledge!',
+    icon: 'sports',
+    color: '#FF6F00',
+  },
 }
 
 export const quizManifest = [
@@ -937,6 +961,50 @@ export const quizManifest = [
     category: 'greek-mythology',
     coverColor: '#9C27B0',
     loader: () => import('./greek-mythology-stories.json'),
+  },
+
+  // Jujutsu Kaisen quizzes
+  {
+    id: 'jujutsu-kaisen',
+    title: 'Jujutsu Kaisen',
+    description: 'Test your knowledge of sorcerers and cursed spirits!',
+    icon: 'visibility',
+    category: 'jujutsu-kaisen',
+    coverColor: '#1A237E',
+    loader: () => import('./jujutsu-kaisen.json'),
+  },
+
+  // Pokémon quizzes
+  {
+    id: 'pokemon',
+    title: 'Pokémon',
+    description: 'Gotta know \'em all! Test your Pokémon knowledge!',
+    icon: 'catching_pokemon',
+    category: 'pokemon',
+    coverColor: '#FFCB05',
+    loader: () => import('./pokemon.json'),
+  },
+
+  // Spider-Man quizzes
+  {
+    id: 'spiderman',
+    title: 'Spider-Man',
+    description: 'With great power comes great trivia!',
+    icon: 'pest_control',
+    category: 'spiderman',
+    coverColor: '#D32F2F',
+    loader: () => import('./spiderman.json'),
+  },
+
+  // Sports quizzes
+  {
+    id: 'sports',
+    title: 'Sports Trivia',
+    description: 'Test your knowledge across the world of sports!',
+    icon: 'sports',
+    category: 'sports',
+    coverColor: '#FF6F00',
+    loader: () => import('./sports.json'),
   },
 ]
 

@@ -1,0 +1,125 @@
+{
+  "id": "pokemon",
+  "title": "Pokémon",
+  "description": "Gotta know 'em all! Test your Pokémon knowledge!",
+  "icon": "catching_pokemon",
+  "category": "Gaming",
+  "coverColor": "#FFCB05",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Who is Ash Ketchum's first and most iconic Pokémon?",
+      "options": [
+        { "id": "a", "text": "Charmander", "isCorrect": false },
+        { "id": "b", "text": "Pikachu", "isCorrect": true },
+        { "id": "c", "text": "Bulbasaur", "isCorrect": false },
+        { "id": "d", "text": "Squirtle", "isCorrect": false }
+      ],
+      "explanation": "Ash received Pikachu from Professor Oak after sleeping through his start time.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What region is featured in Pokémon Red and Blue?",
+      "options": [
+        { "id": "a", "text": "Johto", "isCorrect": false },
+        { "id": "b", "text": "Hoenn", "isCorrect": false },
+        { "id": "c", "text": "Kanto", "isCorrect": true },
+        { "id": "d", "text": "Sinnoh", "isCorrect": false }
+      ],
+      "explanation": "Pokémon Red and Blue take place in the Kanto region, home to the original 151 Pokémon.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Mewtwo was created in a lab from the DNA of Mew.",
+      "correctAnswer": true,
+      "explanation": "Mewtwo is a genetically engineered clone of Mew created by Team Rocket scientists.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "How many Pokémon types are there in the current games?",
+      "options": [
+        { "id": "a", "text": "15", "isCorrect": false },
+        { "id": "b", "text": "18", "isCorrect": true },
+        { "id": "c", "text": "20", "isCorrect": false },
+        { "id": "d", "text": "17", "isCorrect": false }
+      ],
+      "explanation": "There are 18 types including Fairy, which was added in Generation 6.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which Pokémon is known as the Genetic Pokémon?",
+      "options": [
+        { "id": "a", "text": "Mew", "isCorrect": false },
+        { "id": "b", "text": "Ditto", "isCorrect": false },
+        { "id": "c", "text": "Mewtwo", "isCorrect": true },
+        { "id": "d", "text": "Eevee", "isCorrect": false }
+      ],
+      "explanation": "Mewtwo is classified as the Genetic Pokémon due to its lab origins.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Charizard is a Fire/Dragon type Pokémon.",
+      "correctAnswer": false,
+      "explanation": "Charizard is actually a Fire/Flying type, not Dragon, despite looking like one.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which of these Pokémon evolves using a Water Stone?",
+      "options": [
+        { "id": "a", "text": "Vaporeon", "isCorrect": true },
+        { "id": "b", "text": "Flareon", "isCorrect": false },
+        { "id": "c", "text": "Jolteon", "isCorrect": false },
+        { "id": "d", "text": "Umbreon", "isCorrect": false }
+      ],
+      "explanation": "Eevee evolves into Vaporeon when exposed to a Water Stone.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is Professor Oak's first name?",
+      "options": [
+        { "id": "a", "text": "Samuel", "isCorrect": true },
+        { "id": "b", "text": "Elm", "isCorrect": false },
+        { "id": "c", "text": "Birch", "isCorrect": false },
+        { "id": "d", "text": "Rowan", "isCorrect": false }
+      ],
+      "explanation": "Professor Oak's first name is Samuel, and he resides in Pallet Town.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which legendary trio is associated with the Johto region?",
+      "options": [
+        { "id": "a", "text": "Articuno, Zapdos, Moltres", "isCorrect": false },
+        { "id": "b", "text": "Raikou, Entei, Suicune", "isCorrect": true },
+        { "id": "c", "text": "Regirock, Regice, Registeel", "isCorrect": false },
+        { "id": "d", "text": "Uxie, Mesprit, Azelf", "isCorrect": false }
+      ],
+      "explanation": "Raikou, Entei, and Suicune are the legendary beasts of Johto, awakened by Ho-Oh.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Magikarp evolves into Gyarados at level 20.",
+      "correctAnswer": true,
+      "explanation": "Despite being weak, Magikarp evolves into the fearsome Gyarados at level 20.",
+      "points": 10
+    }
+  ]
+}

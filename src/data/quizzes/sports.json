@@ -1,0 +1,125 @@
+{
+  "id": "sports",
+  "title": "Sports Trivia",
+  "description": "Test your knowledge across the world of sports!",
+  "icon": "sports",
+  "category": "Sports",
+  "coverColor": "#FF6F00",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "How many players are on a soccer team on the field at one time?",
+      "options": [
+        { "id": "a", "text": "9", "isCorrect": false },
+        { "id": "b", "text": "10", "isCorrect": false },
+        { "id": "c", "text": "11", "isCorrect": true },
+        { "id": "d", "text": "12", "isCorrect": false }
+      ],
+      "explanation": "Each soccer team fields 11 players, including the goalkeeper.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How often are the Summer Olympic Games held?",
+      "options": [
+        { "id": "a", "text": "Every 2 years", "isCorrect": false },
+        { "id": "b", "text": "Every 3 years", "isCorrect": false },
+        { "id": "c", "text": "Every 4 years", "isCorrect": true },
+        { "id": "d", "text": "Every 5 years", "isCorrect": false }
+      ],
+      "explanation": "The Summer Olympics are held every 4 years, alternating with the Winter Games every 2 years.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "A basketball hoop is 10 feet high.",
+      "correctAnswer": true,
+      "explanation": "The standard NBA basketball rim height is exactly 10 feet (3.05 meters) from the floor.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": [
+        { "id": "a", "text": "Germany", "isCorrect": false },
+        { "id": "b", "text": "Argentina", "isCorrect": false },
+        { "id": "c", "text": "Brazil", "isCorrect": true },
+        { "id": "d", "text": "Italy", "isCorrect": false }
+      ],
+      "explanation": "Brazil has won the World Cup 5 times (1958, 1962, 1970, 1994, 2002).",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "In tennis, what is a score of zero called?",
+      "options": [
+        { "id": "a", "text": "Nil", "isCorrect": false },
+        { "id": "b", "text": "Love", "isCorrect": true },
+        { "id": "c", "text": "Duck", "isCorrect": false },
+        { "id": "d", "text": "Zip", "isCorrect": false }
+      ],
+      "explanation": "In tennis scoring, zero is called 'love', possibly derived from the French 'l'oeuf' meaning egg.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Michael Phelps holds the record for most Olympic gold medals.",
+      "correctAnswer": true,
+      "explanation": "Michael Phelps won 23 Olympic gold medals, the most of any Olympian in history.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many points is a touchdown worth in American football?",
+      "options": [
+        { "id": "a", "text": "3", "isCorrect": false },
+        { "id": "b", "text": "6", "isCorrect": true },
+        { "id": "c", "text": "7", "isCorrect": false },
+        { "id": "d", "text": "5", "isCorrect": false }
+      ],
+      "explanation": "A touchdown is worth 6 points, with an extra point kick or 2-point conversion afterward.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which sport is played at Wimbledon?",
+      "options": [
+        { "id": "a", "text": "Golf", "isCorrect": false },
+        { "id": "b", "text": "Cricket", "isCorrect": false },
+        { "id": "c", "text": "Tennis", "isCorrect": true },
+        { "id": "d", "text": "Rugby", "isCorrect": false }
+      ],
+      "explanation": "Wimbledon is the oldest and most prestigious tennis tournament, held annually in London.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "How many holes are played in a standard round of golf?",
+      "options": [
+        { "id": "a", "text": "9", "isCorrect": false },
+        { "id": "b", "text": "12", "isCorrect": false },
+        { "id": "c", "text": "18", "isCorrect": true },
+        { "id": "d", "text": "20", "isCorrect": false }
+      ],
+      "explanation": "A standard round of golf consists of 18 holes.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "A hat-trick in hockey or soccer means scoring three goals in one game.",
+      "correctAnswer": true,
+      "explanation": "A hat-trick is achieved when a single player scores three goals in one match.",
+      "points": 10
+    }
+  ]
+}

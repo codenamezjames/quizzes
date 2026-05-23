@@ -1,0 +1,125 @@
+{
+  "id": "spiderman",
+  "title": "Spider-Man",
+  "description": "With great power comes great trivia! Test your web-slinging knowledge!",
+  "icon": "pest_control",
+  "category": "Comics",
+  "coverColor": "#D32F2F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is Spider-Man's real name?",
+      "options": [
+        { "id": "a", "text": "Peter Parker", "isCorrect": true },
+        { "id": "b", "text": "Miles Morales", "isCorrect": false },
+        { "id": "c", "text": "Ben Reilly", "isCorrect": false },
+        { "id": "d", "text": "Harry Osborn", "isCorrect": false }
+      ],
+      "explanation": "Peter Parker is the original Spider-Man, created by Stan Lee and Steve Ditko.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who raised Peter Parker after his parents died?",
+      "options": [
+        { "id": "a", "text": "Aunt May and Uncle Ben", "isCorrect": true },
+        { "id": "b", "text": "Mary Jane's parents", "isCorrect": false },
+        { "id": "c", "text": "J. Jonah Jameson", "isCorrect": false },
+        { "id": "d", "text": "Tony Stark", "isCorrect": false }
+      ],
+      "explanation": "Aunt May and Uncle Ben Parker raised Peter in Queens, New York.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Peter Parker got his powers from a radioactive spider bite.",
+      "correctAnswer": true,
+      "explanation": "A radioactive spider bit Peter during a science demonstration, granting him spider-like abilities.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of the Daily Bugle's editor-in-chief?",
+      "options": [
+        { "id": "a", "text": "Robbie Robertson", "isCorrect": false },
+        { "id": "b", "text": "Ben Urich", "isCorrect": false },
+        { "id": "c", "text": "J. Jonah Jameson", "isCorrect": true },
+        { "id": "d", "text": "Norman Osborn", "isCorrect": false }
+      ],
+      "explanation": "J. Jonah Jameson is the loud-mouthed editor who constantly slanders Spider-Man.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is the second Spider-Man in the Spider-Verse?",
+      "options": [
+        { "id": "a", "text": "Ben Reilly", "isCorrect": false },
+        { "id": "b", "text": "Miles Morales", "isCorrect": true },
+        { "id": "c", "text": "Gwen Stacy", "isCorrect": false },
+        { "id": "d", "text": "Otto Octavius", "isCorrect": false }
+      ],
+      "explanation": "Miles Morales is the Afro-Latino teen who became Spider-Man in the Ultimate Universe.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Venom's host before Eddie Brock was Peter Parker.",
+      "correctAnswer": true,
+      "explanation": "Peter wore the symbiote suit first before it bonded with Eddie Brock to become Venom.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which villain is also known as Doctor Octopus?",
+      "options": [
+        { "id": "a", "text": "Norman Osborn", "isCorrect": false },
+        { "id": "b", "text": "Otto Octavius", "isCorrect": true },
+        { "id": "c", "text": "Curt Connors", "isCorrect": false },
+        { "id": "d", "text": "Max Dillon", "isCorrect": false }
+      ],
+      "explanation": "Otto Octavius is the brilliant scientist with four mechanical tentacle arms.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What city does Spider-Man primarily protect?",
+      "options": [
+        { "id": "a", "text": "Gotham City", "isCorrect": false },
+        { "id": "b", "text": "Los Angeles", "isCorrect": false },
+        { "id": "c", "text": "New York City", "isCorrect": true },
+        { "id": "d", "text": "Metropolis", "isCorrect": false }
+      ],
+      "explanation": "Spider-Man swings through New York City, particularly Manhattan and Queens.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Who is the Green Goblin's true identity?",
+      "options": [
+        { "id": "a", "text": "Harry Osborn", "isCorrect": false },
+        { "id": "b", "text": "Norman Osborn", "isCorrect": true },
+        { "id": "c", "text": "Quentin Beck", "isCorrect": false },
+        { "id": "d", "text": "Adrian Toomes", "isCorrect": false }
+      ],
+      "explanation": "Norman Osborn, founder of Oscorp, became the original Green Goblin.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Spider-Man's webs are organic and grow from his wrists naturally.",
+      "correctAnswer": false,
+      "explanation": "In most comics, Peter invented mechanical web-shooters. Only some film versions use organic webbing.",
+      "points": 10
+    }
+  ]
+}

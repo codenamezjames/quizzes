@@ -1,0 +1,125 @@
+{
+  "id": "jujutsu-kaisen",
+  "title": "Jujutsu Kaisen",
+  "description": "Test your knowledge of sorcerers and cursed spirits!",
+  "icon": "visibility",
+  "category": "Anime",
+  "coverColor": "#1A237E",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the main protagonist of Jujutsu Kaisen?",
+      "options": [
+        { "id": "a", "text": "Yuji Itadori", "isCorrect": true },
+        { "id": "b", "text": "Megumi Fushiguro", "isCorrect": false },
+        { "id": "c", "text": "Satoru Gojo", "isCorrect": false },
+        { "id": "d", "text": "Nobara Kugisaki", "isCorrect": false }
+      ],
+      "explanation": "Yuji Itadori is the main protagonist who swallows a finger of Ryomen Sukuna.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "How many fingers does Sukuna have in total?",
+      "options": [
+        { "id": "a", "text": "10", "isCorrect": false },
+        { "id": "b", "text": "15", "isCorrect": false },
+        { "id": "c", "text": "20", "isCorrect": true },
+        { "id": "d", "text": "12", "isCorrect": false }
+      ],
+      "explanation": "Sukuna has 20 fingers because the King of Curses had four arms.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Satoru Gojo's signature technique is called Limitless.",
+      "correctAnswer": true,
+      "explanation": "Gojo's inherited technique is Limitless, which manipulates space at an atomic level.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the name of Megumi's domain expansion?",
+      "options": [
+        { "id": "a", "text": "Malevolent Shrine", "isCorrect": false },
+        { "id": "b", "text": "Chimera Shadow Garden", "isCorrect": true },
+        { "id": "c", "text": "Unlimited Void", "isCorrect": false },
+        { "id": "d", "text": "Self-Embodiment of Perfection", "isCorrect": false }
+      ],
+      "explanation": "Chimera Shadow Garden is Megumi's incomplete domain expansion using shadows.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is the principal of Tokyo Jujutsu High?",
+      "options": [
+        { "id": "a", "text": "Masamichi Yaga", "isCorrect": true },
+        { "id": "b", "text": "Atsuya Kusakabe", "isCorrect": false },
+        { "id": "c", "text": "Yoshinobu Gakuganji", "isCorrect": false },
+        { "id": "d", "text": "Kiyotaka Ijichi", "isCorrect": false }
+      ],
+      "explanation": "Masamichi Yaga is the principal of Tokyo Jujutsu High and a master of cursed corpse techniques.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Nobara Kugisaki uses a hammer and nails as her weapons.",
+      "correctAnswer": true,
+      "explanation": "Nobara channels cursed energy through nails she hammers into targets or straw effigies.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the name of Yuji's special grade cursed weapon swallowed object?",
+      "options": [
+        { "id": "a", "text": "Inverted Spear of Heaven", "isCorrect": false },
+        { "id": "b", "text": "Sukuna's Finger", "isCorrect": true },
+        { "id": "c", "text": "Playful Cloud", "isCorrect": false },
+        { "id": "d", "text": "Black Rope", "isCorrect": false }
+      ],
+      "explanation": "Yuji swallowed one of Sukuna's twenty fingers, becoming his vessel.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which curse user can manipulate souls through physical touch?",
+      "options": [
+        { "id": "a", "text": "Mahito", "isCorrect": true },
+        { "id": "b", "text": "Jogo", "isCorrect": false },
+        { "id": "c", "text": "Hanami", "isCorrect": false },
+        { "id": "d", "text": "Dagon", "isCorrect": false }
+      ],
+      "explanation": "Mahito's Idle Transfiguration lets him reshape souls and transform bodies by touch.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What does Toji Fushiguro lack that makes him unique?",
+      "options": [
+        { "id": "a", "text": "A cursed technique", "isCorrect": false },
+        { "id": "b", "text": "Cursed energy", "isCorrect": true },
+        { "id": "c", "text": "Combat training", "isCorrect": false },
+        { "id": "d", "text": "Sight", "isCorrect": false }
+      ],
+      "explanation": "Toji has zero cursed energy, granting him the Heavenly Restriction with peak physical abilities.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Domain Expansions guarantee that the user's technique will hit their target.",
+      "correctAnswer": true,
+      "explanation": "A sure-hit effect is the defining trait of a domain expansion against opponents inside it.",
+      "points": 10
+    }
+  ]
+}
