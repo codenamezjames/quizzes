@@ -1,0 +1,146 @@
+{
+  "id": "katseye",
+  "title": "KATSEYE",
+  "description": "Test your knowledge of the HYBE x Geffen global girl group!",
+  "icon": "visibility",
+  "category": "K-Pop",
+  "coverColor": "#AD1457",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which two record labels co-created KATSEYE?",
+      "options": [
+        { "id": "a", "text": "SM and Republic", "isCorrect": false },
+        { "id": "b", "text": "HYBE and Geffen Records", "isCorrect": true },
+        { "id": "c", "text": "YG and Interscope", "isCorrect": false },
+        { "id": "d", "text": "JYP and Columbia", "isCorrect": false }
+      ],
+      "explanation": "KATSEYE was formed through a partnership between HYBE and Geffen Records.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What reality competition show formed KATSEYE?",
+      "options": [
+        { "id": "a", "text": "Produce 101", "isCorrect": false },
+        { "id": "b", "text": "I-LAND", "isCorrect": false },
+        { "id": "c", "text": "The Debut: Dream Academy", "isCorrect": true },
+        { "id": "d", "text": "K-Pop Star", "isCorrect": false }
+      ],
+      "explanation": "The group debuted via 'The Debut: Dream Academy', a global audition show by HYBE x Geffen.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "KATSEYE has six members.",
+      "correctAnswer": true,
+      "explanation": "Final lineup has 6 members: Lara, Daniela, Megan, Manon, Sophia, and Yoonchae.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which member is the youngest in KATSEYE?",
+      "options": [
+        { "id": "a", "text": "Yoonchae", "isCorrect": true },
+        { "id": "b", "text": "Sophia", "isCorrect": false },
+        { "id": "c", "text": "Megan", "isCorrect": false },
+        { "id": "d", "text": "Lara", "isCorrect": false }
+      ],
+      "explanation": "Yoonchae, born in 2007, is the maknae (youngest member) of KATSEYE.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What was KATSEYE's debut single?",
+      "options": [
+        { "id": "a", "text": "Touch", "isCorrect": false },
+        { "id": "b", "text": "Debut", "isCorrect": true },
+        { "id": "c", "text": "Gnarly", "isCorrect": false },
+        { "id": "d", "text": "Til The End Of Time", "isCorrect": false }
+      ],
+      "explanation": "'Debut' was their official debut single, released in June 2024.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "KATSEYE's members come from multiple countries, making it a global group.",
+      "correctAnswer": true,
+      "explanation": "Members hail from the U.S., South Korea, Switzerland, the Philippines, India, and more, by design.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is the title of KATSEYE's debut EP?",
+      "options": [
+        { "id": "a", "text": "SIS (Soft Is Strong)", "isCorrect": true },
+        { "id": "b", "text": "Touch", "isCorrect": false },
+        { "id": "c", "text": "Beautiful Chaos", "isCorrect": false },
+        { "id": "d", "text": "Eye Of The Storm", "isCorrect": false }
+      ],
+      "explanation": "Their debut mini-album 'SIS (Soft Is Strong)' was released in 2024.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which member is from Switzerland?",
+      "options": [
+        { "id": "a", "text": "Sophia", "isCorrect": false },
+        { "id": "b", "text": "Manon", "isCorrect": true },
+        { "id": "c", "text": "Megan", "isCorrect": false },
+        { "id": "d", "text": "Daniela", "isCorrect": false }
+      ],
+      "explanation": "Manon Bannerman is Swiss-Ghanaian, originally from Switzerland.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which 2025 KATSEYE song went viral on TikTok?",
+      "options": [
+        { "id": "a", "text": "Gnarly", "isCorrect": true },
+        { "id": "b", "text": "Debut", "isCorrect": false },
+        { "id": "c", "text": "Touch", "isCorrect": false },
+        { "id": "d", "text": "Til The End Of Time", "isCorrect": false }
+      ],
+      "explanation": "'Gnarly' became a viral TikTok hit thanks to its hooky chorus and dance.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "KATSEYE is based in Los Angeles rather than Seoul.",
+      "correctAnswer": true,
+      "explanation": "Unlike most HYBE groups, KATSEYE trains and operates primarily from Los Angeles.",
+      "points": 10
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "question": "Which member is from the Philippines?",
+      "options": [
+        { "id": "a", "text": "Sophia", "isCorrect": true },
+        { "id": "b", "text": "Lara", "isCorrect": false },
+        { "id": "c", "text": "Manon", "isCorrect": false },
+        { "id": "d", "text": "Daniela", "isCorrect": false }
+      ],
+      "explanation": "Sophia Laforteza is Filipino, born in Manila.",
+      "points": 10
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "KATSEYE's fandom is officially named EYEKONS.",
+      "correctAnswer": false,
+      "explanation": "KATSEYE's fandom is named 'EYEKONZ' — though spelling has varied in marketing.",
+      "points": 10
+    }
+  ]
+}

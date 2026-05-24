@@ -195,6 +195,12 @@ export const categoryMeta = {
     icon: 'sports_volleyball',
     color: '#FBC02D',
   },
+  katseye: {
+    title: 'KATSEYE',
+    description: 'The HYBE x Geffen global girl group!',
+    icon: 'visibility',
+    color: '#AD1457',
+  },
 }
 
 export const quizManifest = [
@@ -1205,6 +1211,17 @@ export const quizManifest = [
     category: 'volleyball',
     coverColor: '#FBC02D',
     loader: () => import('./volleyball.json'),
+  },
+
+  // KATSEYE quizzes
+  {
+    id: 'katseye',
+    title: 'KATSEYE',
+    description: 'Test your knowledge of the HYBE x Geffen global girl group!',
+    icon: 'visibility',
+    category: 'katseye',
+    coverColor: '#AD1457',
+    loader: () => import('./katseye.json'),
   },
 ]
 
