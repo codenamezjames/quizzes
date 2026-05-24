@@ -8,206 +8,255 @@ export const categoryMeta = {
     description: 'Test your knowledge of the Demon Slayer Corps!',
     icon: 'local_fire_department',
     color: '#E74C3C',
+    group: 'Anime & Manga',
   },
   'kpop-demon-hunters': {
     title: 'K-Pop Demon Hunters',
     description: 'The secret world of idol demon hunters!',
     icon: 'music_note',
     color: '#8E44AD',
+    group: 'Anime & Manga',
   },
   frieren: {
     title: 'Frieren',
     description: 'Journey with the long-lived elf mage!',
     icon: 'auto_fix_high',
     color: '#3498DB',
+    group: 'Anime & Manga',
   },
   'my-hero-academia': {
     title: 'My Hero Academia',
     description: 'Go beyond! Plus Ultra!',
     icon: 'flash_on',
     color: '#2ECC71',
-  },
-  animals: {
-    title: 'Amazing Animals',
-    description: 'Explore the animal kingdom!',
-    icon: 'pets',
-    color: '#FF69B4',
-  },
-  space: {
-    title: 'Space Explorer',
-    description: 'Journey through the stars!',
-    icon: 'rocket_launch',
-    color: '#9B59B6',
-  },
-  fortnite: {
-    title: 'Fortnite',
-    description: 'Where we droppin\'? Test your Fortnite knowledge!',
-    icon: 'sports_esports',
-    color: '#5C6BC0',
+    group: 'Anime & Manga',
   },
   'spy-x-family': {
     title: 'Spy x Family',
     description: 'Secrets, lies, and family bonds!',
     icon: 'family_restroom',
     color: '#E91E63',
-  },
-  minecraft: {
-    title: 'Minecraft',
-    description: 'Explore the blocky world of Minecraft!',
-    icon: 'grid_view',
-    color: '#8BC34A',
-  },
-  mario: {
-    title: 'Super Mario',
-    description: 'It\'s-a me, Mario! Test your knowledge!',
-    icon: 'star',
-    color: '#E53935',
-  },
-  'harry-potter': {
-    title: 'Harry Potter',
-    description: 'Welcome to the Wizarding World!',
-    icon: 'auto_fix_high',
-    color: '#5D4037',
-  },
-  disney: {
-    title: 'Disney',
-    description: 'The magic of Disney awaits!',
-    icon: 'movie',
-    color: '#1E88E5',
-  },
-  arcane: {
-    title: 'Arcane',
-    description: 'Explore the world of Piltover and Zaun!',
-    icon: 'bolt',
-    color: '#FF4081',
-  },
-  'vampire-diaries': {
-    title: 'The Vampire Diaries',
-    description: 'Welcome to Mystic Falls!',
-    icon: 'nightlight',
-    color: '#B71C1C',
-  },
-  'the-originals': {
-    title: 'The Originals',
-    description: 'Always and Forever with the Mikaelsons!',
-    icon: 'castle',
-    color: '#1A237E',
-  },
-  'disney-parks': {
-    title: 'Disney Parks',
-    description: 'The Happiest Places on Earth!',
-    icon: 'attractions',
-    color: '#1565C0',
-  },
-  'fourth-wing': {
-    title: 'Fourth Wing',
-    description: 'Dragons, riders, and Basgiath War College!',
-    icon: 'local_fire_department',
-    color: '#D84315',
-  },
-  acotar: {
-    title: 'ACOTAR',
-    description: 'A Court of Thorns and Roses!',
-    icon: 'local_florist',
-    color: '#7B1FA2',
-  },
-  'gilmore-girls': {
-    title: 'Gilmore Girls',
-    description: 'Coffee, fast talk, and Stars Hollow!',
-    icon: 'coffee',
-    color: '#5C6BC0',
-  },
-  twilight: {
-    title: 'Twilight',
-    description: 'Vampires, werewolves, and eternal love!',
-    icon: 'nightlight',
-    color: '#37474F',
-  },
-  'greek-mythology': {
-    title: 'Greek Mythology',
-    description: 'Gods, heroes, and legendary tales!',
-    icon: 'temple_buddhist',
-    color: '#5D4037',
+    group: 'Anime & Manga',
   },
   'jujutsu-kaisen': {
     title: 'Jujutsu Kaisen',
     description: 'Sorcerers, curses, and domain expansions!',
     icon: 'visibility',
     color: '#1A237E',
+    group: 'Anime & Manga',
+  },
+  fortnite: {
+    title: 'Fortnite',
+    description: 'Where we droppin\'? Test your Fortnite knowledge!',
+    icon: 'sports_esports',
+    color: '#5C6BC0',
+    group: 'Gaming',
+  },
+  minecraft: {
+    title: 'Minecraft',
+    description: 'Explore the blocky world of Minecraft!',
+    icon: 'grid_view',
+    color: '#8BC34A',
+    group: 'Gaming',
+  },
+  mario: {
+    title: 'Super Mario',
+    description: 'It\'s-a me, Mario! Test your knowledge!',
+    icon: 'star',
+    color: '#E53935',
+    group: 'Gaming',
   },
   pokemon: {
     title: 'Pokémon',
     description: 'Gotta know \'em all!',
     icon: 'catching_pokemon',
     color: '#FFCB05',
+    group: 'Gaming',
   },
   'pokemon-tcg': {
     title: 'Pokémon TCG Expansions',
     description: 'Test your knowledge of Scarlet & Violet era expansions!',
     icon: 'style',
     color: '#FF6F00',
-  },
-  spiderman: {
-    title: 'Spider-Man',
-    description: 'With great power comes great trivia!',
-    icon: 'pest_control',
-    color: '#D32F2F',
+    group: 'Gaming',
   },
   sports: {
     title: 'Sports',
     description: 'Test your sports trivia knowledge!',
     icon: 'sports',
     color: '#FF6F00',
+    group: 'Sports',
   },
   basketball: {
     title: 'Basketball',
     description: 'Hoops, dunks, and the NBA!',
     icon: 'sports_basketball',
     color: '#E65100',
+    group: 'Sports',
   },
   soccer: {
     title: 'Soccer',
     description: 'The beautiful game!',
     icon: 'sports_soccer',
     color: '#2E7D32',
+    group: 'Sports',
   },
   football: {
     title: 'American Football',
     description: 'NFL and gridiron action!',
     icon: 'sports_football',
     color: '#3E2723',
+    group: 'Sports',
   },
   baseball: {
     title: 'Baseball',
     description: "America's pastime!",
     icon: 'sports_baseball',
     color: '#0D47A1',
+    group: 'Sports',
   },
   tennis: {
     title: 'Tennis',
     description: 'Aces, slams, and rallies!',
     icon: 'sports_tennis',
     color: '#7CB342',
+    group: 'Sports',
   },
   volleyball: {
     title: 'Volleyball',
     description: 'Spikes, sets, and serves!',
     icon: 'sports_volleyball',
     color: '#FBC02D',
+    group: 'Sports',
+  },
+  disney: {
+    title: 'Disney',
+    description: 'The magic of Disney awaits!',
+    icon: 'movie',
+    color: '#1E88E5',
+    group: 'TV & Movies',
+  },
+  arcane: {
+    title: 'Arcane',
+    description: 'Explore the world of Piltover and Zaun!',
+    icon: 'bolt',
+    color: '#FF4081',
+    group: 'TV & Movies',
+  },
+  'vampire-diaries': {
+    title: 'The Vampire Diaries',
+    description: 'Welcome to Mystic Falls!',
+    icon: 'nightlight',
+    color: '#B71C1C',
+    group: 'TV & Movies',
+  },
+  'the-originals': {
+    title: 'The Originals',
+    description: 'Always and Forever with the Mikaelsons!',
+    icon: 'castle',
+    color: '#1A237E',
+    group: 'TV & Movies',
+  },
+  'gilmore-girls': {
+    title: 'Gilmore Girls',
+    description: 'Coffee, fast talk, and Stars Hollow!',
+    icon: 'coffee',
+    color: '#5C6BC0',
+    group: 'TV & Movies',
+  },
+  twilight: {
+    title: 'Twilight',
+    description: 'Vampires, werewolves, and eternal love!',
+    icon: 'nightlight',
+    color: '#37474F',
+    group: 'TV & Movies',
+  },
+  'harry-potter': {
+    title: 'Harry Potter',
+    description: 'Welcome to the Wizarding World!',
+    icon: 'auto_fix_high',
+    color: '#5D4037',
+    group: 'Books',
+  },
+  'fourth-wing': {
+    title: 'Fourth Wing',
+    description: 'Dragons, riders, and Basgiath War College!',
+    icon: 'local_fire_department',
+    color: '#D84315',
+    group: 'Books',
+  },
+  acotar: {
+    title: 'ACOTAR',
+    description: 'A Court of Thorns and Roses!',
+    icon: 'local_florist',
+    color: '#7B1FA2',
+    group: 'Books',
+  },
+  spiderman: {
+    title: 'Spider-Man',
+    description: 'With great power comes great trivia!',
+    icon: 'pest_control',
+    color: '#D32F2F',
+    group: 'Comics & Heroes',
+  },
+  'greek-mythology': {
+    title: 'Greek Mythology',
+    description: 'Gods, heroes, and legendary tales!',
+    icon: 'temple_buddhist',
+    color: '#5D4037',
+    group: 'Mythology',
   },
   katseye: {
     title: 'KATSEYE',
     description: 'The HYBE x Geffen global girl group!',
     icon: 'visibility',
     color: '#AD1457',
+    group: 'Music',
+  },
+  'disney-parks': {
+    title: 'Disney Parks',
+    description: 'The Happiest Places on Earth!',
+    icon: 'attractions',
+    color: '#1565C0',
+    group: 'Theme Parks',
+  },
+  animals: {
+    title: 'Amazing Animals',
+    description: 'Explore the animal kingdom!',
+    icon: 'pets',
+    color: '#FF69B4',
+    group: 'Science & Nature',
+  },
+  space: {
+    title: 'Space Explorer',
+    description: 'Journey through the stars!',
+    icon: 'rocket_launch',
+    color: '#9B59B6',
+    group: 'Science & Nature',
   },
   memes: {
     title: 'Internet Memes',
     description: 'Iconic memes from across the internet!',
     icon: 'sentiment_very_satisfied',
     color: '#FF6F00',
+    group: 'Internet Culture',
   },
 }
+
+// Display order for groups on QuizSelectPage
+export const groupOrder = [
+  'Anime & Manga',
+  'Gaming',
+  'Sports',
+  'TV & Movies',
+  'Books',
+  'Music',
+  'Comics & Heroes',
+  'Mythology',
+  'Theme Parks',
+  'Science & Nature',
+  'Internet Culture',
+]
 
 export const quizManifest = [
   // Demon Slayer quizzes
@@ -1268,4 +1317,28 @@ export function getCategories() {
     ...categoryMeta[slug],
     quizCount: quizManifest.filter((q) => q.category === slug).length,
   }))
+}
+
+export function getCategoryGroups() {
+  const categories = getCategories()
+  const byGroup = new Map()
+  for (const cat of categories) {
+    const group = cat.group || 'Other'
+    if (!byGroup.has(group)) byGroup.set(group, [])
+    byGroup.get(group).push(cat)
+  }
+  for (const list of byGroup.values()) {
+    list.sort((a, b) => a.title.localeCompare(b.title))
+  }
+  const ordered = []
+  for (const name of groupOrder) {
+    if (byGroup.has(name)) {
+      ordered.push({ name, categories: byGroup.get(name) })
+      byGroup.delete(name)
+    }
+  }
+  for (const [name, cats] of byGroup) {
+    ordered.push({ name, categories: cats })
+  }
+  return ordered
 }
