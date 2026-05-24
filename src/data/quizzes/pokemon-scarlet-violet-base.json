@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-scarlet-violet-base",
+  "title": "TCG: Scarlet & Violet Base Set",
+  "description": "The expansion that launched the Scarlet & Violet era!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#C62828",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was the Scarlet & Violet base set released?",
+      "options": [
+        { "id": "a", "text": "March 2023", "isCorrect": true },
+        { "id": "b", "text": "November 2022", "isCorrect": false },
+        { "id": "c", "text": "June 2023", "isCorrect": false },
+        { "id": "d", "text": "January 2023", "isCorrect": false }
+      ],
+      "explanation": "Scarlet & Violet launched March 31, 2023, kicking off the SV era.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which new card mechanic debuted in Scarlet & Violet?",
+      "options": [
+        { "id": "a", "text": "V-MAX", "isCorrect": false },
+        { "id": "b", "text": "Pokémon ex", "isCorrect": true },
+        { "id": "c", "text": "VSTAR", "isCorrect": false },
+        { "id": "d", "text": "GX", "isCorrect": false }
+      ],
+      "explanation": "Pokémon ex returned as a new mechanic in SV, replacing V and VSTAR cards.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Koraidon and Miraidon both appear as ex cards in this set.",
+      "correctAnswer": true,
+      "explanation": "The legendary Paldea cover Pokémon Koraidon ex and Miraidon ex both appear in the base set.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Paldean starter is the Fire-type?",
+      "options": [
+        { "id": "a", "text": "Sprigatito", "isCorrect": false },
+        { "id": "b", "text": "Fuecoco", "isCorrect": true },
+        { "id": "c", "text": "Quaxly", "isCorrect": false },
+        { "id": "d", "text": "Litten", "isCorrect": false }
+      ],
+      "explanation": "Fuecoco is the Fire-type starter that evolves into Skeledirge.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Scarlet & Violet base set retired the Pokémon V mechanic.",
+      "correctAnswer": true,
+      "explanation": "With SV, V/VMAX/VSTAR cards were phased out and replaced by Pokémon ex.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "How many cards were in the base SV set (including secret rares)?",
+      "options": [
+        { "id": "a", "text": "198", "isCorrect": false },
+        { "id": "b", "text": "258", "isCorrect": true },
+        { "id": "c", "text": "165", "isCorrect": false },
+        { "id": "d", "text": "300", "isCorrect": false }
+      ],
+      "explanation": "The Scarlet & Violet base set contains 258 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which iconic Pokémon got a Special Illustration Rare in the SV base set?",
+      "options": [
+        { "id": "a", "text": "Pikachu", "isCorrect": true },
+        { "id": "b", "text": "Mewtwo", "isCorrect": false },
+        { "id": "c", "text": "Charizard", "isCorrect": false },
+        { "id": "d", "text": "Lugia", "isCorrect": false }
+      ],
+      "explanation": "Pikachu received one of the most coveted Special Illustration Rare cards in the set.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The SV base set introduced new rarity tiers like Special Illustration Rare and Hyper Rare.",
+      "correctAnswer": true,
+      "explanation": "SV reorganized rarities, debuting Illustration Rare, Special Illustration Rare, and Hyper Rare tiers.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which Pokémon serves as the iconic full-art ex from the Violet half of the set?",
+      "options": [
+        { "id": "a", "text": "Koraidon ex", "isCorrect": false },
+        { "id": "b", "text": "Miraidon ex", "isCorrect": true },
+        { "id": "c", "text": "Mew ex", "isCorrect": false },
+        { "id": "d", "text": "Arceus ex", "isCorrect": false }
+      ],
+      "explanation": "Miraidon ex represents Pokémon Violet's box legendary.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Tera Pokémon were introduced in the SV base set as a card-type mechanic.",
+      "correctAnswer": true,
+      "explanation": "Tera Pokémon ex cards, immune to damage while on the Bench, debuted in the base set.",
+      "points": 10
+    }
+  ]
+}

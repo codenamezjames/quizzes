@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-temporal-forces",
+  "title": "TCG: Temporal Forces",
+  "description": "ACE SPEC cards return! Test your Temporal Forces knowledge!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#00838F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Temporal Forces released?",
+      "options": [
+        { "id": "a", "text": "March 2024", "isCorrect": true },
+        { "id": "b", "text": "May 2024", "isCorrect": false },
+        { "id": "c", "text": "January 2024", "isCorrect": false },
+        { "id": "d", "text": "June 2024", "isCorrect": false }
+      ],
+      "explanation": "Temporal Forces launched March 22, 2024.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which long-retired mechanic returned in Temporal Forces?",
+      "options": [
+        { "id": "a", "text": "GX cards", "isCorrect": false },
+        { "id": "b", "text": "ACE SPEC cards", "isCorrect": true },
+        { "id": "c", "text": "Break Evolution", "isCorrect": false },
+        { "id": "d", "text": "Mega Evolution", "isCorrect": false }
+      ],
+      "explanation": "ACE SPEC cards returned, one-per-deck powerful Trainer cards from the BW era.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Each deck is limited to a single ACE SPEC card.",
+      "correctAnswer": true,
+      "explanation": "ACE SPEC rules mandate only one ACE SPEC card per deck.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Ancient Paradox legendary headlines Temporal Forces?",
+      "options": [
+        { "id": "a", "text": "Walking Wake ex", "isCorrect": false },
+        { "id": "b", "text": "Gouging Fire ex", "isCorrect": true },
+        { "id": "c", "text": "Iron Boulder ex", "isCorrect": false },
+        { "id": "d", "text": "Koraidon ex", "isCorrect": false }
+      ],
+      "explanation": "Gouging Fire ex (Ancient Paradox of Entei) is featured in Temporal Forces.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Iron Crown ex and Raging Bolt ex both appear in Temporal Forces.",
+      "correctAnswer": true,
+      "explanation": "Both legendary Paradox Pokémon make their TCG debut in this set.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which ACE SPEC card became a competitive auto-include?",
+      "options": [
+        { "id": "a", "text": "Prime Catcher", "isCorrect": true },
+        { "id": "b", "text": "Master Ball", "isCorrect": false },
+        { "id": "c", "text": "Computer Search", "isCorrect": false },
+        { "id": "d", "text": "Dowsing Machine", "isCorrect": false }
+      ],
+      "explanation": "Prime Catcher (a stadium-style Gust effect) became a top ACE SPEC choice in many decks.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many cards are in the Temporal Forces set?",
+      "options": [
+        { "id": "a", "text": "162", "isCorrect": false },
+        { "id": "b", "text": "218", "isCorrect": true },
+        { "id": "c", "text": "300", "isCorrect": false },
+        { "id": "d", "text": "245", "isCorrect": false }
+      ],
+      "explanation": "Temporal Forces contains 218 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Bloodmoon Ursaluna ex debuted in Temporal Forces.",
+      "correctAnswer": true,
+      "explanation": "Bloodmoon Ursaluna ex from The Indigo Disk DLC makes its TCG debut here.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which trainer character debuted as a Supporter in this set?",
+      "options": [
+        { "id": "a", "text": "Briar", "isCorrect": true },
+        { "id": "b", "text": "Lacey", "isCorrect": false },
+        { "id": "c", "text": "Crispin", "isCorrect": false },
+        { "id": "d", "text": "Drayton", "isCorrect": false }
+      ],
+      "explanation": "Briar from the Indigo Disk DLC debuts as a Supporter in Temporal Forces.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Temporal Forces is the fifth main SV expansion.",
+      "correctAnswer": true,
+      "explanation": "It is the 5th main set in the Scarlet & Violet era (counting SV1–SV5).",
+      "points": 10
+    }
+  ]
+}

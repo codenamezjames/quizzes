@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-obsidian-flames",
+  "title": "TCG: Obsidian Flames",
+  "description": "Charizard returns! Test your knowledge of Obsidian Flames!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#212121",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Obsidian Flames released?",
+      "options": [
+        { "id": "a", "text": "August 2023", "isCorrect": true },
+        { "id": "b", "text": "October 2023", "isCorrect": false },
+        { "id": "c", "text": "June 2023", "isCorrect": false },
+        { "id": "d", "text": "January 2024", "isCorrect": false }
+      ],
+      "explanation": "Obsidian Flames hit shelves August 11, 2023.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which Pokémon's Tera ex card is the iconic chase card of the set?",
+      "options": [
+        { "id": "a", "text": "Mewtwo", "isCorrect": false },
+        { "id": "b", "text": "Charizard", "isCorrect": true },
+        { "id": "c", "text": "Pikachu", "isCorrect": false },
+        { "id": "d", "text": "Lucario", "isCorrect": false }
+      ],
+      "explanation": "Charizard ex, with its Tera Darkness typing, is the defining card of Obsidian Flames.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Charizard ex from Obsidian Flames is a Darkness-type due to its Tera typing.",
+      "correctAnswer": true,
+      "explanation": "Despite being a Fire Pokémon, the Tera-form Charizard ex is a Darkness-type card.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Paradox Pokémon is featured as ex in Obsidian Flames?",
+      "options": [
+        { "id": "a", "text": "Roaring Moon", "isCorrect": false },
+        { "id": "b", "text": "Iron Hands", "isCorrect": false },
+        { "id": "c", "text": "Both A and B and others", "isCorrect": true },
+        { "id": "d", "text": "Neither", "isCorrect": false }
+      ],
+      "explanation": "Obsidian Flames features multiple ancient and future Paradox Pokémon ex including Roaring Moon and Iron Hands.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Pidgeot ex from Obsidian Flames has an ability that lets you search your deck.",
+      "correctAnswer": true,
+      "explanation": "Pidgeot ex's Quick Search ability lets you grab any card from your deck once per turn.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which Trainer card featuring Penny became popular from this set?",
+      "options": [
+        { "id": "a", "text": "Penny (Supporter)", "isCorrect": true },
+        { "id": "b", "text": "Penny's Eevee", "isCorrect": false },
+        { "id": "c", "text": "Penny's Capture", "isCorrect": false },
+        { "id": "d", "text": "Penny does not appear", "isCorrect": false }
+      ],
+      "explanation": "Penny Supporter card lets you scoop your Benched Pokémon back into your hand.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many cards are in the Obsidian Flames set?",
+      "options": [
+        { "id": "a", "text": "230", "isCorrect": true },
+        { "id": "b", "text": "165", "isCorrect": false },
+        { "id": "c", "text": "300", "isCorrect": false },
+        { "id": "d", "text": "190", "isCorrect": false }
+      ],
+      "explanation": "Obsidian Flames has 230 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Tyranitar ex is a featured Pokémon in Obsidian Flames.",
+      "correctAnswer": true,
+      "explanation": "Tyranitar ex appears as a Darkness-type ex in the set.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What deck archetype gained dominance because of Charizard ex from this set?",
+      "options": [
+        { "id": "a", "text": "Charizard ex / Pidgeot ex", "isCorrect": true },
+        { "id": "b", "text": "Lugia VSTAR", "isCorrect": false },
+        { "id": "c", "text": "Mew VMAX", "isCorrect": false },
+        { "id": "d", "text": "Arceus VSTAR", "isCorrect": false }
+      ],
+      "explanation": "The Charizard ex / Pidgeot ex deck became a top-tier Standard archetype for over a year.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Obsidian Flames is the third main SV expansion.",
+      "correctAnswer": true,
+      "explanation": "It followed Scarlet & Violet base and Paldea Evolved as the third major SV set.",
+      "points": 10
+    }
+  ]
+}

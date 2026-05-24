@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-151",
+  "title": "TCG: Scarlet & Violet 151",
+  "description": "A celebration of the original 151 Kanto Pokémon!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#D32F2F",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the central theme of the 151 set?",
+      "options": [
+        { "id": "a", "text": "Johto Pokémon", "isCorrect": false },
+        { "id": "b", "text": "The original Kanto 151 Pokémon", "isCorrect": true },
+        { "id": "c", "text": "Paldean Pokémon", "isCorrect": false },
+        { "id": "d", "text": "Legendary birds", "isCorrect": false }
+      ],
+      "explanation": "Pokémon 151 celebrates the original Kanto Pokédex from Red & Blue.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "When was Pokémon 151 released in English?",
+      "options": [
+        { "id": "a", "text": "September 2023", "isCorrect": true },
+        { "id": "b", "text": "August 2023", "isCorrect": false },
+        { "id": "c", "text": "November 2023", "isCorrect": false },
+        { "id": "d", "text": "July 2023", "isCorrect": false }
+      ],
+      "explanation": "Pokémon 151 launched in English on September 22, 2023.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "All 151 original Kanto Pokémon appear in this set.",
+      "correctAnswer": true,
+      "explanation": "Every single one of the original Kanto Pokémon, from Bulbasaur to Mew, is featured.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which legendary Pokémon serves as the chase Special Illustration Rare?",
+      "options": [
+        { "id": "a", "text": "Mew ex", "isCorrect": true },
+        { "id": "b", "text": "Mewtwo ex", "isCorrect": false },
+        { "id": "c", "text": "Articuno ex", "isCorrect": false },
+        { "id": "d", "text": "Zapdos ex", "isCorrect": false }
+      ],
+      "explanation": "Mew ex's Special Illustration Rare became one of the most sought-after cards.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Pokémon 151 was originally a Japan-exclusive set before its English release.",
+      "correctAnswer": true,
+      "explanation": "The set debuted in Japan as 'Pokémon Card 151' before releasing internationally.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which trio of legendaries from Kanto appears as ex cards?",
+      "options": [
+        { "id": "a", "text": "Raikou, Entei, Suicune", "isCorrect": false },
+        { "id": "b", "text": "Articuno, Zapdos, Moltres", "isCorrect": true },
+        { "id": "c", "text": "Regirock, Regice, Registeel", "isCorrect": false },
+        { "id": "d", "text": "Uxie, Mesprit, Azelf", "isCorrect": false }
+      ],
+      "explanation": "The legendary bird trio of Kanto all appear as ex cards.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which starter ex from the set saw heavy competitive play?",
+      "options": [
+        { "id": "a", "text": "Venusaur ex", "isCorrect": false },
+        { "id": "b", "text": "Charizard ex", "isCorrect": false },
+        { "id": "c", "text": "Snorlax", "isCorrect": false },
+        { "id": "d", "text": "All starters appear as ex cards", "isCorrect": true }
+      ],
+      "explanation": "Venusaur ex, Charizard ex, and Blastoise ex all appear as ex cards in the set.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "151 product was notoriously difficult to find at retail due to its popularity.",
+      "correctAnswer": true,
+      "explanation": "Demand for 151 product caused massive shortages and scalping at launch.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "How many cards are in the 151 set (including secret rares)?",
+      "options": [
+        { "id": "a", "text": "165", "isCorrect": false },
+        { "id": "b", "text": "207", "isCorrect": true },
+        { "id": "c", "text": "151", "isCorrect": false },
+        { "id": "d", "text": "180", "isCorrect": false }
+      ],
+      "explanation": "Pokémon 151 has 207 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "The Ultra Premium Collection for 151 features a metal Mew card.",
+      "correctAnswer": true,
+      "explanation": "The 151 UPC includes special metal Mew and Mewtwo cards as exclusive collectibles.",
+      "points": 10
+    }
+  ]
+}

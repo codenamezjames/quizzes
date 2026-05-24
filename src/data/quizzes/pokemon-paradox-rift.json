@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-paradox-rift",
+  "title": "TCG: Paradox Rift",
+  "description": "Ancient and Future Paradox Pokémon collide!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#1A237E",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Paradox Rift released?",
+      "options": [
+        { "id": "a", "text": "November 2023", "isCorrect": true },
+        { "id": "b", "text": "September 2023", "isCorrect": false },
+        { "id": "c", "text": "January 2024", "isCorrect": false },
+        { "id": "d", "text": "August 2023", "isCorrect": false }
+      ],
+      "explanation": "Paradox Rift launched November 3, 2023.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the central theme of Paradox Rift?",
+      "options": [
+        { "id": "a", "text": "Legendary birds", "isCorrect": false },
+        { "id": "b", "text": "Ancient and Future Paradox Pokémon", "isCorrect": true },
+        { "id": "c", "text": "Mythical Pokémon", "isCorrect": false },
+        { "id": "d", "text": "Galar Starters", "isCorrect": false }
+      ],
+      "explanation": "The set heavily features Ancient and Future Paradox Pokémon from Paldea's Area Zero.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Paradox Rift introduced the Ancient and Future trait designations on cards.",
+      "correctAnswer": true,
+      "explanation": "Cards with 'Ancient' or 'Future' subtypes had special interactions with other Paradox cards.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Future Paradox Pokémon ex was a competitive standout?",
+      "options": [
+        { "id": "a", "text": "Iron Hands ex", "isCorrect": true },
+        { "id": "b", "text": "Great Tusk", "isCorrect": false },
+        { "id": "c", "text": "Slither Wing", "isCorrect": false },
+        { "id": "d", "text": "Brute Bonnet", "isCorrect": false }
+      ],
+      "explanation": "Iron Hands ex's Amp You Very Much attack rewarded knockouts with bonus prizes.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Roaring Moon ex appears in Paradox Rift.",
+      "correctAnswer": true,
+      "explanation": "Roaring Moon ex is one of the headline Ancient Paradox cards in the set.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which legendary Paldea cover Pokémon got an ACE SPEC equivalent ex card?",
+      "options": [
+        { "id": "a", "text": "Koraidon ex (Apple Acid form)", "isCorrect": false },
+        { "id": "b", "text": "Iron Leaves ex", "isCorrect": false },
+        { "id": "c", "text": "Walking Wake ex", "isCorrect": true },
+        { "id": "d", "text": "Latios ex", "isCorrect": false }
+      ],
+      "explanation": "Walking Wake ex appears in Paradox Rift, the Ancient Paradox of Suicune.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Approximately how many cards are in Paradox Rift?",
+      "options": [
+        { "id": "a", "text": "182", "isCorrect": false },
+        { "id": "b", "text": "266", "isCorrect": true },
+        { "id": "c", "text": "151", "isCorrect": false },
+        { "id": "d", "text": "320", "isCorrect": false }
+      ],
+      "explanation": "Paradox Rift contains 266 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Garchomp ex appears in Paradox Rift, along with Gible and Gabite.",
+      "correctAnswer": true,
+      "explanation": "Garchomp ex is featured in the set alongside its pre-evolutions.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which Iron Pokémon serves as the Future counterpart to Tauros?",
+      "options": [
+        { "id": "a", "text": "Iron Hands", "isCorrect": false },
+        { "id": "b", "text": "Iron Treads", "isCorrect": true },
+        { "id": "c", "text": "Iron Moth", "isCorrect": false },
+        { "id": "d", "text": "Iron Bundle", "isCorrect": false }
+      ],
+      "explanation": "Iron Treads is the Future Paradox form of Donphan, sometimes thought connected to Tauros by fans but officially tied to Donphan.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Paradox Rift is the fourth main set in the Scarlet & Violet era.",
+      "correctAnswer": true,
+      "explanation": "It follows SV base, Paldea Evolved, and Obsidian Flames as the 4th main expansion (151 was a special set).",
+      "points": 10
+    }
+  ]
+}

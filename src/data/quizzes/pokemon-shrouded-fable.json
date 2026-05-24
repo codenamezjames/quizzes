@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-shrouded-fable",
+  "title": "TCG: Shrouded Fable",
+  "description": "Pecharunt and the Loyal Three rule this mini-set!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#4A148C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Shrouded Fable released?",
+      "options": [
+        { "id": "a", "text": "August 2024", "isCorrect": true },
+        { "id": "b", "text": "May 2024", "isCorrect": false },
+        { "id": "c", "text": "October 2024", "isCorrect": false },
+        { "id": "d", "text": "June 2024", "isCorrect": false }
+      ],
+      "explanation": "Shrouded Fable launched August 2, 2024 as a special mini set.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which mythical Pokémon is the headline card of Shrouded Fable?",
+      "options": [
+        { "id": "a", "text": "Pecharunt ex", "isCorrect": true },
+        { "id": "b", "text": "Mew ex", "isCorrect": false },
+        { "id": "c", "text": "Hoopa ex", "isCorrect": false },
+        { "id": "d", "text": "Marshadow ex", "isCorrect": false }
+      ],
+      "explanation": "Pecharunt ex, the Mythical Pokémon from the Mochi Mayhem epilogue, is the star.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Shrouded Fable is a special set, not a main expansion.",
+      "correctAnswer": true,
+      "explanation": "It is a special mini-set, similar in style to 151 and Paldean Fates.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which trio appears prominently in Shrouded Fable?",
+      "options": [
+        { "id": "a", "text": "The Treasures of Ruin", "isCorrect": false },
+        { "id": "b", "text": "The Loyal Three", "isCorrect": true },
+        { "id": "c", "text": "Tao Trio", "isCorrect": false },
+        { "id": "d", "text": "Forces of Nature", "isCorrect": false }
+      ],
+      "explanation": "Okidogi, Munkidori, and Fezandipiti — the Loyal Three — all appear as ex cards.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Shrouded Fable features Dusknoir and Dusclops with strong combo potential.",
+      "correctAnswer": true,
+      "explanation": "Dusknoir from Shrouded Fable enables a competitive damage-counter deck.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Approximately how many cards are in the Shrouded Fable main set?",
+      "options": [
+        { "id": "a", "text": "64", "isCorrect": true },
+        { "id": "b", "text": "151", "isCorrect": false },
+        { "id": "c", "text": "200", "isCorrect": false },
+        { "id": "d", "text": "100", "isCorrect": false }
+      ],
+      "explanation": "Shrouded Fable has 64 cards in the main set, plus secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which other character is featured as a Supporter in Shrouded Fable?",
+      "options": [
+        { "id": "a", "text": "Briar", "isCorrect": false },
+        { "id": "b", "text": "Kieran", "isCorrect": true },
+        { "id": "c", "text": "Penny", "isCorrect": false },
+        { "id": "d", "text": "Drayton", "isCorrect": false }
+      ],
+      "explanation": "Kieran from The Teal Mask DLC has a Supporter card in Shrouded Fable.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Pecharunt ex's attack uses opponents' Bench Pokémon for extra damage.",
+      "correctAnswer": true,
+      "explanation": "Pecharunt ex's Mochi attack does damage based on toxic-related effects on the field.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What ACE SPEC card from Shrouded Fable saw heavy competitive play?",
+      "options": [
+        { "id": "a", "text": "Unfair Stamp", "isCorrect": true },
+        { "id": "b", "text": "Master Ball", "isCorrect": false },
+        { "id": "c", "text": "Prime Catcher", "isCorrect": false },
+        { "id": "d", "text": "Maximum Belt", "isCorrect": false }
+      ],
+      "explanation": "Unfair Stamp resets both players' hands after taking a prize — a powerful disruption ACE SPEC.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Shrouded Fable products were heavily impacted by speculation and scalping.",
+      "correctAnswer": true,
+      "explanation": "Like other special sets, demand outstripped supply at launch.",
+      "points": 10
+    }
+  ]
+}

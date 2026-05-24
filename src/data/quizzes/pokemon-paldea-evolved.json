@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-paldea-evolved",
+  "title": "TCG: Paldea Evolved",
+  "description": "Test your knowledge of the second SV expansion!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#7B1FA2",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Paldea Evolved released?",
+      "options": [
+        { "id": "a", "text": "March 2023", "isCorrect": false },
+        { "id": "b", "text": "June 2023", "isCorrect": true },
+        { "id": "c", "text": "August 2023", "isCorrect": false },
+        { "id": "d", "text": "October 2023", "isCorrect": false }
+      ],
+      "explanation": "Paldea Evolved launched June 9, 2023 as the second SV expansion.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which final evolution of the grass starter is featured as ex in Paldea Evolved?",
+      "options": [
+        { "id": "a", "text": "Meowscarada", "isCorrect": true },
+        { "id": "b", "text": "Skeledirge", "isCorrect": false },
+        { "id": "c", "text": "Quaquaval", "isCorrect": false },
+        { "id": "d", "text": "Decidueye", "isCorrect": false }
+      ],
+      "explanation": "Meowscarada ex, the final form of Sprigatito, debuts in Paldea Evolved.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Paldea Evolved features the fully evolved Paldean starters.",
+      "correctAnswer": true,
+      "explanation": "Meowscarada ex, Skeledirge ex, and Quaquaval ex all appear in this set.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which legendary Pokémon ex headlines Paldea Evolved?",
+      "options": [
+        { "id": "a", "text": "Mew ex", "isCorrect": false },
+        { "id": "b", "text": "Chien-Pao ex", "isCorrect": true },
+        { "id": "c", "text": "Mewtwo ex", "isCorrect": false },
+        { "id": "d", "text": "Rayquaza ex", "isCorrect": false }
+      ],
+      "explanation": "Chien-Pao ex from the Treasures of Ruin became a competitive standout.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Iono debuted as a Supporter card in Paldea Evolved.",
+      "correctAnswer": false,
+      "explanation": "Iono debuted in the Paldea Evolved expansion as one of its highlight Supporter cards.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which gym leader's signature Pokémon Tinkaton appears in this set?",
+      "options": [
+        { "id": "a", "text": "Larry", "isCorrect": false },
+        { "id": "b", "text": "Iono", "isCorrect": false },
+        { "id": "c", "text": "Tinkaton has no specific gym leader; it's a wild Pokémon", "isCorrect": true },
+        { "id": "d", "text": "Brassius", "isCorrect": false }
+      ],
+      "explanation": "Tinkaton is a wild Paldean Pokémon, not a gym leader signature.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many cards does the Paldea Evolved set contain?",
+      "options": [
+        { "id": "a", "text": "193", "isCorrect": false },
+        { "id": "b", "text": "279", "isCorrect": true },
+        { "id": "c", "text": "165", "isCorrect": false },
+        { "id": "d", "text": "320", "isCorrect": false }
+      ],
+      "explanation": "Paldea Evolved has 279 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Gardevoir ex from Paldea Evolved became a top-tier competitive deck.",
+      "correctAnswer": true,
+      "explanation": "Gardevoir ex's Psychic Embrace ability defined the Standard format for over a year.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which Special Illustration Rare Supporter became one of the most desired pulls?",
+      "options": [
+        { "id": "a", "text": "Iono", "isCorrect": true },
+        { "id": "b", "text": "Penny", "isCorrect": false },
+        { "id": "c", "text": "Larry", "isCorrect": false },
+        { "id": "d", "text": "Geeta", "isCorrect": false }
+      ],
+      "explanation": "Iono's SIR became one of the most popular and pricey chase cards.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Paldea Evolved continued the Tera Pokémon ex mechanic from the base set.",
+      "correctAnswer": true,
+      "explanation": "Tera Pokémon ex cards continued to appear, including Tera-type ex versions.",
+      "points": 10
+    }
+  ]
+}

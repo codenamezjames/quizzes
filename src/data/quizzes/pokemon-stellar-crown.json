@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-stellar-crown",
+  "title": "TCG: Stellar Crown",
+  "description": "Terapagos and the Stellar Tera type debut!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#FF6F00",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Stellar Crown released?",
+      "options": [
+        { "id": "a", "text": "September 2024", "isCorrect": true },
+        { "id": "b", "text": "July 2024", "isCorrect": false },
+        { "id": "c", "text": "November 2024", "isCorrect": false },
+        { "id": "d", "text": "August 2024", "isCorrect": false }
+      ],
+      "explanation": "Stellar Crown launched September 13, 2024.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which Pokémon ex headlines the set?",
+      "options": [
+        { "id": "a", "text": "Terapagos ex", "isCorrect": true },
+        { "id": "b", "text": "Pecharunt ex", "isCorrect": false },
+        { "id": "c", "text": "Ogerpon ex", "isCorrect": false },
+        { "id": "d", "text": "Miraidon ex", "isCorrect": false }
+      ],
+      "explanation": "Terapagos ex, including Terastal forms, is the centerpiece of the set.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Stellar Crown introduces the Stellar Tera type on Pokémon ex cards.",
+      "correctAnswer": true,
+      "explanation": "Stellar Tera Pokémon ex provide bonus damage against opposing ex Pokémon and pull from any type of Energy.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which competitive Stage 2 ex gained traction from Stellar Crown?",
+      "options": [
+        { "id": "a", "text": "Hydrapple ex", "isCorrect": true },
+        { "id": "b", "text": "Wugtrio ex", "isCorrect": false },
+        { "id": "c", "text": "Dudunsparce ex", "isCorrect": false },
+        { "id": "d", "text": "Iron Boulder ex", "isCorrect": false }
+      ],
+      "explanation": "Hydrapple ex's Syrupy Hold ability became central to a new top deck.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Lacey debuts as a Supporter in Stellar Crown.",
+      "correctAnswer": true,
+      "explanation": "Lacey from Indigo Disk DLC debuts as a powerful draw Supporter card.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Approximately how many cards are in the Stellar Crown set?",
+      "options": [
+        { "id": "a", "text": "175", "isCorrect": true },
+        { "id": "b", "text": "300", "isCorrect": false },
+        { "id": "c", "text": "245", "isCorrect": false },
+        { "id": "d", "text": "151", "isCorrect": false }
+      ],
+      "explanation": "Stellar Crown has 175 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which other Tera-typed legendary appears in Stellar Crown?",
+      "options": [
+        { "id": "a", "text": "Tera Galarian Moltres ex", "isCorrect": false },
+        { "id": "b", "text": "Pawmot", "isCorrect": false },
+        { "id": "c", "text": "Hydreigon ex", "isCorrect": true },
+        { "id": "d", "text": "Tera Lapras ex", "isCorrect": false }
+      ],
+      "explanation": "Hydreigon ex appears as a notable powerful ex in Stellar Crown.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Terapagos ex has both a base ex and a Terastal Form ex in this set.",
+      "correctAnswer": true,
+      "explanation": "Terapagos ex appears in normal form and as Terapagos ex Terastal Form (Stellar Tera).",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which ACE SPEC card from Stellar Crown is widely used?",
+      "options": [
+        { "id": "a", "text": "Neutralization Zone", "isCorrect": true },
+        { "id": "b", "text": "Prime Catcher", "isCorrect": false },
+        { "id": "c", "text": "Maximum Belt", "isCorrect": false },
+        { "id": "d", "text": "Computer Search", "isCorrect": false }
+      ],
+      "explanation": "Neutralization Zone Stadium nullifies ex-bonus prizes — a powerful disruption tool.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Stellar Crown is the seventh main SV expansion.",
+      "correctAnswer": true,
+      "explanation": "Stellar Crown is the 7th main set in the Scarlet & Violet era.",
+      "points": 10
+    }
+  ]
+}

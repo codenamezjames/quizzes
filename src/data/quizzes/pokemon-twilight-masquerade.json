@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-twilight-masquerade",
+  "title": "TCG: Twilight Masquerade",
+  "description": "Ogerpon and the Loyal Three take the stage!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#6A1B9A",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Twilight Masquerade released?",
+      "options": [
+        { "id": "a", "text": "May 2024", "isCorrect": true },
+        { "id": "b", "text": "March 2024", "isCorrect": false },
+        { "id": "c", "text": "August 2024", "isCorrect": false },
+        { "id": "d", "text": "July 2024", "isCorrect": false }
+      ],
+      "explanation": "Twilight Masquerade launched May 24, 2024.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which Pokémon is the central focus of Twilight Masquerade?",
+      "options": [
+        { "id": "a", "text": "Ogerpon", "isCorrect": true },
+        { "id": "b", "text": "Pecharunt", "isCorrect": false },
+        { "id": "c", "text": "Terapagos", "isCorrect": false },
+        { "id": "d", "text": "Calyrex", "isCorrect": false }
+      ],
+      "explanation": "Ogerpon from The Teal Mask DLC is the star, with all four mask forms featured.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "All four of Ogerpon's mask forms appear as ex cards in this set.",
+      "correctAnswer": true,
+      "explanation": "Teal, Wellspring, Hearthflame, and Cornerstone Mask Ogerpon ex all debut here.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which of the Loyal Three is NOT in Twilight Masquerade?",
+      "options": [
+        { "id": "a", "text": "Okidogi", "isCorrect": false },
+        { "id": "b", "text": "Munkidori", "isCorrect": false },
+        { "id": "c", "text": "Fezandipiti", "isCorrect": false },
+        { "id": "d", "text": "All three are in the set", "isCorrect": true }
+      ],
+      "explanation": "Okidogi, Munkidori, and Fezandipiti — the Loyal Three — all appear as ex cards.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Greninja ex from Twilight Masquerade became a top-tier deck.",
+      "correctAnswer": true,
+      "explanation": "Greninja ex's Shinobi Blade ability and Stage 2 line led to multiple regional wins.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which Special Illustration Rare became a fan favorite?",
+      "options": [
+        { "id": "a", "text": "Teal Mask Ogerpon ex SIR", "isCorrect": true },
+        { "id": "b", "text": "Lillie SIR", "isCorrect": false },
+        { "id": "c", "text": "Iono SIR", "isCorrect": false },
+        { "id": "d", "text": "Cynthia SIR", "isCorrect": false }
+      ],
+      "explanation": "Teal Mask Ogerpon ex's SIR is among the most popular pulls from the set.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many cards does Twilight Masquerade contain?",
+      "options": [
+        { "id": "a", "text": "167", "isCorrect": false },
+        { "id": "b", "text": "226", "isCorrect": true },
+        { "id": "c", "text": "300", "isCorrect": false },
+        { "id": "d", "text": "190", "isCorrect": false }
+      ],
+      "explanation": "Twilight Masquerade has 226 cards including secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Carmine debuts as a Supporter card in Twilight Masquerade.",
+      "correctAnswer": true,
+      "explanation": "Carmine, a character from The Teal Mask DLC, debuts as a Supporter in this set.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which mechanic continues to appear in Twilight Masquerade?",
+      "options": [
+        { "id": "a", "text": "ACE SPEC cards", "isCorrect": true },
+        { "id": "b", "text": "GX attacks", "isCorrect": false },
+        { "id": "c", "text": "VMAX evolutions", "isCorrect": false },
+        { "id": "d", "text": "Mega Evolution", "isCorrect": false }
+      ],
+      "explanation": "ACE SPEC cards continue from Temporal Forces with new entries in TWM.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Twilight Masquerade is the sixth main SV expansion.",
+      "correctAnswer": true,
+      "explanation": "It is the 6th main set in the Scarlet & Violet era.",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "pokemon-paldean-fates",
+  "title": "TCG: Paldean Fates",
+  "description": "Shiny Pokémon take center stage in this special set!",
+  "icon": "style",
+  "category": "Pokemon TCG",
+  "coverColor": "#FFD600",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "When was Paldean Fates released?",
+      "options": [
+        { "id": "a", "text": "January 2024", "isCorrect": true },
+        { "id": "b", "text": "March 2024", "isCorrect": false },
+        { "id": "c", "text": "November 2023", "isCorrect": false },
+        { "id": "d", "text": "May 2024", "isCorrect": false }
+      ],
+      "explanation": "Paldean Fates launched January 26, 2024.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is the main theme of Paldean Fates?",
+      "options": [
+        { "id": "a", "text": "Mythical Pokémon", "isCorrect": false },
+        { "id": "b", "text": "Shiny Pokémon from Paldea", "isCorrect": true },
+        { "id": "c", "text": "Tera Pokémon", "isCorrect": false },
+        { "id": "d", "text": "Legendary Pokémon", "isCorrect": false }
+      ],
+      "explanation": "Paldean Fates focuses on Shiny Pokémon from the Paldea region.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Paldean Fates is a special set, similar to Hidden Fates and Shining Fates.",
+      "correctAnswer": true,
+      "explanation": "It continues the 'Fates' tradition of shiny-focused special sets.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which shiny chase card became the most popular pull?",
+      "options": [
+        { "id": "a", "text": "Shiny Charizard ex", "isCorrect": true },
+        { "id": "b", "text": "Shiny Mew ex", "isCorrect": false },
+        { "id": "c", "text": "Shiny Greninja ex", "isCorrect": false },
+        { "id": "d", "text": "Shiny Garchomp", "isCorrect": false }
+      ],
+      "explanation": "Shiny Charizard ex was the most coveted chase card from Paldean Fates.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Paldean Fates introduced Baby Shiny cards in a smaller print run.",
+      "correctAnswer": true,
+      "explanation": "'Baby Shinies' are the smaller-art shiny variants with bracket marks around their names.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which shiny Pokémon ex from Paldea appears as a Special Illustration Rare?",
+      "options": [
+        { "id": "a", "text": "Shiny Ceruledge ex", "isCorrect": false },
+        { "id": "b", "text": "Shiny Iron Hands ex", "isCorrect": false },
+        { "id": "c", "text": "Shiny Roaring Moon ex", "isCorrect": false },
+        { "id": "d", "text": "All of the above", "isCorrect": true }
+      ],
+      "explanation": "Paldean Fates includes shiny SIR versions of several Paradox and Paldean ex Pokémon.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "How many cards are in the Paldean Fates set?",
+      "options": [
+        { "id": "a", "text": "245", "isCorrect": true },
+        { "id": "b", "text": "165", "isCorrect": false },
+        { "id": "c", "text": "300", "isCorrect": false },
+        { "id": "d", "text": "180", "isCorrect": false }
+      ],
+      "explanation": "Paldean Fates has 245 cards including its Shiny subset and secret rares.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Paldean Fates ETB came with a Great Tusk ex promo.",
+      "correctAnswer": true,
+      "explanation": "The Elite Trainer Box was bundled with a Great Tusk ex promo card.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which Paradox Pokémon got a shiny ex card in Paldean Fates?",
+      "options": [
+        { "id": "a", "text": "Iron Bundle ex", "isCorrect": false },
+        { "id": "b", "text": "Iron Hands ex", "isCorrect": true },
+        { "id": "c", "text": "Iron Jugulis", "isCorrect": false },
+        { "id": "d", "text": "Walking Wake", "isCorrect": false }
+      ],
+      "explanation": "Shiny Iron Hands ex is one of the chase shiny ex pulls.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Paldean Fates products were notoriously hard to find at launch.",
+      "correctAnswer": true,
+      "explanation": "Like Pokémon 151, Paldean Fates was plagued by shortages and scalping at launch.",
+      "points": 10
+    }
+  ]
+}
