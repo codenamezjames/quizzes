@@ -149,6 +149,142 @@
       "correctAnswer": true,
       "explanation": "Inosuke developed Beast Breathing on his own while living in the mountains, without any formal training!",
       "points": 10
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "question": "Who is the Water Hashira who recommended Tanjiro to Final Selection?",
+      "options": [
+        { "id": "a", "text": "Sakonji Urokodaki", "isCorrect": false },
+        { "id": "b", "text": "Giyu Tomioka", "isCorrect": true },
+        { "id": "c", "text": "Sabito", "isCorrect": false },
+        { "id": "d", "text": "Muichiro Tokito", "isCorrect": false }
+      ],
+      "explanation": "Giyu Tomioka spared Nezuko and sent Tanjiro to train under Sakonji Urokodaki.",
+      "points": 10
+    },
+    {
+      "id": "q15",
+      "type": "multiple-choice",
+      "question": "What is the name of Tanjiro's master who trained him in Water Breathing?",
+      "options": [
+        { "id": "a", "text": "Jigoro Kuwajima", "isCorrect": false },
+        { "id": "b", "text": "Shinjuro Rengoku", "isCorrect": false },
+        { "id": "c", "text": "Sakonji Urokodaki", "isCorrect": true },
+        { "id": "d", "text": "Tengen Uzui", "isCorrect": false }
+      ],
+      "explanation": "Sakonji Urokodaki, the former Water Hashira, wears a tengu mask and trained Tanjiro.",
+      "points": 10
+    },
+    {
+      "id": "q16",
+      "type": "true-false",
+      "question": "Nichirin swords are forged from ore that absorbs sunlight.",
+      "correctAnswer": true,
+      "explanation": "Nichirin blades come from Scarlet Crimson Iron Sand and Scarlet Crimson Ore atop Mt. Yoko, which absorb sunlight.",
+      "points": 10
+    },
+    {
+      "id": "q17",
+      "type": "multiple-choice",
+      "question": "Which Upper Moon demon kills Kyojuro Rengoku?",
+      "options": [
+        { "id": "a", "text": "Doma (Upper Moon Two)", "isCorrect": false },
+        { "id": "b", "text": "Akaza (Upper Moon Three)", "isCorrect": true },
+        { "id": "c", "text": "Hantengu (Upper Moon Four)", "isCorrect": false },
+        { "id": "d", "text": "Gyokko (Upper Moon Five)", "isCorrect": false }
+      ],
+      "explanation": "Akaza killed Rengoku at the end of the Mugen Train arc after a fierce battle.",
+      "points": 10
+    },
+    {
+      "id": "q18",
+      "type": "multiple-choice",
+      "question": "What is the only thing besides sunlight that can permanently kill a demon?",
+      "options": [
+        { "id": "a", "text": "Silver bullets", "isCorrect": false },
+        { "id": "b", "text": "A Nichirin sword to the neck", "isCorrect": true },
+        { "id": "c", "text": "Holy water", "isCorrect": false },
+        { "id": "d", "text": "Fire", "isCorrect": false }
+      ],
+      "explanation": "Beheading with a Nichirin blade is the only weapon-based way to kill a demon, besides Wisteria poison.",
+      "points": 10
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "question": "Wisteria flowers are poisonous to demons.",
+      "correctAnswer": true,
+      "explanation": "Demons cannot tolerate wisteria; demon slayers use wisteria-extract poison and shelter in homes surrounded by wisteria.",
+      "points": 10
+    },
+    {
+      "id": "q20",
+      "type": "multiple-choice",
+      "question": "Who is the master of the Demon Slayer Corps?",
+      "options": [
+        { "id": "a", "text": "Kagaya Ubuyashiki", "isCorrect": true },
+        { "id": "b", "text": "Yoriichi Tsugikuni", "isCorrect": false },
+        { "id": "c", "text": "Sakonji Urokodaki", "isCorrect": false },
+        { "id": "d", "text": "Kyojuro Rengoku", "isCorrect": false }
+      ],
+      "explanation": "Kagaya Ubuyashiki leads the Corps; his family is cursed due to its bloodline tie to Muzan.",
+      "points": 10
+    },
+    {
+      "id": "q21",
+      "type": "multiple-choice",
+      "question": "Which Hashira uses Insect Breathing?",
+      "options": [
+        { "id": "a", "text": "Mitsuri Kanroji", "isCorrect": false },
+        { "id": "b", "text": "Shinobu Kocho", "isCorrect": true },
+        { "id": "c", "text": "Kanao Tsuyuri", "isCorrect": false },
+        { "id": "d", "text": "Aoi Kanzaki", "isCorrect": false }
+      ],
+      "explanation": "Shinobu Kocho is the Insect Hashira, who uses poison-infused stabs to kill demons.",
+      "points": 10
+    },
+    {
+      "id": "q22",
+      "type": "true-false",
+      "question": "Tengen Uzui, the Sound Hashira, has three wives who are kunoichi.",
+      "correctAnswer": true,
+      "explanation": "Tengen's wives Hinatsuru, Makio, and Suma are all shinobi who help him on missions.",
+      "points": 10
+    },
+    {
+      "id": "q23",
+      "type": "multiple-choice",
+      "question": "What is the name of the Mist Hashira?",
+      "options": [
+        { "id": "a", "text": "Gyomei Himejima", "isCorrect": false },
+        { "id": "b", "text": "Muichiro Tokito", "isCorrect": true },
+        { "id": "c", "text": "Obanai Iguro", "isCorrect": false },
+        { "id": "d", "text": "Sanemi Shinazugawa", "isCorrect": false }
+      ],
+      "explanation": "Muichiro Tokito is the young Mist Hashira and a descendant of Yoriichi's twin brother.",
+      "points": 10
+    },
+    {
+      "id": "q24",
+      "type": "multiple-choice",
+      "question": "Who is the strongest demon slayer in history?",
+      "options": [
+        { "id": "a", "text": "Kagaya Ubuyashiki", "isCorrect": false },
+        { "id": "b", "text": "Yoriichi Tsugikuni", "isCorrect": true },
+        { "id": "c", "text": "Sakonji Urokodaki", "isCorrect": false },
+        { "id": "d", "text": "Gyomei Himejima", "isCorrect": false }
+      ],
+      "explanation": "Yoriichi Tsugikuni, creator of Sun Breathing, was the strongest demon slayer ever and nearly killed Muzan.",
+      "points": 10
+    },
+    {
+      "id": "q25",
+      "type": "true-false",
+      "question": "All breathing styles ultimately derive from Sun Breathing.",
+      "correctAnswer": true,
+      "explanation": "Sun Breathing, created by Yoriichi, is the original style from which all other breathing techniques branched.",
+      "points": 10
     }
   ]
 }
