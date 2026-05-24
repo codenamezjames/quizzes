@@ -1,0 +1,125 @@
+{
+  "id": "jjk-curses",
+  "title": "JJK Cursed Spirits & Villains",
+  "description": "Sukuna, Mahito, Kenjaku and the demons of JJK!",
+  "icon": "skull",
+  "category": "Anime",
+  "coverColor": "#311B92",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What rank is Mahito as a cursed spirit?",
+      "options": [
+        { "id": "a", "text": "Grade 1", "isCorrect": false },
+        { "id": "b", "text": "Special Grade", "isCorrect": true },
+        { "id": "c", "text": "Semi-Grade 1", "isCorrect": false },
+        { "id": "d", "text": "Grade 2", "isCorrect": false }
+      ],
+      "explanation": "Mahito is a special grade cursed spirit born from humanity's fear of one another.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Jogo's element?",
+      "options": [
+        { "id": "a", "text": "Water", "isCorrect": false },
+        { "id": "b", "text": "Fire and volcanoes", "isCorrect": true },
+        { "id": "c", "text": "Wind", "isCorrect": false },
+        { "id": "d", "text": "Ice", "isCorrect": false }
+      ],
+      "explanation": "Jogo embodies fear of volcanoes and manipulates magma and flames.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Kenjaku is the sorcerer who has been hopping bodies for over a thousand years.",
+      "correctAnswer": true,
+      "explanation": "Kenjaku transfers his brain to new hosts via his cursed technique, including Geto's body.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Disaster Curse uses water as its element?",
+      "options": [
+        { "id": "a", "text": "Hanami", "isCorrect": false },
+        { "id": "b", "text": "Dagon", "isCorrect": true },
+        { "id": "c", "text": "Jogo", "isCorrect": false },
+        { "id": "d", "text": "Choso", "isCorrect": false }
+      ],
+      "explanation": "Dagon is a water-element Disaster Curse with the Horizon of the Captivating Skandha domain.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Sukuna is referred to as the King of Curses.",
+      "correctAnswer": true,
+      "explanation": "Ryomen Sukuna is the strongest cursed spirit, known as the undisputed King of Curses.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "What is Hanami's element?",
+      "options": [
+        { "id": "a", "text": "Plants and nature", "isCorrect": true },
+        { "id": "b", "text": "Earth", "isCorrect": false },
+        { "id": "c", "text": "Lightning", "isCorrect": false },
+        { "id": "d", "text": "Sound", "isCorrect": false }
+      ],
+      "explanation": "Hanami manipulates plants, born from fear of nature's wrath against humans.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which cursed spirits are siblings in the Shibuya arc?",
+      "options": [
+        { "id": "a", "text": "Mahito and Jogo", "isCorrect": false },
+        { "id": "b", "text": "Choso, Eso, and Kechizu (Death Painting brothers)", "isCorrect": true },
+        { "id": "c", "text": "Dagon and Hanami", "isCorrect": false },
+        { "id": "d", "text": "Jogo and Hanami", "isCorrect": false }
+      ],
+      "explanation": "Choso, Eso, and Kechizu are the Death Painting Wombs, created by Noritoshi Kamo (Kenjaku).",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Suguru Geto's true cursed technique was Cursed Spirit Manipulation.",
+      "correctAnswer": true,
+      "explanation": "Geto could absorb and command exorcised cursed spirits.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "How does a cursed spirit form?",
+      "options": [
+        { "id": "a", "text": "From the souls of deceased humans", "isCorrect": false },
+        { "id": "b", "text": "From accumulated negative emotions of humans", "isCorrect": true },
+        { "id": "c", "text": "From Muzan's blood", "isCorrect": false },
+        { "id": "d", "text": "From cursed objects", "isCorrect": false }
+      ],
+      "explanation": "Cursed spirits manifest from undirected negative human emotion like fear, hate, and regret.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "What is the Prison Realm?",
+      "options": [
+        { "id": "a", "text": "A special grade cursed object that seals sorcerers", "isCorrect": true },
+        { "id": "b", "text": "Sukuna's domain", "isCorrect": false },
+        { "id": "c", "text": "A jujutsu prison in Tokyo", "isCorrect": false },
+        { "id": "d", "text": "Megumi's most powerful shikigami", "isCorrect": false }
+      ],
+      "explanation": "The Prison Realm is a special grade cursed object that sealed Gojo during Shibuya.",
+      "points": 10
+    }
+  ]
+}

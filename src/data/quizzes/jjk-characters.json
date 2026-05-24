@@ -1,0 +1,125 @@
+{
+  "id": "jjk-characters",
+  "title": "JJK Characters",
+  "description": "How well do you know the cast of Jujutsu Kaisen?",
+  "icon": "people",
+  "category": "Anime",
+  "coverColor": "#283593",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Where is Yuji Itadori originally from?",
+      "options": [
+        { "id": "a", "text": "Sendai", "isCorrect": true },
+        { "id": "b", "text": "Tokyo", "isCorrect": false },
+        { "id": "c", "text": "Osaka", "isCorrect": false },
+        { "id": "d", "text": "Kyoto", "isCorrect": false }
+      ],
+      "explanation": "Yuji grew up in Sendai with his grandfather Wasuke.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What is Nobara Kugisaki's preferred weapon?",
+      "options": [
+        { "id": "a", "text": "Katana", "isCorrect": false },
+        { "id": "b", "text": "Hammer and nails", "isCorrect": true },
+        { "id": "c", "text": "Bow and arrows", "isCorrect": false },
+        { "id": "d", "text": "Spear", "isCorrect": false }
+      ],
+      "explanation": "Nobara channels cursed energy through nails she drives into targets with a hammer.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Megumi Fushiguro's surname Fushiguro comes from his mother's side.",
+      "correctAnswer": true,
+      "explanation": "Toji took the Fushiguro name from his wife when leaving the Zenin clan.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Who is Maki Zenin's twin sister?",
+      "options": [
+        { "id": "a", "text": "Mai Zenin", "isCorrect": true },
+        { "id": "b", "text": "Momo Nishimiya", "isCorrect": false },
+        { "id": "c", "text": "Kasumi Miwa", "isCorrect": false },
+        { "id": "d", "text": "Mei Mei", "isCorrect": false }
+      ],
+      "explanation": "Mai Zenin is Maki's twin, born with cursed energy unlike Maki.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Which Kyoto student wields a sword named Playful Cloud?",
+      "options": [
+        { "id": "a", "text": "Aoi Todo", "isCorrect": true },
+        { "id": "b", "text": "Kasumi Miwa", "isCorrect": false },
+        { "id": "c", "text": "Kokichi Muta", "isCorrect": false },
+        { "id": "d", "text": "Noritoshi Kamo", "isCorrect": false }
+      ],
+      "explanation": "Playful Cloud is actually a three-section staff cursed tool wielded by Todo.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Kasumi Miwa specializes in a Simple Domain technique called New Shadow Style.",
+      "correctAnswer": true,
+      "explanation": "Miwa learned the New Shadow Style: Simple Domain from Hakari and others to counter domains.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Yuta Okkotsu's relationship to Satoru Gojo?",
+      "options": [
+        { "id": "a", "text": "Cousin via the Gojo branch family", "isCorrect": true },
+        { "id": "b", "text": "Childhood friend", "isCorrect": false },
+        { "id": "c", "text": "Adopted brother", "isCorrect": false },
+        { "id": "d", "text": "Unrelated", "isCorrect": false }
+      ],
+      "explanation": "Yuta is a distant relative of Gojo, descending from Sugawara no Michizane.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "Which character is the principal of Kyoto Jujutsu High?",
+      "options": [
+        { "id": "a", "text": "Masamichi Yaga", "isCorrect": false },
+        { "id": "b", "text": "Yoshinobu Gakuganji", "isCorrect": true },
+        { "id": "c", "text": "Atsuya Kusakabe", "isCorrect": false },
+        { "id": "d", "text": "Utahime Iori", "isCorrect": false }
+      ],
+      "explanation": "Gakuganji leads Kyoto Jujutsu High and conspires with conservative higher-ups.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Choso considers Yuji Itadori his younger brother.",
+      "correctAnswer": true,
+      "explanation": "Choso's death-painting brothers are tied to Yuji through Kenjaku's experiments on Yuji's mother.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "Which character is the Number 1 grade sorcerer beside Gojo?",
+      "options": [
+        { "id": "a", "text": "Yuki Tsukumo", "isCorrect": true },
+        { "id": "b", "text": "Naoya Zenin", "isCorrect": false },
+        { "id": "c", "text": "Mei Mei", "isCorrect": false },
+        { "id": "d", "text": "Yuta Okkotsu", "isCorrect": false }
+      ],
+      "explanation": "Yuki Tsukumo is one of the four special-grade jujutsu sorcerers along with Gojo, Yuta, and Geto.",
+      "points": 10
+    }
+  ]
+}

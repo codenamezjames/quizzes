@@ -1,0 +1,125 @@
+{
+  "id": "jjk-techniques",
+  "title": "JJK Techniques & Domains",
+  "description": "Domain expansions, cursed techniques, and Black Flash!",
+  "icon": "auto_fix_high",
+  "category": "Anime",
+  "coverColor": "#4527A0",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What does Gojo's Infinity technique do?",
+      "options": [
+        { "id": "a", "text": "Stops time", "isCorrect": false },
+        { "id": "b", "text": "Slows objects approaching him to zero", "isCorrect": true },
+        { "id": "c", "text": "Reflects damage back", "isCorrect": false },
+        { "id": "d", "text": "Heals all wounds", "isCorrect": false }
+      ],
+      "explanation": "Infinity inserts an asymptotic distance, so things approach but never reach Gojo.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What are Gojo's two cursed technique attacks called?",
+      "options": [
+        { "id": "a", "text": "Lapse and Reversal: Red", "isCorrect": false },
+        { "id": "b", "text": "Cursed Technique Lapse: Blue and Cursed Technique Reversal: Red", "isCorrect": true },
+        { "id": "c", "text": "Hollow and Purple", "isCorrect": false },
+        { "id": "d", "text": "Black Flash and Imaginary", "isCorrect": false }
+      ],
+      "explanation": "Blue attracts (lapse), Red repels (reversal), and Hollow Purple combines them.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Sukuna's Dismantle is an attack that cuts targets with one stroke.",
+      "correctAnswer": true,
+      "explanation": "Dismantle (Kaisen) cleaves enemies with a slashing cursed technique.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is Toge Inumaki's cursed technique?",
+      "options": [
+        { "id": "a", "text": "Cursed Speech", "isCorrect": true },
+        { "id": "b", "text": "Boogie Woogie", "isCorrect": false },
+        { "id": "c", "text": "Construction", "isCorrect": false },
+        { "id": "d", "text": "Ten Shadows", "isCorrect": false }
+      ],
+      "explanation": "Inumaki's Cursed Speech forces compliance with whatever he says, so he limits speech to onigiri ingredients.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Simple Domain is a counter to Domain Expansion's sure-hit effect.",
+      "correctAnswer": true,
+      "explanation": "Simple Domain creates a 4-meter sphere that negates the sure-hit effect within its range.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Which technique allows the user to manipulate blood?",
+      "options": [
+        { "id": "a", "text": "Boogie Woogie", "isCorrect": false },
+        { "id": "b", "text": "Blood Manipulation", "isCorrect": true },
+        { "id": "c", "text": "Construction", "isCorrect": false },
+        { "id": "d", "text": "Disaster Tides", "isCorrect": false }
+      ],
+      "explanation": "Blood Manipulation is the Kamo family's inherited technique, used by Noritoshi and Choso.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "What is Hakari Kinji's domain expansion called?",
+      "options": [
+        { "id": "a", "text": "Idle Death Gamble", "isCorrect": true },
+        { "id": "b", "text": "Coffin of the Iron Mountain", "isCorrect": false },
+        { "id": "c", "text": "Time Cell Moon Palace", "isCorrect": false },
+        { "id": "d", "text": "Horizon of the Captivating Skandha", "isCorrect": false }
+      ],
+      "explanation": "Idle Death Gamble is a pachinko-themed domain that grants infinite cursed energy on jackpot.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Black Flash applies 2.5x damage when cursed energy is applied within 0.000001 seconds of contact.",
+      "correctAnswer": true,
+      "explanation": "Black Flash distorts space and multiplies the base damage by 2.5x.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which Kyoto sorcerer creates and pilots cursed corpses remotely?",
+      "options": [
+        { "id": "a", "text": "Kokichi Muta (Mechamaru)", "isCorrect": true },
+        { "id": "b", "text": "Aoi Todo", "isCorrect": false },
+        { "id": "c", "text": "Noritoshi Kamo", "isCorrect": false },
+        { "id": "d", "text": "Kasumi Miwa", "isCorrect": false }
+      ],
+      "explanation": "Muta's Heavenly Restriction confines him; he pilots Mechamaru via Puppet Manipulation.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "What is required to open a complete Domain Expansion?",
+      "options": [
+        { "id": "a", "text": "A barrier and a sure-hit cursed technique", "isCorrect": true },
+        { "id": "b", "text": "A cursed tool", "isCorrect": false },
+        { "id": "c", "text": "The user's blood", "isCorrect": false },
+        { "id": "d", "text": "A binding vow", "isCorrect": false }
+      ],
+      "explanation": "Domain Expansion requires constructing an innate domain (barrier) and applying a sure-hit technique inside.",
+      "points": 10
+    }
+  ]
+}

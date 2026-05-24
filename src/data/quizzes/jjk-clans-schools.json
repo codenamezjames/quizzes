@@ -1,0 +1,125 @@
+{
+  "id": "jjk-clans-schools",
+  "title": "JJK Clans & Schools",
+  "description": "Big Three Clans, Tokyo and Kyoto Jujutsu Highs, and Culling Game!",
+  "icon": "school",
+  "category": "Anime",
+  "coverColor": "#1B5E20",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Which three families make up the Big Three Sorcerer Clans?",
+      "options": [
+        { "id": "a", "text": "Gojo, Zenin, Kamo", "isCorrect": true },
+        { "id": "b", "text": "Fushiguro, Itadori, Okkotsu", "isCorrect": false },
+        { "id": "c", "text": "Zenin, Inumaki, Kamo", "isCorrect": false },
+        { "id": "d", "text": "Gojo, Zenin, Tsukumo", "isCorrect": false }
+      ],
+      "explanation": "The Gojo, Zenin, and Kamo families are the Big Three Clans of jujutsu society.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Which clan inherits the Ten Shadows Technique?",
+      "options": [
+        { "id": "a", "text": "Gojo", "isCorrect": false },
+        { "id": "b", "text": "Zenin", "isCorrect": true },
+        { "id": "c", "text": "Kamo", "isCorrect": false },
+        { "id": "d", "text": "Inumaki", "isCorrect": false }
+      ],
+      "explanation": "Ten Shadows is the Zenin family's inherited technique, used by Megumi Fushiguro.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "The Six Eyes and Limitless techniques only manifest together once every few centuries.",
+      "correctAnswer": true,
+      "explanation": "The combination of Six Eyes and Limitless is exceedingly rare, with Gojo being the first in 400 years.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the Culling Game?",
+      "options": [
+        { "id": "a", "text": "A tournament between Tokyo and Kyoto schools", "isCorrect": false },
+        { "id": "b", "text": "Kenjaku's ritual that traps sorcerers in death-match colonies", "isCorrect": true },
+        { "id": "c", "text": "A test for first-year students", "isCorrect": false },
+        { "id": "d", "text": "A festival to honor Tengen", "isCorrect": false }
+      ],
+      "explanation": "Kenjaku activates the Culling Game across colonies of incarnated ancient sorcerers and modern humans.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "Who is the immortal star plasma vessel keeping Tengen tethered to humanity?",
+      "options": [
+        { "id": "a", "text": "Riko Amanai", "isCorrect": false },
+        { "id": "b", "text": "Tsumiki Fushiguro / Yorozu", "isCorrect": false },
+        { "id": "c", "text": "Tengen merges with a Star Plasma Vessel periodically", "isCorrect": true },
+        { "id": "d", "text": "Master Tengen needs no vessel", "isCorrect": false }
+      ],
+      "explanation": "Tengen periodically merges with a Star Plasma Vessel to avoid evolving past humanity; Riko was a candidate.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The Goodwill Event is a yearly competition between Tokyo and Kyoto Jujutsu High.",
+      "correctAnswer": true,
+      "explanation": "The Goodwill Event pits the two schools' students against each other in team-based events.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which Kyoto sorcerer briefly serves as a translator-themed support?",
+      "options": [
+        { "id": "a", "text": "Utahime Iori", "isCorrect": true },
+        { "id": "b", "text": "Mei Mei", "isCorrect": false },
+        { "id": "c", "text": "Kasumi Miwa", "isCorrect": false },
+        { "id": "d", "text": "Momo Nishimiya", "isCorrect": false }
+      ],
+      "explanation": "Utahime is a Kyoto assistant supervisor whose cursed song amplifies allies.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "The Tokyo Jujutsu High first-year curriculum includes mandatory missions exorcising real cursed spirits.",
+      "correctAnswer": true,
+      "explanation": "First-year sorcerers go on grade-rated missions almost immediately upon enrollment.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "Which clan once tried to control the Death Painting wombs?",
+      "options": [
+        { "id": "a", "text": "Gojo", "isCorrect": false },
+        { "id": "b", "text": "Kamo (via Noritoshi Kamo / Kenjaku)", "isCorrect": true },
+        { "id": "c", "text": "Inumaki", "isCorrect": false },
+        { "id": "d", "text": "Fushiguro", "isCorrect": false }
+      ],
+      "explanation": "Kenjaku, possessing the original Noritoshi Kamo, created the Death Painting Wombs experiments.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "What is the maximum grade for a cursed object/cursed tool classification?",
+      "options": [
+        { "id": "a", "text": "Grade 1", "isCorrect": false },
+        { "id": "b", "text": "Special Grade", "isCorrect": true },
+        { "id": "c", "text": "Grade S", "isCorrect": false },
+        { "id": "d", "text": "Grade 0", "isCorrect": false }
+      ],
+      "explanation": "Special grade is the highest classification, matching the sorcerer grading system.",
+      "points": 10
+    }
+  ]
+}

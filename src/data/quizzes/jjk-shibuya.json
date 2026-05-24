@@ -1,0 +1,125 @@
+{
+  "id": "jjk-shibuya",
+  "title": "JJK Shibuya Incident",
+  "description": "The pivotal Shibuya arc — Halloween night!",
+  "icon": "location_city",
+  "category": "Anime",
+  "coverColor": "#B71C1C",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "On what date does the Shibuya Incident take place?",
+      "options": [
+        { "id": "a", "text": "October 31", "isCorrect": true },
+        { "id": "b", "text": "December 24", "isCorrect": false },
+        { "id": "c", "text": "August 15", "isCorrect": false },
+        { "id": "d", "text": "March 14", "isCorrect": false }
+      ],
+      "explanation": "The Shibuya Incident occurs on Halloween night, October 31.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Who seals Gojo in the Prison Realm?",
+      "options": [
+        { "id": "a", "text": "Mahito", "isCorrect": false },
+        { "id": "b", "text": "Kenjaku (in Geto's body)", "isCorrect": true },
+        { "id": "c", "text": "Jogo", "isCorrect": false },
+        { "id": "d", "text": "Choso", "isCorrect": false }
+      ],
+      "explanation": "Kenjaku, posing as Geto, uses civilian leverage to seal Gojo in the Prison Realm.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Toji Fushiguro is briefly resurrected during the Shibuya Incident.",
+      "correctAnswer": true,
+      "explanation": "Granny Ogami's grandson summons Toji's soul, but Toji's consciousness takes over and kills himself again.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "Which Hashira-equivalent grade 1 sorcerer dies during Shibuya?",
+      "options": [
+        { "id": "a", "text": "Nanami Kento", "isCorrect": true },
+        { "id": "b", "text": "Mei Mei", "isCorrect": false },
+        { "id": "c", "text": "Naoya Zenin", "isCorrect": false },
+        { "id": "d", "text": "Yuta Okkotsu", "isCorrect": false }
+      ],
+      "explanation": "Nanami is killed by Mahito after being burned by Jogo during the chaos.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Sukuna unleashes Malevolent Shrine in Shibuya, leveling several wards.",
+      "correctAnswer": true,
+      "explanation": "Sukuna's Malevolent Shrine open-domain devastates a massive chunk of Shibuya.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Who finally exorcises Mahito?",
+      "options": [
+        { "id": "a", "text": "Yuji Itadori", "isCorrect": false },
+        { "id": "b", "text": "Kenjaku absorbs him", "isCorrect": true },
+        { "id": "c", "text": "Aoi Todo", "isCorrect": false },
+        { "id": "d", "text": "Megumi", "isCorrect": false }
+      ],
+      "explanation": "Just as Yuji is about to kill Mahito, Kenjaku absorbs him into his cursed spirit collection.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which character loses an arm fighting Mahito?",
+      "options": [
+        { "id": "a", "text": "Aoi Todo", "isCorrect": true },
+        { "id": "b", "text": "Megumi", "isCorrect": false },
+        { "id": "c", "text": "Yuji", "isCorrect": false },
+        { "id": "d", "text": "Nanami", "isCorrect": false }
+      ],
+      "explanation": "Todo loses his arm fighting Mahito alongside Yuji.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "Choso fights Yuji before realizing they share a bond as brothers.",
+      "correctAnswer": true,
+      "explanation": "Choso senses the blood bond with Yuji mid-fight and switches sides to help him.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "multiple-choice",
+      "question": "What is the rough civilian death toll of the Shibuya Incident?",
+      "options": [
+        { "id": "a", "text": "Hundreds", "isCorrect": false },
+        { "id": "b", "text": "Tens of thousands", "isCorrect": true },
+        { "id": "c", "text": "Less than 100", "isCorrect": false },
+        { "id": "d", "text": "Millions", "isCorrect": false }
+      ],
+      "explanation": "Roughly 30,000+ civilians die as a result of the curses and Sukuna's rampage.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "Who survives Sukuna's Malevolent Shrine using Reverse Cursed Technique?",
+      "options": [
+        { "id": "a", "text": "Megumi", "isCorrect": false },
+        { "id": "b", "text": "Choso", "isCorrect": true },
+        { "id": "c", "text": "Inumaki", "isCorrect": false },
+        { "id": "d", "text": "Maki", "isCorrect": false }
+      ],
+      "explanation": "Choso uses RCT and his Blood Manipulation to survive Sukuna's domain.",
+      "points": 10
+    }
+  ]
+}
