@@ -201,6 +201,12 @@ export const categoryMeta = {
     icon: 'visibility',
     color: '#AD1457',
   },
+  memes: {
+    title: 'Internet Memes',
+    description: 'Iconic memes from across the internet!',
+    icon: 'sentiment_very_satisfied',
+    color: '#FF6F00',
+  },
 }
 
 export const quizManifest = [
@@ -1222,6 +1228,17 @@ export const quizManifest = [
     category: 'katseye',
     coverColor: '#AD1457',
     loader: () => import('./katseye.json'),
+  },
+
+  // Internet Memes quizzes
+  {
+    id: 'memes',
+    title: 'Internet Memes',
+    description: 'Test your knowledge of iconic internet memes!',
+    icon: 'sentiment_very_satisfied',
+    category: 'memes',
+    coverColor: '#FF6F00',
+    loader: () => import('./memes.json'),
   },
 ]
 

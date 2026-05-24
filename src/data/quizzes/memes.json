@@ -1,0 +1,180 @@
+{
+  "id": "memes",
+  "title": "Internet Memes",
+  "description": "Test your knowledge of iconic internet memes!",
+  "icon": "sentiment_very_satisfied",
+  "category": "Internet",
+  "coverColor": "#FF6F00",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the name of the cat from the 'I Can Has Cheezburger?' meme?",
+      "options": [
+        { "id": "a", "text": "Grumpy Cat", "isCorrect": false },
+        { "id": "b", "text": "Happy Cat", "isCorrect": true },
+        { "id": "c", "text": "Nyan Cat", "isCorrect": false },
+        { "id": "d", "text": "Keyboard Cat", "isCorrect": false }
+      ],
+      "explanation": "The wide-mouthed grey cat from the 2007 LOLcat meme is known as Happy Cat or 'Cheezburger Cat'.",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "What was the real name of Grumpy Cat?",
+      "options": [
+        { "id": "a", "text": "Whiskers", "isCorrect": false },
+        { "id": "b", "text": "Tardar Sauce", "isCorrect": true },
+        { "id": "c", "text": "Mittens", "isCorrect": false },
+        { "id": "d", "text": "Snowball", "isCorrect": false }
+      ],
+      "explanation": "Grumpy Cat's real name was Tardar Sauce. She passed away in 2019.",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true-false",
+      "question": "Rickrolling involves tricking someone into watching Rick Astley's 'Never Gonna Give You Up'.",
+      "correctAnswer": true,
+      "explanation": "The classic bait-and-switch meme dates back to 2007 on 4chan.",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is the green frog meme called?",
+      "options": [
+        { "id": "a", "text": "Frogger", "isCorrect": false },
+        { "id": "b", "text": "Pepe the Frog", "isCorrect": true },
+        { "id": "c", "text": "Kermit Jr.", "isCorrect": false },
+        { "id": "d", "text": "Slippy", "isCorrect": false }
+      ],
+      "explanation": "Pepe the Frog was created by Matt Furie in his comic 'Boy's Club' in 2005.",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple-choice",
+      "question": "What does 'TFW' stand for in meme culture?",
+      "options": [
+        { "id": "a", "text": "That Feeling When", "isCorrect": true },
+        { "id": "b", "text": "Too Funny Whatever", "isCorrect": false },
+        { "id": "c", "text": "The Final Word", "isCorrect": false },
+        { "id": "d", "text": "Trolling For Wins", "isCorrect": false }
+      ],
+      "explanation": "TFW means 'That Feeling When' — commonly paired with the Wojak face.",
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "The 'Distracted Boyfriend' meme is a stock photo by Antonio Guillem.",
+      "correctAnswer": true,
+      "explanation": "The viral image was originally a stock photo by Spanish photographer Antonio Guillem in 2015.",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Which Shiba Inu became the face of the 'Doge' meme?",
+      "options": [
+        { "id": "a", "text": "Maru", "isCorrect": false },
+        { "id": "b", "text": "Kabosu", "isCorrect": true },
+        { "id": "c", "text": "Boo", "isCorrect": false },
+        { "id": "d", "text": "Hachi", "isCorrect": false }
+      ],
+      "explanation": "Kabosu, a rescued Shiba Inu from Japan, became the iconic Doge meme. She passed away in 2024.",
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "type": "multiple-choice",
+      "question": "What is the catchphrase associated with the 'It's Over 9000!' meme?",
+      "options": [
+        { "id": "a", "text": "Bazinga!", "isCorrect": false },
+        { "id": "b", "text": "What does the scouter say about his power level?", "isCorrect": true },
+        { "id": "c", "text": "Cowabunga!", "isCorrect": false },
+        { "id": "d", "text": "Believe it!", "isCorrect": false }
+      ],
+      "explanation": "The line comes from the Dragon Ball Z dub where Vegeta exclaims 'It's over 9000!' about Goku's power level.",
+      "points": 10
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "The 'Harambe' meme refers to a gorilla shot at the Cincinnati Zoo in 2016.",
+      "correctAnswer": true,
+      "explanation": "Harambe was shot to protect a child who fell into his enclosure, sparking massive internet memes.",
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "type": "multiple-choice",
+      "question": "Who is the 'Side Eye Chloe' meme based on?",
+      "options": [
+        { "id": "a", "text": "A Disney character", "isCorrect": false },
+        { "id": "b", "text": "A young girl reacting to news she was going to Disneyland", "isCorrect": true },
+        { "id": "c", "text": "A British TV character", "isCorrect": false },
+        { "id": "d", "text": "A cartoon child", "isCorrect": false }
+      ],
+      "explanation": "The viral image was 2-year-old Chloe Clem reacting to surprise news of a Disneyland trip in 2013.",
+      "points": 10
+    },
+    {
+      "id": "q11",
+      "type": "multiple-choice",
+      "question": "What animal is featured in the 'Doge' meme?",
+      "options": [
+        { "id": "a", "text": "Husky", "isCorrect": false },
+        { "id": "b", "text": "Shiba Inu", "isCorrect": true },
+        { "id": "c", "text": "Akita", "isCorrect": false },
+        { "id": "d", "text": "Corgi", "isCorrect": false }
+      ],
+      "explanation": "Doge uses a Shiba Inu — Japanese dog breed — paired with multicolor Comic Sans text.",
+      "points": 10
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "The phrase 'All your base are belong to us' originated from a poorly translated video game.",
+      "correctAnswer": true,
+      "explanation": "The phrase is from the 1989 Sega Mega Drive game 'Zero Wing'. The bad English translation went viral in the early 2000s.",
+      "points": 10
+    },
+    {
+      "id": "q13",
+      "type": "multiple-choice",
+      "question": "What does 'Stonks' typically refer to in meme culture?",
+      "options": [
+        { "id": "a", "text": "A misspelled version of 'stocks' depicting financial gains", "isCorrect": true },
+        { "id": "b", "text": "A type of dance", "isCorrect": false },
+        { "id": "c", "text": "A character from a game", "isCorrect": false },
+        { "id": "d", "text": "A movie quote", "isCorrect": false }
+      ],
+      "explanation": "Stonks is an intentionally misspelled 'stocks', usually paired with the Meme Man image and upward arrows.",
+      "points": 10
+    },
+    {
+      "id": "q14",
+      "type": "multiple-choice",
+      "question": "Which meme features a galaxy-brained man with expanding head?",
+      "options": [
+        { "id": "a", "text": "Wojak", "isCorrect": false },
+        { "id": "b", "text": "Expanding Brain", "isCorrect": true },
+        { "id": "c", "text": "Drake Reaction", "isCorrect": false },
+        { "id": "d", "text": "Bad Luck Brian", "isCorrect": false }
+      ],
+      "explanation": "The Expanding Brain (Galaxy Brain) meme depicts increasingly 'enlightened' ideas with brighter brains.",
+      "points": 10
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "question": "Bernie Sanders' inauguration mittens became a major meme in 2021.",
+      "correctAnswer": true,
+      "explanation": "A photo of Bernie sitting in mittens at Biden's 2021 inauguration spawned countless Photoshop memes.",
+      "points": 10
+    }
+  ]
+}
